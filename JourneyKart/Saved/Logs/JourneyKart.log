@@ -1357,3 +1357,11 @@ Scale3D: 1.000000 1.000000 1.000000
 [2022.01.27-13.11.27:147][300]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/Test_13881E82E41C24275165CEA9A91500180.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Content/Levels/Test_map/Test_1.umap'
 [2022.01.27-13.11.27:162][300]AssetCheck: New page: Asset Save: Test_1
 [2022.01.27-13.11.27:162][300]LogContentValidation: Display: Validating World /Game/Levels/Test_map/Test_1.Test_1
+[2022.01.27-13.29.06:654][700]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b3992993-6fe5-4ef4-88e3-015fda31e4e2}.
+[2022.01.27-13.29.06:654][700]LogAudioMixer: Resetting audio stream to device id 
+[2022.01.27-13.29.06:664][700]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.27-13.29.06:664][700]LogAudioMixer: Display: 1: FrontRight
+[2022.01.27-13.29.12:361][717]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{d4cd8aa0-577b-4bd5-a7e9-413f824a72e0}.
+[2022.01.27-13.29.12:361][717]LogAudioMixer: Resetting audio stream to device id 
+[2022.01.27-13.29.12:384][717]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.27-13.29.12:384][717]LogAudioMixer: Display: 1: FrontRight
