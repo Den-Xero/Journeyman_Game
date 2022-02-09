@@ -1047,3 +1047,523 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.09-14.47.25:650][ 57]LogEditorViewport: Clicking on Actor (LMB): Spline_Road_Floor_C (Spline_Road_Floor2)
 [2022.02.09-14.47.29:109][430]LogEditorViewport: Clicking on Actor (LMB): Spline_Road_Floor_C (Spline_Road_Floor3)
 [2022.02.09-14.47.44:016][165]LogEditorViewport: Clicking Background
+[2022.02.09-14.52.07:865][715]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2022.02.09-14.52.07:887][715]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2022.02.09-14.52.07:887][715]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2022.02.09-14.52.07:887][715]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2022.02.09-14.52.07:887][715]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.02.09-14.52.07:887][715]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2022.02.09-14.52.07:909][715]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2022.02.09-14.52.07:930][715]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2022.02.09-14.52.07:946][715]LogMaterial: Display: Missing cached shader map for material ColorMaskBrushMaterial, compiling. 
+[2022.02.09-14.52.07:962][715]LogMaterial: Display: Missing cached shader map for material LandscapeDirtyMaterial, compiling. 
+[2022.02.09-14.52.08:005][715]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2022.02.09-14.52.08:055][715]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2022.02.09-14.52.08:073][715]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2022.02.09-14.52.08:098][715]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2022.02.09-14.52.08:114][715]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2022.02.09-14.52.08:149][715]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2022.02.09-14.52.08:169][715]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2022.02.09-14.52.08:193][715]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 208
+[2022.02.09-14.52.08:193][715]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 198
+[2022.02.09-14.52.08:193][715]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 188
+[2022.02.09-14.52.08:193][715]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 178
+[2022.02.09-14.52.08:193][715]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2022.02.09-14.52.08:220][715]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2022.02.09-14.52.08:286][715]LogSlate: Took 0.001321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.09-14.52.09:002][735]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 208
+[2022.02.09-14.52.09:077][737]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 198
+[2022.02.09-14.52.09:226][743]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 188
+[2022.02.09-14.52.09:238][744]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 178
+[2022.02.09-14.52.12:633][863]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 168
+[2022.02.09-14.52.12:770][868]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 158
+[2022.02.09-14.52.12:923][873]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 148
+[2022.02.09-14.52.13:020][877]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 138
+[2022.02.09-14.52.14:166][916]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 128
+[2022.02.09-14.52.14:339][920]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 118
+[2022.02.09-14.52.14:579][927]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 108
+[2022.02.09-14.52.14:580][927]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 98
+[2022.02.09-14.52.16:113][982]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 88
+[2022.02.09-14.52.17:425][ 52]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 78
+[2022.02.09-14.52.17:735][ 64]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 68
+[2022.02.09-14.52.18:125][ 76]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 59
+[2022.02.09-14.52.18:376][ 88]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 51
+[2022.02.09-14.52.18:805][102]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 44
+[2022.02.09-14.52.19:024][110]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 38
+[2022.02.09-14.52.19:303][115]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 33
+[2022.02.09-14.52.20:307][150]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2022.02.09-14.52.21:279][196]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2022.02.09-14.52.21:312][197]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2022.02.09-14.52.21:483][199]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2022.02.09-14.52.21:574][200]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2022.02.09-14.52.21:959][211]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2022.02.09-14.52.22:105][218]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2022.02.09-14.52.22:124][220]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.02.09-14.52.22:194][223]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2022.02.09-14.52.22:349][229]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.02.09-14.52.22:438][231]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.02.09-14.52.22:724][241]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2022.02.09-14.52.22:736][242]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.02.09-14.52.22:780][243]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.02.09-14.52.49:996][442]Cmd: SELECT NONE
+[2022.02.09-14.52.53:112][798]Cmd: DELETE
+[2022.02.09-14.52.53:112][798]Cmd: ACTOR DELETE
+[2022.02.09-14.52.53:116][798]LogEditorActor: Deleted Actor: LandscapeGizmoActiveActor
+[2022.02.09-14.52.53:197][798]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2022.02.09-14.52.53:201][798]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2022.02.09-14.52.56:379][175]Cmd: TRANSACTION UNDO
+[2022.02.09-14.52.56:379][175]LogEditorTransaction: Undo Delete Actors
+[2022.02.09-14.52.56:867][188]Cmd: TRANSACTION UNDO
+[2022.02.09-14.52.56:867][188]LogEditorTransaction: Undo Clicking on Actors
+[2022.02.09-14.52.57:238][227]Cmd: TRANSACTION UNDO
+[2022.02.09-14.52.57:239][227]LogEditorTransaction: Undo Select None
+[2022.02.09-14.52.57:662][273]Cmd: TRANSACTION UNDO
+[2022.02.09-14.52.57:662][273]LogEditorTransaction: Undo Clicking Background
+[2022.02.09-14.52.58:052][313]Cmd: TRANSACTION UNDO
+[2022.02.09-14.52.58:052][313]LogEditorTransaction: Undo Move Actors
+[2022.02.09-14.52.58:505][362]Cmd: TRANSACTION UNDO
+[2022.02.09-14.52.58:505][362]LogEditorTransaction: Undo Move Actors
+[2022.02.09-14.53.03:062][891]Cmd: EDIT COPY
+[2022.02.09-14.53.03:378][920]Cmd: EDIT PASTE
+[2022.02.09-14.53.16:059][410]LogEditorViewport: Clicking Background
+[2022.02.09-14.53.24:154][361]LogActorFactory: Actor Factory created Cube
+[2022.02.09-14.53.24:497][401]LogActorFactory: Actor Factory created Cube
+[2022.02.09-14.53.27:101][712]Cmd: TRANSACTION UNDO
+[2022.02.09-14.53.27:101][712]LogEditorTransaction: Undo Create Actors
+[2022.02.09-14.53.30:753][ 84]LogEditorViewport: Clicking on Actor (LMB): Spline_Road_Floor_C (Spline_Road_Floor3)
+[2022.02.09-14.53.32:710][313]Cmd: EDIT COPY
+[2022.02.09-14.53.32:919][338]Cmd: EDIT PASTE
+[2022.02.09-14.53.36:076][680]LogEditorViewport: Clicking Background
+[2022.02.09-14.53.42:666][448]LogActorFactory: Actor Factory created Cube
+[2022.02.09-14.53.43:875][592]LogActorFactory: Actor Factory created Cube
+[2022.02.09-14.53.55:707][927]LogEditorViewport: Clicking on Actor (LMB): Spline_Road_Floor_C (Spline_Road_Floor4)
+[2022.02.09-14.53.58:865][289]LogEditorViewport: Clicking Background
+[2022.02.09-14.54.05:092][ 14]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/Deep_Dry_Drag_Race.Deep_Dry_Drag_Race:PersistentLevel.Cube_6.StaticMeshComponent0)
+[2022.02.09-14.54.05:101][ 15]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/Deep_Dry_Drag_Race.Deep_Dry_Drag_Race:PersistentLevel.Cube_6.StaticMeshComponent0)
+[2022.02.09-14.54.08:263][390]Cmd: TRANSACTION UNDO
+[2022.02.09-14.54.08:263][390]LogEditorTransaction: Undo Scale Actors
+[2022.02.09-14.54.18:065][491]LogEditorViewport: Clicking Background
+[2022.02.09-14.54.19:983][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.02.09-14.54.26:668][456]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2022.02.09-14.54.34:665][380]Cmd: TRANSACTION UNDO
+[2022.02.09-14.54.34:665][380]LogEditorTransaction: Undo Clicking on Actors
+[2022.02.09-14.54.35:232][400]Cmd: TRANSACTION UNDO
+[2022.02.09-14.54.35:232][400]LogEditorTransaction: Undo Clicking Background
+[2022.02.09-14.54.37:760][691]Cmd: TRANSACTION UNDO
+[2022.02.09-14.54.37:760][691]LogEditorTransaction: Undo Scale Actors
+[2022.02.09-14.55.14:386][980]Cmd: TRANSACTION UNDO
+[2022.02.09-14.55.14:386][980]LogEditorTransaction: Undo Move Actors
+[2022.02.09-14.55.15:508][ 55]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-14.55.15:512][ 55]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2022.02.09-14.55.16:167][ 55]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 92
+[2022.02.09-14.55.16:167][ 55]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 91
+[2022.02.09-14.55.16:167][ 55]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 90
+[2022.02.09-14.55.16:167][ 55]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 89
+[2022.02.09-14.55.16:167][ 55]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 88
+[2022.02.09-14.55.16:167][ 55]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 87
+[2022.02.09-14.55.16:167][ 55]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 86
+[2022.02.09-14.55.16:169][ 55]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 85
+[2022.02.09-14.55.16:785][ 55]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 84
+[2022.02.09-14.55.16:785][ 55]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 83
+[2022.02.09-14.55.16:785][ 55]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 82
+[2022.02.09-14.55.16:785][ 55]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 81
+[2022.02.09-14.55.16:785][ 55]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 80
+[2022.02.09-14.55.17:442][ 55]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 79
+[2022.02.09-14.55.17:442][ 55]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 78
+[2022.02.09-14.55.17:442][ 55]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 77
+[2022.02.09-14.55.17:442][ 55]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 76
+[2022.02.09-14.55.17:442][ 55]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 75
+[2022.02.09-14.55.17:442][ 55]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 74
+[2022.02.09-14.55.17:442][ 55]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 73
+[2022.02.09-14.55.17:442][ 55]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 72
+[2022.02.09-14.55.17:442][ 55]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 71
+[2022.02.09-14.55.17:442][ 55]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 70
+[2022.02.09-14.55.17:442][ 55]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 69
+[2022.02.09-14.55.17:442][ 55]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 68
+[2022.02.09-14.55.18:010][ 55]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 67
+[2022.02.09-14.55.18:010][ 55]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 66
+[2022.02.09-14.55.18:010][ 55]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 65
+[2022.02.09-14.55.18:010][ 55]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 64
+[2022.02.09-14.55.18:010][ 55]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 63
+[2022.02.09-14.55.18:010][ 55]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 62
+[2022.02.09-14.55.18:010][ 55]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 61
+[2022.02.09-14.55.18:010][ 55]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 60
+[2022.02.09-14.55.18:570][ 55]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 59
+[2022.02.09-14.55.18:570][ 55]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 58
+[2022.02.09-14.55.18:570][ 55]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 57
+[2022.02.09-14.55.18:570][ 55]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 56
+[2022.02.09-14.55.18:570][ 55]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 55
+[2022.02.09-14.55.18:570][ 55]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 54
+[2022.02.09-14.55.18:570][ 55]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 53
+[2022.02.09-14.55.18:570][ 55]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 52
+[2022.02.09-14.55.18:570][ 55]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 51
+[2022.02.09-14.55.18:570][ 55]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 50
+[2022.02.09-14.55.18:570][ 55]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 49
+[2022.02.09-14.55.19:131][ 55]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 48
+[2022.02.09-14.55.19:131][ 55]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 47
+[2022.02.09-14.55.19:131][ 55]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 46
+[2022.02.09-14.55.19:131][ 55]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 45
+[2022.02.09-14.55.19:131][ 55]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 44
+[2022.02.09-14.55.19:131][ 55]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 43
+[2022.02.09-14.55.19:131][ 55]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 42
+[2022.02.09-14.55.19:131][ 55]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 41
+[2022.02.09-14.55.19:691][ 55]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 40
+[2022.02.09-14.55.19:691][ 55]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 39
+[2022.02.09-14.55.19:691][ 55]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 38
+[2022.02.09-14.55.19:691][ 55]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 37
+[2022.02.09-14.55.19:691][ 55]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 36
+[2022.02.09-14.55.19:691][ 55]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 35
+[2022.02.09-14.55.19:691][ 55]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2022.02.09-14.55.19:691][ 55]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 33
+[2022.02.09-14.55.19:691][ 55]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 32
+[2022.02.09-14.55.19:691][ 55]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 31
+[2022.02.09-14.55.19:691][ 55]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 30
+[2022.02.09-14.55.19:691][ 55]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 29
+[2022.02.09-14.55.19:691][ 55]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2022.02.09-14.55.20:250][ 55]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2022.02.09-14.55.20:250][ 55]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2022.02.09-14.55.20:250][ 55]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2022.02.09-14.55.20:250][ 55]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2022.02.09-14.55.20:250][ 55]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2022.02.09-14.55.20:250][ 55]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2022.02.09-14.55.20:250][ 55]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2022.02.09-14.55.20:250][ 55]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2022.02.09-14.55.20:250][ 55]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2022.02.09-14.55.20:809][ 55]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2022.02.09-14.55.20:809][ 55]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2022.02.09-14.55.20:809][ 55]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2022.02.09-14.55.20:809][ 55]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2022.02.09-14.55.20:809][ 55]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2022.02.09-14.55.20:809][ 55]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2022.02.09-14.55.20:809][ 55]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2022.02.09-14.55.20:809][ 55]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2022.02.09-14.55.20:809][ 55]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2022.02.09-14.55.20:809][ 55]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2022.02.09-14.55.21:369][ 55]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2022.02.09-14.55.21:369][ 55]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2022.02.09-14.55.21:369][ 55]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2022.02.09-14.55.21:369][ 55]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2022.02.09-14.55.21:369][ 55]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.02.09-14.55.21:369][ 55]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2022.02.09-14.55.21:369][ 55]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.02.09-14.55.21:369][ 55]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.09-14.55.27:439][707]Cmd: TRANSACTION UNDO
+[2022.02.09-14.55.27:439][707]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.02.09-14.55.27:825][718]Cmd: TRANSACTION UNDO
+[2022.02.09-14.55.27:825][718]LogEditorTransaction: Undo Creating New Landscape
+[2022.02.09-14.55.34:173][446]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-14.55.53:276][629]Cmd: TRANSACTION UNDO
+[2022.02.09-14.55.53:276][629]LogEditorTransaction: Undo Landscape Editing: Noise
+[2022.02.09-14.55.53:285][629]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-14.56.18:835][494]Cmd: TRANSACTION UNDO
+[2022.02.09-14.56.18:835][494]LogEditorTransaction: Undo Landscape Editing: Noise
+[2022.02.09-14.56.18:843][494]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-14.56.22:194][845]Cmd: TRANSACTION UNDO
+[2022.02.09-14.56.22:194][845]LogEditorTransaction: Undo Landscape Editing: Noise
+[2022.02.09-14.56.26:410][296]Cmd: TRANSACTION UNDO
+[2022.02.09-14.56.26:410][296]LogEditorTransaction: Undo Landscape Editing: Noise
+[2022.02.09-14.56.26:418][296]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-14.56.36:390][410]Cmd: TRANSACTION UNDO
+[2022.02.09-14.56.36:390][410]LogEditorTransaction: Undo Landscape Editing: Noise
+[2022.02.09-14.56.40:945][845]Cmd: TRANSACTION UNDO
+[2022.02.09-14.56.40:945][845]LogEditorTransaction: Undo Landscape Editing: Noise
+[2022.02.09-14.56.40:955][845]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-14.56.41:504][865]Cmd: TRANSACTION UNDO
+[2022.02.09-14.56.41:504][865]LogEditorTransaction: Undo Landscape Editing: Noise
+[2022.02.09-14.56.41:509][865]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-14.56.44:088][168]Cmd: DELETE
+[2022.02.09-14.56.44:088][168]Cmd: ACTOR DELETE
+[2022.02.09-14.56.44:094][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.09-14.56.44:121][168]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.02.09-14.56.44:128][168]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2022.02.09-14.57.24:732][840]Cmd: TRANSACTION UNDO
+[2022.02.09-14.57.24:732][840]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.02.09-14.57.24:748][840]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-14.57.36:681][180]LogEditorViewport: Clicking on Actor (LMB): Spline_Road_Floor_C (Spline_Road_Floor)
+[2022.02.09-14.57.39:734][508]LogEditorViewport: Clicking on Actor (LMB): Spline_Road_Floor_C (Spline_Road_Floor2)
+[2022.02.09-14.57.40:086][546]Cmd: DELETE
+[2022.02.09-14.57.40:086][546]Cmd: ACTOR DELETE
+[2022.02.09-14.57.40:092][546]LogEditorActor: Deleted Actor: Spline_Road_Floor_C
+[2022.02.09-14.57.40:110][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.02.09-14.57.40:118][546]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2022.02.09-14.57.41:722][730]LogEditorViewport: Clicking on Actor (LMB): Spline_Road_Floor_C (Spline_Road_Floor)
+[2022.02.09-14.57.47:505][353]LogEditorViewport: Clicking on Actor (LMB): Spline_Road_Floor_C (Spline_Road_Floor3)
+[2022.02.09-14.57.47:916][399]Cmd: DELETE
+[2022.02.09-14.57.47:916][399]Cmd: ACTOR DELETE
+[2022.02.09-14.57.47:922][399]LogEditorActor: Deleted Actor: Spline_Road_Floor_C
+[2022.02.09-14.57.47:942][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.02.09-14.57.47:945][399]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2022.02.09-14.57.49:031][529]LogEditorViewport: Clicking on Actor (LMB): Spline_Road_Floor_C (Spline_Road_Floor)
+[2022.02.09-14.57.50:014][642]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2022.02.09-14.57.54:198][101]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (GoKart_Matrav2)
+[2022.02.09-14.57.56:693][373]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2022.02.09-14.57.57:985][522]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.02.09-14.57.58:271][555]LogEditorViewport: Clicking on Actor (LMB): Spline_Road_Floor_C (Spline_Road_Floor)
+[2022.02.09-14.58.04:498][267]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (GoKart_Matrav2)
+[2022.02.09-14.58.11:364][ 67]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.02.09-14.58.12:415][190]LogEditorViewport: Clicking Background
+[2022.02.09-14.59.00:838][456]Cmd: TRANSACTION UNDO
+[2022.02.09-14.59.00:838][456]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.02.09-14.59.00:844][456]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.00.07:895][153]Cmd: TRANSACTION UNDO
+[2022.02.09-15.00.07:896][153]LogEditorTransaction: Undo Landscape Editing: Noise
+[2022.02.09-15.00.07:906][153]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.00.26:472][215]Cmd: TRANSACTION UNDO
+[2022.02.09-15.00.26:472][215]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.02.09-15.00.26:480][215]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.00.26:826][225]Cmd: TRANSACTION UNDO
+[2022.02.09-15.00.26:826][225]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.02.09-15.00.26:843][225]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.00.27:152][246]Cmd: TRANSACTION UNDO
+[2022.02.09-15.00.27:152][246]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.02.09-15.00.27:166][246]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.00.28:737][430]Cmd: TRANSACTION UNDO
+[2022.02.09-15.00.28:737][430]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.02.09-15.00.28:748][430]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.00.31:557][761]Cmd: TRANSACTION UNDO
+[2022.02.09-15.00.31:557][761]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.02.09-15.00.57:992][810]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2022.02.09-15.00.58:003][810]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2022.02.09-15.00.58:015][810]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2022.02.09-15.00.58:028][810]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2022.02.09-15.01.01:239][ 57]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2022.02.09-15.01.01:337][ 61]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2022.02.09-15.01.18:896][125]Cmd: TRANSACTION UNDO
+[2022.02.09-15.01.18:896][125]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.02.09-15.01.18:976][125]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2022.02.09-15.01.18:976][125]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2022.02.09-15.01.18:977][125]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.01.33:621][808]Cmd: TRANSACTION UNDO
+[2022.02.09-15.01.33:621][808]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.02.09-15.01.34:208][830]Cmd: TRANSACTION UNDO
+[2022.02.09-15.01.34:208][830]LogEditorTransaction: Undo Landscape Editing: Retopologize
+[2022.02.09-15.01.34:229][830]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.03.23:063][730]LogEditorViewport: Clicking on Actor (LMB): Spline_Road_Floor_C (Spline_Road_Floor3)
+[2022.02.09-15.03.30:724][640]LogEditorViewport: Clicking on Actor (LMB): Spline_Road_Floor_C (Spline_Road_Floor4)
+[2022.02.09-15.03.59:356][ 12]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.02.09-15.04.03:766][440]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.02.09-15.04.09:501][ 88]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.02.09-15.04.12:452][406]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.02.09-15.04.13:802][525]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.02.09-15.04.18:767][ 16]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.02.09-15.04.20:705][203]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.02.09-15.04.22:861][448]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.02.09-15.04.23:878][567]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.02.09-15.04.24:343][621]LogEditorViewport: Clicking Background
+[2022.02.09-15.04.47:729][389]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2022.02.09-15.04.47:731][389]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2022.02.09-15.04.47:732][389]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2022.02.09-15.04.47:734][389]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2022.02.09-15.04.47:734][389]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2022.02.09-15.04.47:736][389]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2022.02.09-15.04.47:737][389]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2022.02.09-15.04.47:738][389]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2022.02.09-15.04.47:739][389]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2022.02.09-15.04.47:741][389]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2022.02.09-15.04.47:742][389]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2022.02.09-15.04.47:744][389]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2022.02.09-15.04.47:745][389]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2022.02.09-15.04.47:747][389]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2022.02.09-15.04.47:747][389]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2022.02.09-15.04.47:749][389]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2022.02.09-15.04.47:750][389]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2022.02.09-15.04.47:752][389]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2022.02.09-15.04.47:752][389]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2022.02.09-15.04.47:754][389]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2022.02.09-15.04.47:754][389]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2022.02.09-15.04.47:756][389]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2022.02.09-15.04.47:757][389]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2022.02.09-15.04.47:758][389]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2022.02.09-15.04.47:759][389]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2022.02.09-15.04.47:760][389]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2022.02.09-15.04.47:761][389]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2022.02.09-15.04.47:762][389]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2022.02.09-15.04.47:763][389]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2022.02.09-15.04.47:765][389]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2022.02.09-15.04.47:765][389]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2022.02.09-15.04.47:767][389]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2022.02.09-15.04.47:767][389]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2022.02.09-15.04.47:769][389]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2022.02.09-15.04.47:769][389]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2022.02.09-15.04.47:771][389]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2022.02.09-15.04.47:772][389]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2022.02.09-15.04.47:773][389]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2022.02.09-15.04.47:774][389]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2022.02.09-15.04.47:775][389]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2022.02.09-15.04.47:776][389]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2022.02.09-15.04.47:778][389]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2022.02.09-15.04.47:779][389]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2022.02.09-15.04.47:781][389]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2022.02.09-15.04.47:781][389]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2022.02.09-15.04.47:783][389]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2022.02.09-15.04.47:784][389]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2022.02.09-15.04.47:785][389]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2022.02.09-15.04.47:786][389]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2022.02.09-15.04.47:788][389]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2022.02.09-15.04.47:788][389]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2022.02.09-15.04.47:790][389]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2022.02.09-15.04.47:791][389]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2022.02.09-15.04.47:792][389]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2022.02.09-15.04.47:793][389]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2022.02.09-15.04.47:795][389]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2022.02.09-15.04.47:795][389]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2022.02.09-15.04.47:797][389]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2022.02.09-15.04.47:797][389]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2022.02.09-15.04.47:798][389]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2022.02.09-15.04.47:799][389]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2022.02.09-15.04.47:800][389]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2022.02.09-15.04.47:801][389]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2022.02.09-15.04.47:803][389]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2022.02.09-15.04.47:803][389]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2022.02.09-15.04.47:805][389]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2022.02.09-15.04.47:805][389]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2022.02.09-15.04.47:807][389]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2022.02.09-15.04.47:807][389]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2022.02.09-15.04.47:809][389]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2022.02.09-15.04.47:809][389]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2022.02.09-15.04.47:811][389]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2022.02.09-15.04.47:812][389]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2022.02.09-15.04.47:814][389]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2022.02.09-15.04.47:814][389]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2022.02.09-15.04.47:816][389]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2022.02.09-15.04.47:817][389]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2022.02.09-15.04.47:818][389]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2022.02.09-15.04.47:818][389]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2022.02.09-15.04.47:820][389]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2022.02.09-15.04.47:820][389]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2022.02.09-15.04.47:823][389]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2022.02.09-15.04.47:823][389]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2022.02.09-15.04.47:825][389]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2022.02.09-15.04.47:825][389]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2022.02.09-15.04.47:827][389]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2022.02.09-15.04.47:827][389]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2022.02.09-15.04.47:829][389]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2022.02.09-15.04.47:830][389]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2022.02.09-15.04.47:831][389]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2022.02.09-15.04.47:832][389]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2022.02.09-15.04.47:834][389]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2022.02.09-15.04.47:834][389]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2022.02.09-15.04.47:836][389]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2022.02.09-15.04.47:837][389]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2022.02.09-15.04.47:838][389]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2022.02.09-15.04.47:838][389]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2022.02.09-15.04.47:840][389]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2022.02.09-15.04.47:841][389]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 64X64)
+[2022.02.09-15.04.47:843][389]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 64X64)
+[2022.02.09-15.04.47:843][389]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 64X64)
+[2022.02.09-15.04.47:845][389]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 64X64)
+[2022.02.09-15.04.47:846][389]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 64X64)
+[2022.02.09-15.04.47:848][389]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 64X64)
+[2022.02.09-15.04.47:848][389]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 64X64)
+[2022.02.09-15.04.47:850][389]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 64X64)
+[2022.02.09-15.04.47:851][389]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 64X64)
+[2022.02.09-15.04.47:852][389]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 64X64)
+[2022.02.09-15.04.47:853][389]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 64X64)
+[2022.02.09-15.04.47:854][389]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 64X64)
+[2022.02.09-15.04.47:855][389]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 64X64)
+[2022.02.09-15.04.47:857][389]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 64X64)
+[2022.02.09-15.04.47:857][389]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2022.02.09-15.04.47:858][389]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2022.02.09-15.04.47:859][389]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2022.02.09-15.04.47:861][389]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2022.02.09-15.04.47:861][389]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 64X64)
+[2022.02.09-15.04.47:862][389]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 64X64)
+[2022.02.09-15.04.47:863][389]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 64X64)
+[2022.02.09-15.04.47:864][389]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 64X64)
+[2022.02.09-15.04.47:865][389]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 64X64)
+[2022.02.09-15.04.47:866][389]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 64X64)
+[2022.02.09-15.04.47:867][389]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 64X64)
+[2022.02.09-15.04.47:868][389]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 64X64)
+[2022.02.09-15.04.47:869][389]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 64X64)
+[2022.02.09-15.04.47:870][389]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 64X64)
+[2022.02.09-15.04.47:871][389]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 64X64)
+[2022.02.09-15.04.47:872][389]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 64X64)
+[2022.02.09-15.04.52:379][919]Cmd: TRANSACTION UNDO
+[2022.02.09-15.04.52:379][919]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2022.02.09-15.04.52:519][919]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.05.05:213][394]Cmd: TRANSACTION UNDO
+[2022.02.09-15.05.05:213][394]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.02.09-15.05.45:593][ 61]Cmd: TRANSACTION UNDO
+[2022.02.09-15.05.45:593][ 61]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.02.09-15.05.45:603][ 61]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.05.46:158][ 80]Cmd: TRANSACTION UNDO
+[2022.02.09-15.05.46:159][ 80]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.02.09-15.05.46:170][ 80]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.05.46:687][139]Cmd: TRANSACTION UNDO
+[2022.02.09-15.05.46:687][139]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.02.09-15.05.46:699][139]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.05.48:273][323]Cmd: TRANSACTION UNDO
+[2022.02.09-15.05.48:273][323]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.02.09-15.05.48:289][323]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.06.14:676][414]Cmd: TRANSACTION UNDO
+[2022.02.09-15.06.14:676][414]LogEditorTransaction: Undo Landscape Editing: Noise
+[2022.02.09-15.06.14:692][414]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.07.56:842][294]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.02.09-15.07.56:859][294]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.07.57:004][294]LogSavePackage: Moving '../../../../../../Users/a0052779/OneDrive - Teesside University/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/Deep_Dry_Drag_Race377D2C31470958835A3B859D029E6D26.tmp' to '../../../../../../Users/a0052779/OneDrive - Teesside University/Documents/GitHub/Journeyman_Game/JourneyKart/Content/Levels/Deep_Dry_Drag_Race.umap'
+[2022.02.09-15.07.57:016][294]LogFileHelpers: No new changes to save!
+[2022.02.09-15.07.57:031][294]AssetCheck: New page: Asset Save: Deep_Dry_Drag_Race
+[2022.02.09-15.07.57:031][294]LogContentValidation: Display: Validating World /Game/Levels/Deep_Dry_Drag_Race.Deep_Dry_Drag_Race
+[2022.02.09-15.08.26:870][853]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.02.09-15.08.27:032][853]LogSavePackage: Moving '../../../../../../Users/a0052779/OneDrive - Teesside University/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/Deep_Dry_Drag_Race61C24D0B4D9F4847D00715AFF7DDCE70.tmp' to '../../../../../../Users/a0052779/OneDrive - Teesside University/Documents/GitHub/Journeyman_Game/JourneyKart/Content/Levels/Deep_Dry_Drag_Race.umap'
+[2022.02.09-15.08.27:039][853]LogFileHelpers: No new changes to save!
+[2022.02.09-15.08.27:052][853]AssetCheck: New page: Asset Save: Deep_Dry_Drag_Race
+[2022.02.09-15.08.27:052][853]LogContentValidation: Display: Validating World /Game/Levels/Deep_Dry_Drag_Race.Deep_Dry_Drag_Race
+[2022.02.09-15.08.53:153][941]Cmd: TRANSACTION UNDO
+[2022.02.09-15.08.53:153][941]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.02.09-15.09.04:330][199]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/Deep_Dry_Drag_Race.Deep_Dry_Drag_Race:PersistentLevel.Landscape_1.StaticMeshComponent_2)
+[2022.02.09-15.09.04:337][199]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/Deep_Dry_Drag_Race.Deep_Dry_Drag_Race:PersistentLevel.Landscape_1.StaticMeshComponent_2)
+[2022.02.09-15.09.04:341][200]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/Deep_Dry_Drag_Race.Deep_Dry_Drag_Race:PersistentLevel.Landscape_1.StaticMeshComponent_2)
+[2022.02.09-15.09.04:350][201]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/Deep_Dry_Drag_Race.Deep_Dry_Drag_Race:PersistentLevel.Landscape_1.StaticMeshComponent_2)
+[2022.02.09-15.09.04:358][202]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/Deep_Dry_Drag_Race.Deep_Dry_Drag_Race:PersistentLevel.Landscape_1.StaticMeshComponent_2)
+[2022.02.09-15.09.04:374][204]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/Deep_Dry_Drag_Race.Deep_Dry_Drag_Race:PersistentLevel.Landscape_1.StaticMeshComponent_2)
+[2022.02.09-15.09.11:041][968]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/Deep_Dry_Drag_Race.Deep_Dry_Drag_Race:PersistentLevel.Landscape_1.StaticMeshComponent_2)
+[2022.02.09-15.09.11:052][969]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/Deep_Dry_Drag_Race.Deep_Dry_Drag_Race:PersistentLevel.Landscape_1.StaticMeshComponent_2)
+[2022.02.09-15.09.11:073][971]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/Deep_Dry_Drag_Race.Deep_Dry_Drag_Race:PersistentLevel.Landscape_1.StaticMeshComponent_2)
+[2022.02.09-15.09.11:083][972]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/Deep_Dry_Drag_Race.Deep_Dry_Drag_Race:PersistentLevel.Landscape_1.StaticMeshComponent_2)
+[2022.02.09-15.09.11:092][973]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/Deep_Dry_Drag_Race.Deep_Dry_Drag_Race:PersistentLevel.Landscape_1.StaticMeshComponent_2)
+[2022.02.09-15.09.11:100][974]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/Deep_Dry_Drag_Race.Deep_Dry_Drag_Race:PersistentLevel.Landscape_1.StaticMeshComponent_2)
+[2022.02.09-15.09.11:128][977]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/Deep_Dry_Drag_Race.Deep_Dry_Drag_Race:PersistentLevel.Landscape_1.StaticMeshComponent_2)
+[2022.02.09-15.09.11:465][ 16]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/Deep_Dry_Drag_Race.Deep_Dry_Drag_Race:PersistentLevel.Landscape_1.StaticMeshComponent_2)
+[2022.02.09-15.09.15:398][457]Cmd: TRANSACTION UNDO
+[2022.02.09-15.09.15:398][457]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.02.09-15.09.15:413][457]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.09.24:061][411]Cmd: TRANSACTION UNDO
+[2022.02.09-15.09.24:061][411]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.02.09-15.09.24:445][421]Cmd: TRANSACTION UNDO
+[2022.02.09-15.09.24:445][421]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.02.09-15.09.24:463][421]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.10.54:703][ 22]Cmd: TRANSACTION UNDO
+[2022.02.09-15.10.54:704][ 22]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.02.09-15.10.54:729][ 22]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.10.54:989][ 29]Cmd: TRANSACTION UNDO
+[2022.02.09-15.10.54:989][ 29]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.02.09-15.10.55:020][ 29]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.10.55:363][ 51]Cmd: TRANSACTION UNDO
+[2022.02.09-15.10.55:363][ 51]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.02.09-15.10.55:387][ 51]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.10.56:652][197]Cmd: TRANSACTION UNDO
+[2022.02.09-15.10.56:652][197]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.02.09-15.10.56:676][197]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.10.57:052][233]Cmd: TRANSACTION UNDO
+[2022.02.09-15.10.57:052][233]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.02.09-15.10.57:068][233]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.11.11:553][937]Cmd: TRANSACTION UNDO
+[2022.02.09-15.11.11:553][937]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.02.09-15.12.02:470][918]Cmd: TRANSACTION UNDO
+[2022.02.09-15.12.02:470][918]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.02.09-15.12.02:486][918]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.12.44:426][824]Cmd: TRANSACTION UNDO
+[2022.02.09-15.12.44:426][824]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.02.09-15.12.44:445][824]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.14.45:202][176]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.02.09-15.14.45:217][176]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.09-15.14.45:363][176]LogSavePackage: Moving '../../../../../../Users/a0052779/OneDrive - Teesside University/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/Deep_Dry_Drag_Race6A330B374B8467C679830D9D01670957.tmp' to '../../../../../../Users/a0052779/OneDrive - Teesside University/Documents/GitHub/Journeyman_Game/JourneyKart/Content/Levels/Deep_Dry_Drag_Race.umap'
+[2022.02.09-15.14.45:371][176]LogFileHelpers: No new changes to save!
+[2022.02.09-15.14.45:383][176]AssetCheck: New page: Asset Save: Deep_Dry_Drag_Race
+[2022.02.09-15.14.45:383][176]LogContentValidation: Display: Validating World /Game/Levels/Deep_Dry_Drag_Race.Deep_Dry_Drag_Race
+[2022.02.09-15.15.16:794][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.02.09-15.15.16:944][930]LogSavePackage: Moving '../../../../../../Users/a0052779/OneDrive - Teesside University/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/Deep_Dry_Drag_Race303E6C464892416000854C8F38480614.tmp' to '../../../../../../Users/a0052779/OneDrive - Teesside University/Documents/GitHub/Journeyman_Game/JourneyKart/Content/Levels/Deep_Dry_Drag_Race.umap'
+[2022.02.09-15.15.16:952][930]LogFileHelpers: No new changes to save!
+[2022.02.09-15.15.16:964][930]AssetCheck: New page: Asset Save: Deep_Dry_Drag_Race
+[2022.02.09-15.15.16:964][930]LogContentValidation: Display: Validating World /Game/Levels/Deep_Dry_Drag_Race.Deep_Dry_Drag_Race
