@@ -11,10 +11,6 @@
 		{
 			"Name": "RawInput",
 			"Enabled": true
-		},
-		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
 		}
 	]
 }
