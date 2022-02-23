@@ -3593,3 +3593,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.23-12.25.09:538][225]LogFileHelpers: No new changes to save!
 [2022.02.23-12.25.09:557][225]AssetCheck: New page: Asset Save: BaseMap
 [2022.02.23-12.25.09:557][225]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/BaseMap.BaseMap
+[2022.02.23-12.29.51:509][ 83]LogEditorViewport: Clicking on Actor (LMB): EasyRoad_C (EasyRoad12)
+[2022.02.23-12.29.51:932][129]Cmd: DELETE
+[2022.02.23-12.29.51:932][129]Cmd: ACTOR DELETE
+[2022.02.23-12.29.52:174][129]LogEditorActor: Deleted Actor: EasyRoad_C
+[2022.02.23-12.29.52:181][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.02.23-12.29.52:183][129]LogEditorActor: Deleted 1 Actors (0.014 secs)
