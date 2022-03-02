@@ -2425,3 +2425,107 @@ Scale3D: 1.000000 1.000000 1.000000
 [2022.03.02-12.22.46:663][347]LogFileHelpers: No new changes to save!
 [2022.03.02-12.22.46:676][347]AssetCheck: New page: Asset Save: BaseMap
 [2022.03.02-12.22.46:676][347]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/BaseMap.BaseMap
+[2022.03.02-12.23.22:179][ 43]Cmd: EDIT COPY
+[2022.03.02-12.23.22:455][ 71]Cmd: EDIT PASTE
+[2022.03.02-12.23.47:586][704]Cmd: TRANSACTION UNDO
+[2022.03.02-12.23.47:586][704]LogEditorTransaction: Undo Rotate Actors
+[2022.03.02-12.23.48:490][759]Cmd: TRANSACTION UNDO
+[2022.03.02-12.23.48:490][759]LogEditorTransaction: Undo Move Actors
+[2022.03.02-12.23.48:899][799]Cmd: TRANSACTION UNDO
+[2022.03.02-12.23.48:899][799]LogEditorTransaction: Undo Drop Actors
+[2022.03.02-12.24.29:634][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.03.02-12.24.30:229][230]LogSavePackage: Moving '../../../../../../Users/a0052779/OneDrive - Teesside University/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/BaseMapADC024CF4CCE2BE6702548B98A1083F3.tmp' to '../../../../../../Users/a0052779/OneDrive - Teesside University/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/BaseMap.umap'
+[2022.03.02-12.24.30:238][230]LogFileHelpers: No new changes to save!
+[2022.03.02-12.24.30:251][230]AssetCheck: New page: Asset Save: BaseMap
+[2022.03.02-12.24.30:251][230]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/BaseMap.BaseMap
+[2022.03.02-12.25.56:183][973]LogContentBrowser: Deferred new asset file creation: NewLevelSequence
+[2022.03.02-12.25.56:193][973]LogContentBrowser: Creating deferred item: NewLevelSequence
+[2022.03.02-12.26.02:820][764]LogContentBrowser: Attempting asset rename: NewLevelSequence -> Pteradactle2
+[2022.03.02-12.26.02:821][764]LogContentBrowser: End creating deferred item NewLevelSequence
+[2022.03.02-12.26.04:623][976]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/VehicleBP/LevelDecoratingAssets/Ryans_stuff/Pteradactle2.Pteradactle2
+[2022.03.02-12.26.19:932][606]Cmd: TRANSACTION UNDO
+[2022.03.02-12.26.19:932][606]LogEditorTransaction: Undo Move Actors
+[2022.03.02-12.27.42:568][165]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.03.02-12.27.43:529][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Import_1_pCube12)
+[2022.03.02-12.28.23:382][483]Cmd: TRANSACTION UNDO
+[2022.03.02-12.28.23:382][483]LogEditorTransaction: Undo Add Keys at Current Time
+[2022.03.02-12.29.42:951][991]Cmd: TRANSACTION UNDO
+[2022.03.02-12.29.42:951][991]LogEditorTransaction: Undo Move Keys or Sections
+[2022.03.02-12.30.14:142][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Import_1_pCube12)
+[2022.03.02-12.30.24:908][361]Cmd: TRANSACTION UNDO
+[2022.03.02-12.30.24:908][361]LogEditorTransaction: Undo Add Keys at Current Time
+[2022.03.02-12.30.25:680][403]Cmd: TRANSACTION UNDO
+[2022.03.02-12.30.25:680][403]LogEditorTransaction: Undo Move Keys or Sections
+[2022.03.02-12.30.26:089][446]Cmd: TRANSACTION UNDO
+[2022.03.02-12.30.26:089][446]LogEditorTransaction: Undo Paste Keys
+[2022.03.02-12.30.27:364][582]Cmd: TRANSACTION UNDO
+[2022.03.02-12.30.27:365][582]LogEditorTransaction: Undo Rotate Actors
+[2022.03.02-12.30.27:780][626]Cmd: TRANSACTION UNDO
+[2022.03.02-12.30.27:780][626]LogEditorTransaction: Undo Add Keys at Current Time
+[2022.03.02-12.30.46:626][606]Cmd: TRANSACTION UNDO
+[2022.03.02-12.30.46:626][606]LogEditorTransaction: Undo Move Actors
+[2022.03.02-12.30.47:049][619]Cmd: TRANSACTION UNDO
+[2022.03.02-12.30.47:049][619]LogEditorTransaction: Undo Rotate Actors
+[2022.03.02-12.30.47:398][648]Cmd: TRANSACTION UNDO
+[2022.03.02-12.30.47:399][648]LogEditorTransaction: Undo Move Actors
+[2022.03.02-12.30.47:721][682]Cmd: TRANSACTION UNDO
+[2022.03.02-12.30.47:721][682]LogEditorTransaction: Undo Rotate Actors
+[2022.03.02-12.30.48:068][718]Cmd: TRANSACTION UNDO
+[2022.03.02-12.30.48:068][718]LogEditorTransaction: Undo Rotate Actors
+[2022.03.02-12.30.48:632][779]Cmd: TRANSACTION UNDO
+[2022.03.02-12.30.48:632][779]LogEditorTransaction: Undo Move Actors
+[2022.03.02-12.30.49:048][823]Cmd: TRANSACTION UNDO
+[2022.03.02-12.30.49:049][823]LogEditorTransaction: Undo Add Keys at Current Time
+[2022.03.02-12.30.50:233][950]Cmd: TRANSACTION UNDO
+[2022.03.02-12.30.50:233][950]LogEditorTransaction: Undo Move Actors
+[2022.03.02-12.30.50:704][  1]Cmd: TRANSACTION UNDO
+[2022.03.02-12.30.50:704][  1]LogEditorTransaction: Undo Move Actors
+[2022.03.02-12.30.51:121][ 45]Cmd: TRANSACTION UNDO
+[2022.03.02-12.30.51:121][ 45]LogEditorTransaction: Undo Rotate Actors
+[2022.03.02-12.30.51:539][ 89]Cmd: TRANSACTION UNDO
+[2022.03.02-12.30.51:539][ 89]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.02-12.31.05:526][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Import_1_pCube12)
+[2022.03.02-12.31.43:922][600]Cmd: TRANSACTION UNDO
+[2022.03.02-12.31.43:922][600]LogEditorTransaction: Undo Add Keys at Current Time
+[2022.03.02-12.31.44:314][611]Cmd: TRANSACTION UNDO
+[2022.03.02-12.31.44:314][611]LogEditorTransaction: Undo Move Actors
+[2022.03.02-12.32.06:060][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Import_1_pCube12)
+[2022.03.02-12.32.31:675][628]Cmd: TRANSACTION UNDO
+[2022.03.02-12.32.31:676][628]LogEditorTransaction: Undo Add Keys at Current Time
+[2022.03.02-12.32.32:038][638]Cmd: TRANSACTION UNDO
+[2022.03.02-12.32.32:038][638]LogEditorTransaction: Undo Move Actors
+[2022.03.02-12.32.32:373][669]Cmd: TRANSACTION UNDO
+[2022.03.02-12.32.32:373][669]LogEditorTransaction: Undo Rotate Actors
+[2022.03.02-12.32.32:704][702]Cmd: TRANSACTION UNDO
+[2022.03.02-12.32.32:704][702]LogEditorTransaction: Undo Move Actors
+[2022.03.02-12.32.33:041][738]Cmd: TRANSACTION UNDO
+[2022.03.02-12.32.33:041][738]LogEditorTransaction: Undo Rotate Actors
+[2022.03.02-12.32.33:336][768]Cmd: TRANSACTION UNDO
+[2022.03.02-12.32.33:336][768]LogEditorTransaction: Undo Add Keys at Current Time
+[2022.03.02-12.32.33:661][800]Cmd: TRANSACTION UNDO
+[2022.03.02-12.32.33:661][800]LogEditorTransaction: Undo Move Actors
+[2022.03.02-12.32.33:975][832]Cmd: TRANSACTION UNDO
+[2022.03.02-12.32.33:975][832]LogEditorTransaction: Undo Rotate Actors
+[2022.03.02-12.32.34:344][871]Cmd: TRANSACTION UNDO
+[2022.03.02-12.32.34:344][871]LogEditorTransaction: Undo Rotate Actors
+[2022.03.02-12.32.34:719][912]Cmd: TRANSACTION UNDO
+[2022.03.02-12.32.34:719][912]LogEditorTransaction: Undo Add Keys at Current Time
+[2022.03.02-12.32.50:319][550]Cmd: TRANSACTION UNDO
+[2022.03.02-12.32.50:319][550]LogEditorTransaction: Undo Move Actors
+[2022.03.02-12.33.23:017][955]Cmd: TRANSACTION UNDO
+[2022.03.02-12.33.23:017][955]LogEditorTransaction: Undo Move Actors
+[2022.03.02-12.33.40:826][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Import_1_pCube12)
+[2022.03.02-12.33.43:798][124]Cmd: EDIT COPY
+[2022.03.02-12.33.44:070][152]Cmd: EDIT PASTE
+[2022.03.02-12.33.51:558][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Import_1_pCube13)
+[2022.03.02-12.34.36:033][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Import_1_pCube12)
+[2022.03.02-12.35.45:195][  5]Cmd: DELETE
+[2022.03.02-12.35.45:195][  5]Cmd: ACTOR DELETE
+[2022.03.02-12.35.45:201][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.02-12.35.45:209][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.03.02-12.35.45:213][  5]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2022.03.02-12.35.56:395][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.03.02-12.35.56:971][296]LogSavePackage: Moving '../../../../../../Users/a0052779/OneDrive - Teesside University/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/BaseMap50B6F1044E7A7031F0B903B697F78C03.tmp' to '../../../../../../Users/a0052779/OneDrive - Teesside University/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/BaseMap.umap'
+[2022.03.02-12.35.56:981][296]LogFileHelpers: No new changes to save!
+[2022.03.02-12.35.56:990][296]AssetCheck: New page: Asset Save: BaseMap
+[2022.03.02-12.35.56:990][296]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/BaseMap.BaseMap
