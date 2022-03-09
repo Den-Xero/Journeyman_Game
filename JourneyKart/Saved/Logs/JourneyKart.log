@@ -7996,3 +7996,181 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.09-11.48.37:051][544]LogEditorActor: Deleted Actor: StaticMeshActor
 [2022.03.09-11.48.37:059][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
 [2022.03.09-11.48.37:065][544]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2022.03.09-11.49.25:190][ 20]LogEditorViewport: Clicking on Actor (LMB): EasyRoad_C (EasyRoad9)
+[2022.03.09-11.50.26:576][990]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.03.09-11.50.27:735][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.03.09-11.50.28:214][ 97]LogSavePackage: Moving '../../../../../../Users/a0052779/OneDrive - Teesside University/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/BaseMap9CC53F024F8288CFAFCDACAB2DDC75A7.tmp' to '../../../../../../Users/a0052779/OneDrive - Teesside University/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/BaseMap.umap'
+[2022.03.09-11.50.28:223][ 97]LogFileHelpers: No new changes to save!
+[2022.03.09-11.50.28:240][ 97]AssetCheck: New page: Asset Save: BaseMap
+[2022.03.09-11.50.28:240][ 97]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/BaseMap.BaseMap
+[2022.03.09-11.53.48:546][ 23]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.03.09-11.53.48:570][ 23]LogContentBrowser: Creating deferred item: NewFolder
+[2022.03.09-11.53.53:433][504]LogContentBrowser: Attempting asset rename: NewFolder -> General
+[2022.03.09-11.53.53:433][504]LogContentBrowser: End creating deferred item NewFolder
+[2022.03.09-11.54.02:982][831]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\a0052779\Downloads\Mesh_BerryBush.fbx)
+[2022.03.09-11.54.03:034][831]LogFbx: Loading FBX Scene from C:\Users\a0052779\Downloads\Mesh_BerryBush.fbx
+[2022.03.09-11.54.03:051][831]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.09-11.54.04:670][831]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.03.09-11.54.04:690][831]LogFbx: Display: Triangulating static mesh Mesh_BerryBush002
+[2022.03.09-11.54.04:809][831]LogStaticMesh: Building static mesh Mesh_BerryBush...
+[2022.03.09-11.54.04:879][831]LogStaticMesh: Built static mesh [0.07s] /Game/VehicleBP/LevelDecoratingAssets/General/Mesh_BerryBush.Mesh_BerryBush
+[2022.03.09-11.54.13:441][932]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\a0052779\Downloads\Mesh_BubbleTree.fbx)
+[2022.03.09-11.54.13:451][932]LogFbx: Loading FBX Scene from C:\Users\a0052779\Downloads\Mesh_BubbleTree.fbx
+[2022.03.09-11.54.13:459][932]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.09-11.54.14:608][932]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.03.09-11.54.14:621][932]LogFbx: Display: Triangulating static mesh Mesh_BubbleTree
+[2022.03.09-11.54.14:680][932]LogStaticMesh: Building static mesh Mesh_BubbleTree...
+[2022.03.09-11.54.14:720][932]LogStaticMesh: Built static mesh [0.04s] /Game/VehicleBP/LevelDecoratingAssets/General/Mesh_BubbleTree.Mesh_BubbleTree
+[2022.03.09-11.54.21:746][  8]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\a0052779\Downloads\Mesh_Bush.fbx)
+[2022.03.09-11.54.21:756][  8]LogFbx: Loading FBX Scene from C:\Users\a0052779\Downloads\Mesh_Bush.fbx
+[2022.03.09-11.54.21:762][  8]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.09-11.54.23:177][  8]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.03.09-11.54.23:190][  8]LogFbx: Display: Triangulating static mesh Mesh_Bush
+[2022.03.09-11.54.23:205][  8]LogStaticMesh: Building static mesh Mesh_Bush...
+[2022.03.09-11.54.23:215][  8]LogStaticMesh: Built static mesh [0.01s] /Game/VehicleBP/LevelDecoratingAssets/General/Mesh_Bush.Mesh_Bush
+[2022.03.09-11.54.33:792][206]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\a0052779\Downloads\Mesh_DeadTree.fbx)
+[2022.03.09-11.54.33:802][206]LogFbx: Loading FBX Scene from C:\Users\a0052779\Downloads\Mesh_DeadTree.fbx
+[2022.03.09-11.54.33:809][206]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.09-11.54.35:473][206]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.03.09-11.54.35:492][206]LogStaticMesh: Building static mesh Mesh_DeadTree...
+[2022.03.09-11.54.35:516][206]LogStaticMesh: Built static mesh [0.02s] /Game/VehicleBP/LevelDecoratingAssets/General/Mesh_DeadTree.Mesh_DeadTree
+[2022.03.09-11.54.45:151][451]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\a0052779\Downloads\Mesh_FallenTreeLog.fbx)
+[2022.03.09-11.54.45:162][451]LogFbx: Loading FBX Scene from C:\Users\a0052779\Downloads\Mesh_FallenTreeLog.fbx
+[2022.03.09-11.54.45:167][451]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.09-11.54.49:852][451]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.03.09-11.54.49:869][451]LogFbx: Display: Triangulating static mesh Mesh_FallenTreeLog
+[2022.03.09-11.54.49:876][451]LogStaticMesh: Building static mesh Mesh_FallenTreeLog...
+[2022.03.09-11.54.49:882][451]LogStaticMesh: Built static mesh [0.01s] /Game/VehicleBP/LevelDecoratingAssets/General/Mesh_FallenTreeLog.Mesh_FallenTreeLog
+[2022.03.09-11.54.58:762][603]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\a0052779\Downloads\Mesh_PalmTree01.fbx)
+[2022.03.09-11.54.58:772][603]LogFbx: Loading FBX Scene from C:\Users\a0052779\Downloads\Mesh_PalmTree01.fbx
+[2022.03.09-11.54.58:778][603]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.09-11.55.00:149][603]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.03.09-11.55.00:162][603]LogFbx: Display: Triangulating static mesh Mesh_PalmTree01
+[2022.03.09-11.55.00:169][603]LogStaticMesh: Building static mesh Mesh_PalmTree01...
+[2022.03.09-11.55.00:177][603]LogStaticMesh: Built static mesh [0.01s] /Game/VehicleBP/LevelDecoratingAssets/General/Mesh_PalmTree01.Mesh_PalmTree01
+[2022.03.09-11.55.09:471][767]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\a0052779\Downloads\Mesh_PalmTree01V1.fbx)
+[2022.03.09-11.55.09:481][767]LogFbx: Loading FBX Scene from C:\Users\a0052779\Downloads\Mesh_PalmTree01V1.fbx
+[2022.03.09-11.55.09:487][767]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.09-11.55.10:740][767]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.03.09-11.55.10:755][767]LogFbx: Display: Triangulating static mesh Mesh_PalmTree01V1
+[2022.03.09-11.55.10:762][767]LogStaticMesh: Building static mesh Mesh_PalmTree01V1...
+[2022.03.09-11.55.10:771][767]LogStaticMesh: Built static mesh [0.01s] /Game/VehicleBP/LevelDecoratingAssets/General/Mesh_PalmTree01V1.Mesh_PalmTree01V1
+[2022.03.09-11.55.40:048][279]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\a0052779\Downloads\Mesh_PalmTree01V2.fbx)
+[2022.03.09-11.55.40:058][279]LogFbx: Loading FBX Scene from C:\Users\a0052779\Downloads\Mesh_PalmTree01V2.fbx
+[2022.03.09-11.55.40:064][279]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.09-11.55.41:447][279]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.03.09-11.55.41:462][279]LogFbx: Display: Triangulating static mesh Mesh_PalmTree01V2
+[2022.03.09-11.55.41:469][279]LogStaticMesh: Building static mesh Mesh_PalmTree01V2...
+[2022.03.09-11.55.41:477][279]LogStaticMesh: Built static mesh [0.01s] /Game/VehicleBP/LevelDecoratingAssets/General/Mesh_PalmTree01V2.Mesh_PalmTree01V2
+[2022.03.09-11.55.59:828][446]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\a0052779\Downloads\Mesh_PalmTree02.fbx)
+[2022.03.09-11.55.59:838][446]LogFbx: Loading FBX Scene from C:\Users\a0052779\Downloads\Mesh_PalmTree02.fbx
+[2022.03.09-11.55.59:844][446]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.09-11.56.01:020][446]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.03.09-11.56.01:035][446]LogStaticMesh: Building static mesh Mesh_PalmTree02...
+[2022.03.09-11.56.01:042][446]LogStaticMesh: Built static mesh [0.01s] /Game/VehicleBP/LevelDecoratingAssets/General/Mesh_PalmTree02.Mesh_PalmTree02
+[2022.03.09-11.56.09:370][579]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\a0052779\Downloads\Mesh_PalmTree02V1.fbx)
+[2022.03.09-11.56.09:380][579]LogFbx: Loading FBX Scene from C:\Users\a0052779\Downloads\Mesh_PalmTree02V1.fbx
+[2022.03.09-11.56.09:386][579]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.09-11.56.10:485][579]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.03.09-11.56.10:500][579]LogStaticMesh: Building static mesh Mesh_PalmTree02V1...
+[2022.03.09-11.56.10:508][579]LogStaticMesh: Built static mesh [0.01s] /Game/VehicleBP/LevelDecoratingAssets/General/Mesh_PalmTree02V1.Mesh_PalmTree02V1
+[2022.03.09-11.56.19:028][745]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\a0052779\Downloads\Mesh_PalmTree02V2.fbx)
+[2022.03.09-11.56.19:039][745]LogFbx: Loading FBX Scene from C:\Users\a0052779\Downloads\Mesh_PalmTree02V2.fbx
+[2022.03.09-11.56.19:045][745]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.09-11.56.30:340][745]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.03.09-11.56.30:356][745]LogStaticMesh: Building static mesh Mesh_PalmTree02V2...
+[2022.03.09-11.56.30:364][745]LogStaticMesh: Built static mesh [0.01s] /Game/VehicleBP/LevelDecoratingAssets/General/Mesh_PalmTree02V2.Mesh_PalmTree02V2
+[2022.03.09-11.56.48:855][ 31]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\a0052779\Downloads\Mesh_PalmTree02 (1).fbx)
+[2022.03.09-11.56.48:866][ 31]LogFbx: Loading FBX Scene from C:\Users\a0052779\Downloads\Mesh_PalmTree02 (1).fbx
+[2022.03.09-11.56.48:871][ 31]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.09-11.56.50:378][ 31]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.03.09-11.56.50:393][ 31]LogStaticMesh: Building static mesh Mesh_PalmTree02__1_...
+[2022.03.09-11.56.50:400][ 31]LogStaticMesh: Built static mesh [0.01s] /Game/VehicleBP/LevelDecoratingAssets/General/Mesh_PalmTree02__1_.Mesh_PalmTree02__1_
+[2022.03.09-11.56.59:695][141]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\a0052779\Downloads\Mesh_PalmTree02V1 (1).fbx)
+[2022.03.09-11.56.59:705][141]LogFbx: Loading FBX Scene from C:\Users\a0052779\Downloads\Mesh_PalmTree02V1 (1).fbx
+[2022.03.09-11.56.59:711][141]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.09-11.57.01:364][141]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.03.09-11.57.01:378][141]LogStaticMesh: Building static mesh Mesh_PalmTree02V1__1_...
+[2022.03.09-11.57.01:386][141]LogStaticMesh: Built static mesh [0.01s] /Game/VehicleBP/LevelDecoratingAssets/General/Mesh_PalmTree02V1__1_.Mesh_PalmTree02V1__1_
+[2022.03.09-11.57.10:471][288]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\a0052779\Downloads\Mesh_PalmTree02V2 (1).fbx)
+[2022.03.09-11.57.10:481][288]LogFbx: Loading FBX Scene from C:\Users\a0052779\Downloads\Mesh_PalmTree02V2 (1).fbx
+[2022.03.09-11.57.10:487][288]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.09-11.57.12:328][288]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.03.09-11.57.12:344][288]LogStaticMesh: Building static mesh Mesh_PalmTree02V2__1_...
+[2022.03.09-11.57.12:352][288]LogStaticMesh: Built static mesh [0.01s] /Game/VehicleBP/LevelDecoratingAssets/General/Mesh_PalmTree02V2__1_.Mesh_PalmTree02V2__1_
+[2022.03.09-11.57.20:697][456]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\a0052779\Downloads\Mesh_PineTree.fbx)
+[2022.03.09-11.57.20:706][456]LogFbx: Loading FBX Scene from C:\Users\a0052779\Downloads\Mesh_PineTree.fbx
+[2022.03.09-11.57.20:712][456]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.09-11.57.21:877][456]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.03.09-11.57.21:892][456]LogStaticMesh: Building static mesh Mesh_PineTree...
+[2022.03.09-11.57.21:898][456]LogStaticMesh: Built static mesh [0.01s] /Game/VehicleBP/LevelDecoratingAssets/General/Mesh_PineTree.Mesh_PineTree
+[2022.03.09-11.57.36:394][853]LogActorFactory: Actor Factory created Mesh_BerryBush
+[2022.03.09-11.57.38:075][992]LogActorFactory: Actor Factory created Mesh_BerryBush
+[2022.03.09-11.57.41:539][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_BerryBush)
+[2022.03.09-11.57.41:546][992]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2022.03.09-11.57.42:634][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_BerryBush)
+[2022.03.09-11.57.53:924][161]LogActorFactory: Actor Factory created Mesh_BubbleTree
+[2022.03.09-11.57.55:017][254]LogActorFactory: Actor Factory created Mesh_BubbleTree
+[2022.03.09-11.58.05:604][281]LogActorFactory: Actor Factory created Mesh_Bush
+[2022.03.09-11.58.07:769][488]LogActorFactory: Actor Factory created Mesh_Bush
+[2022.03.09-11.58.33:766][ 74]LogActorFactory: Actor Factory created Mesh_DeadTree
+[2022.03.09-11.58.35:033][187]LogActorFactory: Actor Factory created Mesh_DeadTree
+[2022.03.09-11.58.39:488][602]LogActorFactory: Actor Factory created Mesh_FallenTreeLog
+[2022.03.09-11.58.40:467][690]LogActorFactory: Actor Factory created Mesh_FallenTreeLog
+[2022.03.09-11.58.45:230][195]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.03.09-11.59.01:226][921]LogActorFactory: Actor Factory created Mesh_PalmTree01
+[2022.03.09-11.59.02:040][998]LogActorFactory: Actor Factory created Mesh_PalmTree01
+[2022.03.09-11.59.07:941][621]LogActorFactory: Actor Factory created Mesh_PalmTree01V1
+[2022.03.09-11.59.08:455][671]LogActorFactory: Actor Factory created Mesh_PalmTree01V1
+[2022.03.09-11.59.12:363][ 33]LogActorFactory: Actor Factory created Mesh_PalmTree01V2
+[2022.03.09-11.59.13:278][115]LogActorFactory: Actor Factory created Mesh_PalmTree01V2
+[2022.03.09-11.59.19:415][697]LogActorFactory: Actor Factory created Mesh_PalmTree02
+[2022.03.09-11.59.20:556][795]LogActorFactory: Actor Factory created Mesh_PalmTree02
+[2022.03.09-11.59.26:477][367]LogActorFactory: Actor Factory created Mesh_PalmTree02__1_
+[2022.03.09-11.59.27:361][442]LogActorFactory: Actor Factory created Mesh_PalmTree02__1_
+[2022.03.09-11.59.31:117][812]LogActorFactory: Actor Factory created Mesh_PalmTree02V1
+[2022.03.09-11.59.31:950][890]LogActorFactory: Actor Factory created Mesh_PalmTree02V1
+[2022.03.09-11.59.35:804][259]LogActorFactory: Actor Factory created Mesh_PalmTree02V1__1_
+[2022.03.09-11.59.36:743][351]LogActorFactory: Actor Factory created Mesh_PalmTree02V1__1_
+[2022.03.09-11.59.39:817][618]LogActorFactory: Actor Factory created Mesh_PalmTree02V2
+[2022.03.09-11.59.40:382][669]LogActorFactory: Actor Factory created Mesh_PalmTree02V2
+[2022.03.09-11.59.41:359][731]LogActorFactory: Actor Factory created Mesh_PalmTree02V2__1_
+[2022.03.09-11.59.44:084][994]LogActorFactory: Actor Factory created Mesh_PalmTree02V2__1_
+[2022.03.09-11.59.45:226][ 93]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.03.09-11.59.45:807][142]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.03.09-12.00.30:761][555]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\a0052779\Downloads\Trackosaur.fbx)
+[2022.03.09-12.00.30:773][555]LogFbx: Loading FBX Scene from C:\Users\a0052779\Downloads\Trackosaur.fbx
+[2022.03.09-12.00.30:792][555]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.09-12.00.32:405][555]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.03.09-12.00.32:426][555]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2022.03.09-12.00.32:436][555]LogFbx: Display: Triangulating static mesh PolySphere
+[2022.03.09-12.00.33:161][555]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2022.03.09-12.00.33:161][555]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.03.09-12.00.33:161][555]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.03.09-12.00.33:161][555]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.03.09-12.00.33:161][555]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.03.09-12.00.33:161][555]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.03.09-12.00.33:393][555]LogStaticMesh: Building static mesh Trackosaur...
+[2022.03.09-12.00.33:955][555]LogStaticMesh: Built static mesh [0.56s] /Game/VehicleBP/LevelDecoratingAssets/General/Trackosaur.Trackosaur
+[2022.03.09-12.00.34:135][555]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.03.09-12.00.36:337][732]LogSlate: Window 'Message Log' being destroyed
+[2022.03.09-12.00.36:352][732]LogSlate: Window 'Message Log' being destroyed
+[2022.03.09-12.00.43:860][508]LogActorFactory: Actor Factory created Trackosaur
+[2022.03.09-12.00.44:461][560]LogActorFactory: Actor Factory created Trackosaur
+[2022.03.09-12.01.07:256][978]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/VehicleBP/LevelDecoratingAssets/General/Trackosaur.Trackosaur
+[2022.03.09-12.01.23:375][164]LogSavePackage: Moving '../../../../../../Users/a0052779/OneDrive - Teesside University/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/Trackosaur70C7B33B44B4AB42A429A1A276A05AD7.tmp' to '../../../../../../Users/a0052779/OneDrive - Teesside University/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/LevelDecoratingAssets/General/Trackosaur.uasset'
+[2022.03.09-12.01.23:390][164]AssetCheck: New page: Asset Save: Trackosaur
+[2022.03.09-12.01.23:390][164]LogContentValidation: Display: Validating StaticMesh /Game/VehicleBP/LevelDecoratingAssets/General/Trackosaur.Trackosaur
+[2022.03.09-12.01.27:103][458]LogSlate: Window 'Trackosaur' being destroyed
+[2022.03.09-12.01.27:107][458]LogSlate: Window 'Trackosaur' being destroyed
+[2022.03.09-12.01.27:112][458]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-12.01.27:112][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-12.01.27:164][458]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-12.01.27:165][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-12.01.27:211][458]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-12.01.27:211][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-12.01.28:667][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.03.09-12.01.29:141][619]LogSavePackage: Moving '../../../../../../Users/a0052779/OneDrive - Teesside University/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/BaseMapF201688243083D8B46E79FBE60274434.tmp' to '../../../../../../Users/a0052779/OneDrive - Teesside University/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/BaseMap.umap'
+[2022.03.09-12.01.29:150][619]LogFileHelpers: No new changes to save!
+[2022.03.09-12.01.29:161][619]AssetCheck: New page: Asset Save: BaseMap
+[2022.03.09-12.01.29:161][619]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/BaseMap.BaseMap
