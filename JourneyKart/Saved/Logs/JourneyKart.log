@@ -4822,3 +4822,1191 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.16-11.55.43:627][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
 [2022.03.16-11.55.43:685][735]AssetCheck: New page: Asset Save: RyanMap
 [2022.03.16-11.55.43:685][735]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyanMap.RyanMap
+[2022.03.16-11.56.35:492][213]LogSlate: Took 0.001438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.16-11.56.42:289][875]LogEditorViewport: Clicking on Actor (LMB): BP_Spawner_C (BP_Spawner6)
+[2022.03.16-11.56.59:050][772]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.03.16-11.57.03:166][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.03.16-11.57.03:425][227]LogSavePackage: Moving '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyanMap2E882B2146ABA212E3D1CD869DADF48B.tmp' to '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyanMap.umap'
+[2022.03.16-11.57.03:433][227]LogFileHelpers: No new changes to save!
+[2022.03.16-11.57.03:447][227]AssetCheck: New page: Asset Save: RyanMap
+[2022.03.16-11.57.03:447][227]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyanMap.RyanMap
+[2022.03.16-11.57.22:160][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Import_1_pCube33)
+[2022.03.16-11.57.30:411][260]LogEditorViewport: Clicking on Actor (LMB): Boost_Pad_C (Boost_Pad)
+[2022.03.16-11.57.37:172][998]LogEditorViewport: Clicking on Actor (LMB): Boost_Pad_C (Boost_Pad2)
+[2022.03.16-11.57.41:163][462]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.03.16-11.57.42:859][639]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.16-11.57.42:867][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.16-11.57.42:867][639]PIE: New page: PIE session: RyanMap (16 Mar 2022, 11:57:42)
+[2022.03.16-11.57.42:868][639]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_RyanMap
+[2022.03.16-11.57.42:899][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031404s)
+[2022.03.16-11.57.42:900][639]LogAIModule: Creating AISystem for world RyanMap
+[2022.03.16-11.57.42:900][639]LogPlayLevel: PIE: World Init took: (0.001174s)
+[2022.03.16-11.57.42:900][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/RyanMap.RyanMap to /Game/VehicleBP/Maps/UEDPIE_0_RyanMap.RyanMap (0.032718s)
+[2022.03.16-11.57.42:908][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.03.16-11.57.42:909][639]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.03.16-11.57.42:909][639]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.16-11.57.42:909][639]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.16-11.57.42:909][639]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.16-11.57.42:909][639]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.16-11.57.42:909][639]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.16-11.57.42:909][639]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.16-11.57.42:909][639]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.16-11.57.42:909][639]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.16-11.57.42:910][639]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.16-11.57.42:910][639]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.16-11.57.42:916][639]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.16-11.57.42:916][639]LogAudioMixer: Display: 1: FrontRight
+[2022.03.16-11.57.42:953][639]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.03.16-11.57.42:953][639]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.16-11.57.42:953][639]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.16-11.57.42:953][639]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.16-11.57.42:954][639]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.16-11.57.42:954][639]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.16-11.57.42:954][639]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.16-11.57.42:968][639]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.16-11.57.42:968][639]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.16-11.57.42:968][639]LogInit: FAudioDevice initialized.
+[2022.03.16-11.57.42:968][639]LogAudio: Display: Audio Device (ID: 8) registered with world 'RyanMap'.
+[2022.03.16-11.57.42:976][639]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.03.16-11.57.42:982][639]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_RyanMap.RyanMap up for play (max tick rate 0) at 2022.03.16-11.57.42
+[2022.03.16-11.57.42:983][639]LogWorld: Bringing up level for play took: 0.005623
+[2022.03.16-11.57.42:983][639]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.03.16-11.57.42:990][639]LogBlueprintUserMessages: [VehicleGameMode_C_0] Test_Kart
+[2022.03.16-11.57.42:990][639]LogBlueprintUserMessages: [Test_Kart_C_0] X=3.000 Y=2.000 Z=1.000
+[2022.03.16-11.57.42:990][639]PIE: Server logged in
+[2022.03.16-11.57.42:991][639]PIE: Play in editor total start time 0.127 seconds.
+[2022.03.16-11.57.43:929][745]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.43:929][745]LogBlueprintUserMessages: [Test_Kart_C_0] 0.411156
+[2022.03.16-11.57.43:937][746]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.43:937][746]LogBlueprintUserMessages: [Test_Kart_C_0] 0.408102
+[2022.03.16-11.57.43:946][747]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.43:946][747]LogBlueprintUserMessages: [Test_Kart_C_0] 0.405036
+[2022.03.16-11.57.43:954][748]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.43:954][748]LogBlueprintUserMessages: [Test_Kart_C_0] 0.401959
+[2022.03.16-11.57.43:962][749]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.43:962][749]LogBlueprintUserMessages: [Test_Kart_C_0] 0.39887
+[2022.03.16-11.57.43:970][750]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.43:971][750]LogBlueprintUserMessages: [Test_Kart_C_0] 0.395771
+[2022.03.16-11.57.43:979][751]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.43:979][751]LogBlueprintUserMessages: [Test_Kart_C_0] 0.392295
+[2022.03.16-11.57.43:987][752]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.43:987][752]LogBlueprintUserMessages: [Test_Kart_C_0] 0.388017
+[2022.03.16-11.57.43:995][753]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.43:996][753]LogBlueprintUserMessages: [Test_Kart_C_0] 0.383176
+[2022.03.16-11.57.44:004][754]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:004][754]LogBlueprintUserMessages: [Test_Kart_C_0] 0.377837
+[2022.03.16-11.57.44:012][755]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:012][755]LogBlueprintUserMessages: [Test_Kart_C_0] 0.372056
+[2022.03.16-11.57.44:021][756]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:021][756]LogBlueprintUserMessages: [Test_Kart_C_0] 0.365771
+[2022.03.16-11.57.44:029][757]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:029][757]LogBlueprintUserMessages: [Test_Kart_C_0] 0.359013
+[2022.03.16-11.57.44:037][758]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:037][758]LogBlueprintUserMessages: [Test_Kart_C_0] 0.351714
+[2022.03.16-11.57.44:045][759]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:046][759]LogBlueprintUserMessages: [Test_Kart_C_0] 0.343917
+[2022.03.16-11.57.44:054][760]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:054][760]LogBlueprintUserMessages: [Test_Kart_C_0] 0.335552
+[2022.03.16-11.57.44:062][761]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:062][761]LogBlueprintUserMessages: [Test_Kart_C_0] 0.326657
+[2022.03.16-11.57.44:070][762]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:071][762]LogBlueprintUserMessages: [Test_Kart_C_0] 0.317171
+[2022.03.16-11.57.44:079][763]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:079][763]LogBlueprintUserMessages: [Test_Kart_C_0] 0.30714
+[2022.03.16-11.57.44:087][764]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:087][764]LogBlueprintUserMessages: [Test_Kart_C_0] 0.296951
+[2022.03.16-11.57.44:096][765]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:096][765]LogBlueprintUserMessages: [Test_Kart_C_0] 0.286179
+[2022.03.16-11.57.44:104][766]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:104][766]LogBlueprintUserMessages: [Test_Kart_C_0] 0.281523
+[2022.03.16-11.57.44:112][767]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:112][767]LogBlueprintUserMessages: [Test_Kart_C_0] 0.278221
+[2022.03.16-11.57.44:121][768]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:121][768]LogBlueprintUserMessages: [Test_Kart_C_0] 0.275522
+[2022.03.16-11.57.44:129][769]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:129][769]LogBlueprintUserMessages: [Test_Kart_C_0] 0.273173
+[2022.03.16-11.57.44:137][770]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:137][770]LogBlueprintUserMessages: [Test_Kart_C_0] 0.271076
+[2022.03.16-11.57.44:145][771]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:146][771]LogBlueprintUserMessages: [Test_Kart_C_0] 0.269254
+[2022.03.16-11.57.44:154][772]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:154][772]LogBlueprintUserMessages: [Test_Kart_C_0] 0.267718
+[2022.03.16-11.57.44:162][773]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:162][773]LogBlueprintUserMessages: [Test_Kart_C_0] 0.266448
+[2022.03.16-11.57.44:171][774]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:171][774]LogBlueprintUserMessages: [Test_Kart_C_0] 0.265449
+[2022.03.16-11.57.44:179][775]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:179][775]LogBlueprintUserMessages: [Test_Kart_C_0] 0.2647
+[2022.03.16-11.57.44:187][776]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:187][776]LogBlueprintUserMessages: [Test_Kart_C_0] 0.264203
+[2022.03.16-11.57.44:196][777]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:196][777]LogBlueprintUserMessages: [Test_Kart_C_0] 0.263936
+[2022.03.16-11.57.44:204][778]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:204][778]LogBlueprintUserMessages: [Test_Kart_C_0] 0.263897
+[2022.03.16-11.57.44:212][779]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:212][779]LogBlueprintUserMessages: [Test_Kart_C_0] 0.264067
+[2022.03.16-11.57.44:221][780]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:221][780]LogBlueprintUserMessages: [Test_Kart_C_0] 0.264441
+[2022.03.16-11.57.44:229][781]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:229][781]LogBlueprintUserMessages: [Test_Kart_C_0] 0.265004
+[2022.03.16-11.57.44:237][782]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:237][782]LogBlueprintUserMessages: [Test_Kart_C_0] 0.265746
+[2022.03.16-11.57.44:246][783]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:246][783]LogBlueprintUserMessages: [Test_Kart_C_0] 0.26665
+[2022.03.16-11.57.44:254][784]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:254][784]LogBlueprintUserMessages: [Test_Kart_C_0] 0.2677
+[2022.03.16-11.57.44:262][785]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:262][785]LogBlueprintUserMessages: [Test_Kart_C_0] 0.268884
+[2022.03.16-11.57.44:271][786]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:271][786]LogBlueprintUserMessages: [Test_Kart_C_0] 0.270208
+[2022.03.16-11.57.44:279][787]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:279][787]LogBlueprintUserMessages: [Test_Kart_C_0] 0.271644
+[2022.03.16-11.57.44:287][788]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.44:287][788]LogBlueprintUserMessages: [Test_Kart_C_0] 0.273163
+[2022.03.16-11.57.45:429][925]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.45:429][925]LogBlueprintUserMessages: [Test_Kart_C_0] 0.321368
+[2022.03.16-11.57.46:046][999]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:046][999]LogBlueprintUserMessages: [Test_Kart_C_0] 0.408859
+[2022.03.16-11.57.46:055][  0]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:055][  0]LogBlueprintUserMessages: [Test_Kart_C_0] 0.396336
+[2022.03.16-11.57.46:063][  1]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:063][  1]LogBlueprintUserMessages: [Test_Kart_C_0] 0.373272
+[2022.03.16-11.57.46:071][  2]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:071][  2]LogBlueprintUserMessages: [Test_Kart_C_0] 0.347141
+[2022.03.16-11.57.46:080][  3]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:080][  3]LogBlueprintUserMessages: [Test_Kart_C_0] 0.321139
+[2022.03.16-11.57.46:088][  4]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:088][  4]LogBlueprintUserMessages: [Test_Kart_C_0] 0.296636
+[2022.03.16-11.57.46:096][  5]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:096][  5]LogBlueprintUserMessages: [Test_Kart_C_0] 0.274001
+[2022.03.16-11.57.46:105][  6]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:105][  6]LogBlueprintUserMessages: [Test_Kart_C_0] 0.257421
+[2022.03.16-11.57.46:113][  7]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:113][  7]LogBlueprintUserMessages: [Test_Kart_C_0] 0.253569
+[2022.03.16-11.57.46:121][  8]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:121][  8]LogBlueprintUserMessages: [Test_Kart_C_0] 0.249716
+[2022.03.16-11.57.46:130][  9]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:130][  9]LogBlueprintUserMessages: [Test_Kart_C_0] 0.245858
+[2022.03.16-11.57.46:138][ 10]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:138][ 10]LogBlueprintUserMessages: [Test_Kart_C_0] 0.241994
+[2022.03.16-11.57.46:146][ 11]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:146][ 11]LogBlueprintUserMessages: [Test_Kart_C_0] 0.238124
+[2022.03.16-11.57.46:155][ 12]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:155][ 12]LogBlueprintUserMessages: [Test_Kart_C_0] 0.23425
+[2022.03.16-11.57.46:163][ 13]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:163][ 13]LogBlueprintUserMessages: [Test_Kart_C_0] 0.23037
+[2022.03.16-11.57.46:171][ 14]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:171][ 14]LogBlueprintUserMessages: [Test_Kart_C_0] 0.226485
+[2022.03.16-11.57.46:180][ 15]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:180][ 15]LogBlueprintUserMessages: [Test_Kart_C_0] 0.222595
+[2022.03.16-11.57.46:188][ 16]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:188][ 16]LogBlueprintUserMessages: [Test_Kart_C_0] 0.218701
+[2022.03.16-11.57.46:196][ 17]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:196][ 17]LogBlueprintUserMessages: [Test_Kart_C_0] 0.214801
+[2022.03.16-11.57.46:205][ 18]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:205][ 18]LogBlueprintUserMessages: [Test_Kart_C_0] 0.210897
+[2022.03.16-11.57.46:213][ 19]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:213][ 19]LogBlueprintUserMessages: [Test_Kart_C_0] 0.206988
+[2022.03.16-11.57.46:221][ 20]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:221][ 20]LogBlueprintUserMessages: [Test_Kart_C_0] 0.203075
+[2022.03.16-11.57.46:230][ 21]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:230][ 21]LogBlueprintUserMessages: [Test_Kart_C_0] 0.199157
+[2022.03.16-11.57.46:238][ 22]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:238][ 22]LogBlueprintUserMessages: [Test_Kart_C_0] 0.195236
+[2022.03.16-11.57.46:246][ 23]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:246][ 23]LogBlueprintUserMessages: [Test_Kart_C_0] 0.191309
+[2022.03.16-11.57.46:255][ 24]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:255][ 24]LogBlueprintUserMessages: [Test_Kart_C_0] 0.187379
+[2022.03.16-11.57.46:263][ 25]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:263][ 25]LogBlueprintUserMessages: [Test_Kart_C_0] 0.183445
+[2022.03.16-11.57.46:271][ 26]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:271][ 26]LogBlueprintUserMessages: [Test_Kart_C_0] 0.179507
+[2022.03.16-11.57.46:280][ 27]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:280][ 27]LogBlueprintUserMessages: [Test_Kart_C_0] 0.175565
+[2022.03.16-11.57.46:288][ 28]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:288][ 28]LogBlueprintUserMessages: [Test_Kart_C_0] 0.171619
+[2022.03.16-11.57.46:296][ 29]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:296][ 29]LogBlueprintUserMessages: [Test_Kart_C_0] 0.16767
+[2022.03.16-11.57.46:305][ 30]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:305][ 30]LogBlueprintUserMessages: [Test_Kart_C_0] 0.163718
+[2022.03.16-11.57.46:313][ 31]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:313][ 31]LogBlueprintUserMessages: [Test_Kart_C_0] 0.159762
+[2022.03.16-11.57.46:321][ 32]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:321][ 32]LogBlueprintUserMessages: [Test_Kart_C_0] 0.155802
+[2022.03.16-11.57.46:330][ 33]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:330][ 33]LogBlueprintUserMessages: [Test_Kart_C_0] 0.15184
+[2022.03.16-11.57.46:338][ 34]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:338][ 34]LogBlueprintUserMessages: [Test_Kart_C_0] 0.147874
+[2022.03.16-11.57.46:346][ 35]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:346][ 35]LogBlueprintUserMessages: [Test_Kart_C_0] 0.143906
+[2022.03.16-11.57.46:355][ 36]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:355][ 36]LogBlueprintUserMessages: [Test_Kart_C_0] 0.139934
+[2022.03.16-11.57.46:363][ 37]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:363][ 37]LogBlueprintUserMessages: [Test_Kart_C_0] 0.13596
+[2022.03.16-11.57.46:371][ 38]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:371][ 38]LogBlueprintUserMessages: [Test_Kart_C_0] 0.131983
+[2022.03.16-11.57.46:380][ 39]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:380][ 39]LogBlueprintUserMessages: [Test_Kart_C_0] 0.128004
+[2022.03.16-11.57.46:388][ 40]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:388][ 40]LogBlueprintUserMessages: [Test_Kart_C_0] 0.124017
+[2022.03.16-11.57.46:397][ 41]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:397][ 41]LogBlueprintUserMessages: [Test_Kart_C_0] 0.120033
+[2022.03.16-11.57.46:405][ 42]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:405][ 42]LogBlueprintUserMessages: [Test_Kart_C_0] 0.116046
+[2022.03.16-11.57.46:413][ 43]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:413][ 43]LogBlueprintUserMessages: [Test_Kart_C_0] 0.112058
+[2022.03.16-11.57.46:422][ 44]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:422][ 44]LogBlueprintUserMessages: [Test_Kart_C_0] 0.108067
+[2022.03.16-11.57.46:430][ 45]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:430][ 45]LogBlueprintUserMessages: [Test_Kart_C_0] 0.104074
+[2022.03.16-11.57.46:438][ 46]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:438][ 46]LogBlueprintUserMessages: [Test_Kart_C_0] 0.10008
+[2022.03.16-11.57.46:446][ 47]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:447][ 47]LogBlueprintUserMessages: [Test_Kart_C_0] 0.096083
+[2022.03.16-11.57.46:455][ 48]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:455][ 48]LogBlueprintUserMessages: [Test_Kart_C_0] 0.092085
+[2022.03.16-11.57.46:463][ 49]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:463][ 49]LogBlueprintUserMessages: [Test_Kart_C_0] 0.088086
+[2022.03.16-11.57.46:471][ 50]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:472][ 50]LogBlueprintUserMessages: [Test_Kart_C_0] 0.084085
+[2022.03.16-11.57.46:480][ 51]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:480][ 51]LogBlueprintUserMessages: [Test_Kart_C_0] 0.080082
+[2022.03.16-11.57.46:488][ 52]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:488][ 52]LogBlueprintUserMessages: [Test_Kart_C_0] 0.076079
+[2022.03.16-11.57.46:497][ 53]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:497][ 53]LogBlueprintUserMessages: [Test_Kart_C_0] 0.072074
+[2022.03.16-11.57.46:505][ 54]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:505][ 54]LogBlueprintUserMessages: [Test_Kart_C_0] 0.068068
+[2022.03.16-11.57.46:513][ 55]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:513][ 55]LogBlueprintUserMessages: [Test_Kart_C_0] 0.064061
+[2022.03.16-11.57.46:522][ 56]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:522][ 56]LogBlueprintUserMessages: [Test_Kart_C_0] 0.060054
+[2022.03.16-11.57.46:530][ 57]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:530][ 57]LogBlueprintUserMessages: [Test_Kart_C_0] 0.056046
+[2022.03.16-11.57.46:538][ 58]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:538][ 58]LogBlueprintUserMessages: [Test_Kart_C_0] 0.052037
+[2022.03.16-11.57.46:547][ 59]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:547][ 59]LogBlueprintUserMessages: [Test_Kart_C_0] 0.048027
+[2022.03.16-11.57.46:555][ 60]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:555][ 60]LogBlueprintUserMessages: [Test_Kart_C_0] 0.044017
+[2022.03.16-11.57.46:563][ 61]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:563][ 61]LogBlueprintUserMessages: [Test_Kart_C_0] 0.040007
+[2022.03.16-11.57.46:572][ 62]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:572][ 62]LogBlueprintUserMessages: [Test_Kart_C_0] 0.035997
+[2022.03.16-11.57.46:580][ 63]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:580][ 63]LogBlueprintUserMessages: [Test_Kart_C_0] 0.031986
+[2022.03.16-11.57.46:588][ 64]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:588][ 64]LogBlueprintUserMessages: [Test_Kart_C_0] 0.027976
+[2022.03.16-11.57.46:597][ 65]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:597][ 65]LogBlueprintUserMessages: [Test_Kart_C_0] 0.023965
+[2022.03.16-11.57.46:605][ 66]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:605][ 66]LogBlueprintUserMessages: [Test_Kart_C_0] 0.019955
+[2022.03.16-11.57.46:613][ 67]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:613][ 67]LogBlueprintUserMessages: [Test_Kart_C_0] 0.015945
+[2022.03.16-11.57.46:622][ 68]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:622][ 68]LogBlueprintUserMessages: [Test_Kart_C_0] 0.011935
+[2022.03.16-11.57.46:630][ 69]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:630][ 69]LogBlueprintUserMessages: [Test_Kart_C_0] 0.007926
+[2022.03.16-11.57.46:638][ 70]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:638][ 70]LogBlueprintUserMessages: [Test_Kart_C_0] 0.003918
+[2022.03.16-11.57.46:647][ 71]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:647][ 71]LogBlueprintUserMessages: [Test_Kart_C_0] -0.00009
+[2022.03.16-11.57.46:655][ 72]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:655][ 72]LogBlueprintUserMessages: [Test_Kart_C_0] -0.004097
+[2022.03.16-11.57.46:663][ 73]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:663][ 73]LogBlueprintUserMessages: [Test_Kart_C_0] -0.008103
+[2022.03.16-11.57.46:672][ 74]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:672][ 74]LogBlueprintUserMessages: [Test_Kart_C_0] -0.012108
+[2022.03.16-11.57.46:680][ 75]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:680][ 75]LogBlueprintUserMessages: [Test_Kart_C_0] -0.016112
+[2022.03.16-11.57.46:688][ 76]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:688][ 76]LogBlueprintUserMessages: [Test_Kart_C_0] -0.020115
+[2022.03.16-11.57.46:697][ 77]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:697][ 77]LogBlueprintUserMessages: [Test_Kart_C_0] -0.024116
+[2022.03.16-11.57.46:705][ 78]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:705][ 78]LogBlueprintUserMessages: [Test_Kart_C_0] -0.028116
+[2022.03.16-11.57.46:713][ 79]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:713][ 79]LogBlueprintUserMessages: [Test_Kart_C_0] -0.032114
+[2022.03.16-11.57.46:722][ 80]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:722][ 80]LogBlueprintUserMessages: [Test_Kart_C_0] -0.036111
+[2022.03.16-11.57.46:730][ 81]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:730][ 81]LogBlueprintUserMessages: [Test_Kart_C_0] -0.040106
+[2022.03.16-11.57.46:738][ 82]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:738][ 82]LogBlueprintUserMessages: [Test_Kart_C_0] -0.044099
+[2022.03.16-11.57.46:747][ 83]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:747][ 83]LogBlueprintUserMessages: [Test_Kart_C_0] -0.04809
+[2022.03.16-11.57.46:755][ 84]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:755][ 84]LogBlueprintUserMessages: [Test_Kart_C_0] -0.05208
+[2022.03.16-11.57.46:763][ 85]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:763][ 85]LogBlueprintUserMessages: [Test_Kart_C_0] -0.056067
+[2022.03.16-11.57.46:772][ 86]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:772][ 86]LogBlueprintUserMessages: [Test_Kart_C_0] -0.017966
+[2022.03.16-11.57.46:780][ 87]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:780][ 87]LogBlueprintUserMessages: [Test_Kart_C_0] 0.055642
+[2022.03.16-11.57.46:788][ 88]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:788][ 88]LogBlueprintUserMessages: [Test_Kart_C_0] 0.167499
+[2022.03.16-11.57.46:797][ 89]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:797][ 89]LogBlueprintUserMessages: [Test_Kart_C_0] 0.278118
+[2022.03.16-11.57.46:805][ 90]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:805][ 90]LogBlueprintUserMessages: [Test_Kart_C_0] 0.383793
+[2022.03.16-11.57.46:813][ 91]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:813][ 91]LogBlueprintUserMessages: [Test_Kart_C_0] 0.482779
+[2022.03.16-11.57.46:822][ 92]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:822][ 92]LogBlueprintUserMessages: [Test_Kart_C_0] 0.568028
+[2022.03.16-11.57.46:830][ 93]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:830][ 93]LogBlueprintUserMessages: [Test_Kart_C_0] 0.637102
+[2022.03.16-11.57.46:838][ 94]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:838][ 94]LogBlueprintUserMessages: [Test_Kart_C_0] 0.693321
+[2022.03.16-11.57.46:847][ 95]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:847][ 95]LogBlueprintUserMessages: [Test_Kart_C_0] 0.725438
+[2022.03.16-11.57.46:855][ 96]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:855][ 96]LogBlueprintUserMessages: [Test_Kart_C_0] 0.777288
+[2022.03.16-11.57.46:863][ 97]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:863][ 97]LogBlueprintUserMessages: [Test_Kart_C_0] 0.823148
+[2022.03.16-11.57.46:872][ 98]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:872][ 98]LogBlueprintUserMessages: [Test_Kart_C_0] 0.862638
+[2022.03.16-11.57.46:880][ 99]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:880][ 99]LogBlueprintUserMessages: [Test_Kart_C_0] 0.895453
+[2022.03.16-11.57.46:888][100]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:888][100]LogBlueprintUserMessages: [Test_Kart_C_0] 0.92127
+[2022.03.16-11.57.46:897][101]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:897][101]LogBlueprintUserMessages: [Test_Kart_C_0] 0.939901
+[2022.03.16-11.57.46:905][102]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:905][102]LogBlueprintUserMessages: [Test_Kart_C_0] 0.951193
+[2022.03.16-11.57.46:913][103]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:913][103]LogBlueprintUserMessages: [Test_Kart_C_0] 0.95505
+[2022.03.16-11.57.46:922][104]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:922][104]LogBlueprintUserMessages: [Test_Kart_C_0] 0.951442
+[2022.03.16-11.57.46:930][105]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:930][105]LogBlueprintUserMessages: [Test_Kart_C_0] 0.940399
+[2022.03.16-11.57.46:938][106]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:939][106]LogBlueprintUserMessages: [Test_Kart_C_0] 0.922011
+[2022.03.16-11.57.46:947][107]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:947][107]LogBlueprintUserMessages: [Test_Kart_C_0] 0.896432
+[2022.03.16-11.57.46:955][108]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:955][108]LogBlueprintUserMessages: [Test_Kart_C_0] 0.863874
+[2022.03.16-11.57.46:963][109]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:964][109]LogBlueprintUserMessages: [Test_Kart_C_0] 0.824608
+[2022.03.16-11.57.46:972][110]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:972][110]LogBlueprintUserMessages: [Test_Kart_C_0] 0.778959
+[2022.03.16-11.57.46:980][111]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:980][111]LogBlueprintUserMessages: [Test_Kart_C_0] 0.727308
+[2022.03.16-11.57.46:988][112]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:988][112]LogBlueprintUserMessages: [Test_Kart_C_0] 0.670083
+[2022.03.16-11.57.46:997][113]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.46:997][113]LogBlueprintUserMessages: [Test_Kart_C_0] 0.607759
+[2022.03.16-11.57.47:004][114]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.47:004][114]LogBlueprintUserMessages: [Test_Kart_C_0] 0.540855
+[2022.03.16-11.57.47:012][115]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.47:012][115]LogBlueprintUserMessages: [Test_Kart_C_0] 0.469925
+[2022.03.16-11.57.47:021][116]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.47:021][116]LogBlueprintUserMessages: [Test_Kart_C_0] 0.39556
+[2022.03.16-11.57.47:029][117]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.47:029][117]LogBlueprintUserMessages: [Test_Kart_C_0] 0.318377
+[2022.03.16-11.57.47:037][118]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.47:038][118]LogBlueprintUserMessages: [Test_Kart_C_0] 0.239016
+[2022.03.16-11.57.47:046][119]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.47:046][119]LogBlueprintUserMessages: [Test_Kart_C_0] 0.158139
+[2022.03.16-11.57.47:054][120]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.47:054][120]LogBlueprintUserMessages: [Test_Kart_C_0] 0.076416
+[2022.03.16-11.57.47:063][121]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.47:063][121]LogBlueprintUserMessages: [Test_Kart_C_0] -0.005474
+[2022.03.16-11.57.47:071][122]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.47:071][122]LogBlueprintUserMessages: [Test_Kart_C_0] -0.086851
+[2022.03.16-11.57.47:079][123]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.47:079][123]LogBlueprintUserMessages: [Test_Kart_C_0] -0.167038
+[2022.03.16-11.57.47:088][124]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.47:088][124]LogBlueprintUserMessages: [Test_Kart_C_0] -0.245369
+[2022.03.16-11.57.47:096][125]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.47:096][125]LogBlueprintUserMessages: [Test_Kart_C_0] -0.321194
+[2022.03.16-11.57.47:104][126]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.47:104][126]LogBlueprintUserMessages: [Test_Kart_C_0] -0.393884
+[2022.03.16-11.57.47:112][127]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.47:113][127]LogBlueprintUserMessages: [Test_Kart_C_0] -0.462833
+[2022.03.16-11.57.47:121][128]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.47:121][128]LogBlueprintUserMessages: [Test_Kart_C_0] -0.522823
+[2022.03.16-11.57.47:129][129]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.47:129][129]LogBlueprintUserMessages: [Test_Kart_C_0] -0.570012
+[2022.03.16-11.57.47:138][130]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.57.47:138][130]LogBlueprintUserMessages: [Test_Kart_C_0] -0.601563
+[2022.03.16-11.57.47:176][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-11.57.47:177][130]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_RyanMap
+[2022.03.16-11.57.47:177][130]LogWorld: UWorld::CleanupWorld for RyanMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-11.57.47:178][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-11.57.47:184][130]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.16-11.57.47:193][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-11.57.47:199][130]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.16-11.57.47:199][130]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.16-11.57.47:200][130]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.16-11.57.47:218][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-11.57.47:221][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.03.16-11.57.47:258][131]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.03.16-11.57.58:975][466]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.16-11.57.58:983][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.16-11.57.58:983][466]PIE: New page: PIE session: RyanMap (16 Mar 2022, 11:57:58)
+[2022.03.16-11.57.59:015][466]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_RyanMap
+[2022.03.16-11.57.59:046][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031402s)
+[2022.03.16-11.57.59:047][466]LogAIModule: Creating AISystem for world RyanMap
+[2022.03.16-11.57.59:047][466]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2022.03.16-11.57.59:047][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/RyanMap.RyanMap to /Game/VehicleBP/Maps/UEDPIE_0_RyanMap.RyanMap (0.032672s)
+[2022.03.16-11.57.59:054][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.03.16-11.57.59:056][466]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.03.16-11.57.59:056][466]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.16-11.57.59:056][466]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.16-11.57.59:056][466]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.16-11.57.59:056][466]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.16-11.57.59:056][466]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.16-11.57.59:056][466]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.16-11.57.59:056][466]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.16-11.57.59:056][466]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.16-11.57.59:057][466]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.16-11.57.59:057][466]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.16-11.57.59:063][466]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.16-11.57.59:063][466]LogAudioMixer: Display: 1: FrontRight
+[2022.03.16-11.57.59:100][466]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.03.16-11.57.59:101][466]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.16-11.57.59:101][466]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.16-11.57.59:101][466]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.16-11.57.59:101][466]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.16-11.57.59:101][466]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.16-11.57.59:101][466]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.16-11.57.59:114][466]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.16-11.57.59:114][466]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.16-11.57.59:114][466]LogInit: FAudioDevice initialized.
+[2022.03.16-11.57.59:114][466]LogAudio: Display: Audio Device (ID: 9) registered with world 'RyanMap'.
+[2022.03.16-11.57.59:123][466]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.03.16-11.57.59:129][466]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_RyanMap.RyanMap up for play (max tick rate 0) at 2022.03.16-11.57.59
+[2022.03.16-11.57.59:130][466]LogWorld: Bringing up level for play took: 0.005460
+[2022.03.16-11.57.59:130][466]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.03.16-11.57.59:136][466]LogBlueprintUserMessages: [VehicleGameMode_C_0] Test_Kart
+[2022.03.16-11.57.59:136][466]LogBlueprintUserMessages: [Test_Kart_C_0] X=3.000 Y=2.000 Z=1.000
+[2022.03.16-11.57.59:136][466]PIE: Server logged in
+[2022.03.16-11.57.59:137][466]PIE: Play in editor total start time 0.156 seconds.
+[2022.03.16-11.58.00:256][592]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:256][592]LogBlueprintUserMessages: [Test_Kart_C_0] 0.007964
+[2022.03.16-11.58.00:264][593]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:265][593]LogBlueprintUserMessages: [Test_Kart_C_0] -0.010051
+[2022.03.16-11.58.00:273][594]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:273][594]LogBlueprintUserMessages: [Test_Kart_C_0] -0.02807
+[2022.03.16-11.58.00:281][595]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:281][595]LogBlueprintUserMessages: [Test_Kart_C_0] -0.046079
+[2022.03.16-11.58.00:289][596]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:290][596]LogBlueprintUserMessages: [Test_Kart_C_0] -0.064064
+[2022.03.16-11.58.00:298][597]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:298][597]LogBlueprintUserMessages: [Test_Kart_C_0] -0.082014
+[2022.03.16-11.58.00:306][598]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:306][598]LogBlueprintUserMessages: [Test_Kart_C_0] -0.099914
+[2022.03.16-11.58.00:314][599]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:315][599]LogBlueprintUserMessages: [Test_Kart_C_0] -0.117751
+[2022.03.16-11.58.00:323][600]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:323][600]LogBlueprintUserMessages: [Test_Kart_C_0] -0.135512
+[2022.03.16-11.58.00:331][601]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:331][601]LogBlueprintUserMessages: [Test_Kart_C_0] -0.148411
+[2022.03.16-11.58.00:339][602]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:340][602]LogBlueprintUserMessages: [Test_Kart_C_0] -0.157909
+[2022.03.16-11.58.00:348][603]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:348][603]LogBlueprintUserMessages: [Test_Kart_C_0] -0.166724
+[2022.03.16-11.58.00:356][604]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:356][604]LogBlueprintUserMessages: [Test_Kart_C_0] -0.174271
+[2022.03.16-11.58.00:365][605]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:365][605]LogBlueprintUserMessages: [Test_Kart_C_0] -0.18118
+[2022.03.16-11.58.00:373][606]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:373][606]LogBlueprintUserMessages: [Test_Kart_C_0] -0.187578
+[2022.03.16-11.58.00:381][607]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:381][607]LogBlueprintUserMessages: [Test_Kart_C_0] -0.193166
+[2022.03.16-11.58.00:390][608]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:390][608]LogBlueprintUserMessages: [Test_Kart_C_0] -0.198139
+[2022.03.16-11.58.00:398][609]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:398][609]LogBlueprintUserMessages: [Test_Kart_C_0] -0.202521
+[2022.03.16-11.58.00:406][610]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:406][610]LogBlueprintUserMessages: [Test_Kart_C_0] -0.206501
+[2022.03.16-11.58.00:415][611]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:415][611]LogBlueprintUserMessages: [Test_Kart_C_0] -0.209884
+[2022.03.16-11.58.00:423][612]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:423][612]LogBlueprintUserMessages: [Test_Kart_C_0] -0.211913
+[2022.03.16-11.58.00:431][613]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:431][613]LogBlueprintUserMessages: [Test_Kart_C_0] -0.213641
+[2022.03.16-11.58.00:440][614]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:440][614]LogBlueprintUserMessages: [Test_Kart_C_0] -0.214933
+[2022.03.16-11.58.00:448][615]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:448][615]LogBlueprintUserMessages: [Test_Kart_C_0] -0.215797
+[2022.03.16-11.58.00:456][616]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:456][616]LogBlueprintUserMessages: [Test_Kart_C_0] -0.216196
+[2022.03.16-11.58.00:465][617]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:465][617]LogBlueprintUserMessages: [Test_Kart_C_0] -0.216095
+[2022.03.16-11.58.00:473][618]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:473][618]LogBlueprintUserMessages: [Test_Kart_C_0] -0.21556
+[2022.03.16-11.58.00:481][619]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:481][619]LogBlueprintUserMessages: [Test_Kart_C_0] -0.214576
+[2022.03.16-11.58.00:490][620]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:490][620]LogBlueprintUserMessages: [Test_Kart_C_0] -0.213885
+[2022.03.16-11.58.00:498][621]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:498][621]LogBlueprintUserMessages: [Test_Kart_C_0] -0.211489
+[2022.03.16-11.58.00:506][622]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:506][622]LogBlueprintUserMessages: [Test_Kart_C_0] -0.208645
+[2022.03.16-11.58.00:515][623]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:515][623]LogBlueprintUserMessages: [Test_Kart_C_0] -0.205798
+[2022.03.16-11.58.00:523][624]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:523][624]LogBlueprintUserMessages: [Test_Kart_C_0] -0.202805
+[2022.03.16-11.58.00:531][625]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:531][625]LogBlueprintUserMessages: [Test_Kart_C_0] -0.199474
+[2022.03.16-11.58.00:540][626]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:540][626]LogBlueprintUserMessages: [Test_Kart_C_0] -0.195739
+[2022.03.16-11.58.00:548][627]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:548][627]LogBlueprintUserMessages: [Test_Kart_C_0] -0.191584
+[2022.03.16-11.58.00:557][628]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:557][628]LogBlueprintUserMessages: [Test_Kart_C_0] -0.187012
+[2022.03.16-11.58.00:565][629]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:565][629]LogBlueprintUserMessages: [Test_Kart_C_0] -0.181802
+[2022.03.16-11.58.00:573][630]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:573][630]LogBlueprintUserMessages: [Test_Kart_C_0] -0.176344
+[2022.03.16-11.58.00:582][631]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:582][631]LogBlueprintUserMessages: [Test_Kart_C_0] -0.170368
+[2022.03.16-11.58.00:590][632]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:590][632]LogBlueprintUserMessages: [Test_Kart_C_0] -0.16398
+[2022.03.16-11.58.00:599][633]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:599][633]LogBlueprintUserMessages: [Test_Kart_C_0] -0.157146
+[2022.03.16-11.58.00:607][634]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:607][634]LogBlueprintUserMessages: [Test_Kart_C_0] -0.14988
+[2022.03.16-11.58.00:615][635]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:615][635]LogBlueprintUserMessages: [Test_Kart_C_0] -0.142164
+[2022.03.16-11.58.00:623][636]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:624][636]LogBlueprintUserMessages: [Test_Kart_C_0] -0.134009
+[2022.03.16-11.58.00:632][637]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:632][637]LogBlueprintUserMessages: [Test_Kart_C_0] -0.125395
+[2022.03.16-11.58.00:640][638]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:640][638]LogBlueprintUserMessages: [Test_Kart_C_0] -0.116343
+[2022.03.16-11.58.00:648][639]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:649][639]LogBlueprintUserMessages: [Test_Kart_C_0] -0.106834
+[2022.03.16-11.58.00:657][640]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:657][640]LogBlueprintUserMessages: [Test_Kart_C_0] -0.096898
+[2022.03.16-11.58.00:668][641]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:669][641]LogBlueprintUserMessages: [Test_Kart_C_0] -0.086249
+[2022.03.16-11.58.00:676][642]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:677][642]LogBlueprintUserMessages: [Test_Kart_C_0] -0.070998
+[2022.03.16-11.58.00:685][643]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:685][643]LogBlueprintUserMessages: [Test_Kart_C_0] -0.055932
+[2022.03.16-11.58.00:693][644]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:693][644]LogBlueprintUserMessages: [Test_Kart_C_0] -0.039339
+[2022.03.16-11.58.00:701][645]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:702][645]LogBlueprintUserMessages: [Test_Kart_C_0] -0.021802
+[2022.03.16-11.58.00:710][646]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:710][646]LogBlueprintUserMessages: [Test_Kart_C_0] -0.003384
+[2022.03.16-11.58.00:718][647]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:718][647]LogBlueprintUserMessages: [Test_Kart_C_0] 0.024173
+[2022.03.16-11.58.00:818][659]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:818][659]LogBlueprintUserMessages: [Test_Kart_C_0] 0.245106
+[2022.03.16-11.58.00:826][660]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:826][660]LogBlueprintUserMessages: [Test_Kart_C_0] 0.250138
+[2022.03.16-11.58.00:835][661]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:835][661]LogBlueprintUserMessages: [Test_Kart_C_0] 0.255162
+[2022.03.16-11.58.00:843][662]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:843][662]LogBlueprintUserMessages: [Test_Kart_C_0] 0.260177
+[2022.03.16-11.58.00:851][663]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:851][663]LogBlueprintUserMessages: [Test_Kart_C_0] 0.265185
+[2022.03.16-11.58.00:860][664]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:860][664]LogBlueprintUserMessages: [Test_Kart_C_0] 0.270184
+[2022.03.16-11.58.00:868][665]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:868][665]LogBlueprintUserMessages: [Test_Kart_C_0] 0.275175
+[2022.03.16-11.58.00:876][666]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:876][666]LogBlueprintUserMessages: [Test_Kart_C_0] 0.279062
+[2022.03.16-11.58.00:885][667]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:885][667]LogBlueprintUserMessages: [Test_Kart_C_0] 0.281914
+[2022.03.16-11.58.00:893][668]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:893][668]LogBlueprintUserMessages: [Test_Kart_C_0] 0.28458
+[2022.03.16-11.58.00:901][669]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:901][669]LogBlueprintUserMessages: [Test_Kart_C_0] 0.286702
+[2022.03.16-11.58.00:910][670]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:910][670]LogBlueprintUserMessages: [Test_Kart_C_0] 0.288536
+[2022.03.16-11.58.00:918][671]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:918][671]LogBlueprintUserMessages: [Test_Kart_C_0] 0.290022
+[2022.03.16-11.58.00:926][672]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:926][672]LogBlueprintUserMessages: [Test_Kart_C_0] 0.291183
+[2022.03.16-11.58.00:935][673]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:935][673]LogBlueprintUserMessages: [Test_Kart_C_0] 0.291979
+[2022.03.16-11.58.00:943][674]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:943][674]LogBlueprintUserMessages: [Test_Kart_C_0] 0.29152
+[2022.03.16-11.58.00:951][675]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:951][675]LogBlueprintUserMessages: [Test_Kart_C_0] 0.289293
+[2022.03.16-11.58.00:960][676]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:960][676]LogBlueprintUserMessages: [Test_Kart_C_0] 0.28661
+[2022.03.16-11.58.00:968][677]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:968][677]LogBlueprintUserMessages: [Test_Kart_C_0] 0.283957
+[2022.03.16-11.58.00:976][678]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:976][678]LogBlueprintUserMessages: [Test_Kart_C_0] 0.280625
+[2022.03.16-11.58.00:985][679]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:985][679]LogBlueprintUserMessages: [Test_Kart_C_0] 0.27506
+[2022.03.16-11.58.00:993][680]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.00:993][680]LogBlueprintUserMessages: [Test_Kart_C_0] 0.268715
+[2022.03.16-11.58.01:018][683]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.01:018][683]LogBlueprintUserMessages: [Test_Kart_C_0] 0.249536
+[2022.03.16-11.58.02:698][884]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:698][884]LogBlueprintUserMessages: [Test_Kart_C_0] -0.18602
+[2022.03.16-11.58.02:705][885]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:705][885]LogBlueprintUserMessages: [Test_Kart_C_0] -0.189958
+[2022.03.16-11.58.02:713][886]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:715][886]LogBlueprintUserMessages: [Test_Kart_C_0] -0.193886
+[2022.03.16-11.58.02:722][887]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:722][887]LogBlueprintUserMessages: [Test_Kart_C_0] -0.197802
+[2022.03.16-11.58.02:730][888]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:730][888]LogBlueprintUserMessages: [Test_Kart_C_0] -0.201709
+[2022.03.16-11.58.02:738][889]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:738][889]LogBlueprintUserMessages: [Test_Kart_C_0] -0.205604
+[2022.03.16-11.58.02:747][890]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:747][890]LogBlueprintUserMessages: [Test_Kart_C_0] -0.209487
+[2022.03.16-11.58.02:755][891]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:755][891]LogBlueprintUserMessages: [Test_Kart_C_0] -0.21336
+[2022.03.16-11.58.02:763][892]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:763][892]LogBlueprintUserMessages: [Test_Kart_C_0] -0.217219
+[2022.03.16-11.58.02:772][893]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:772][893]LogBlueprintUserMessages: [Test_Kart_C_0] -0.221066
+[2022.03.16-11.58.02:780][894]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:780][894]LogBlueprintUserMessages: [Test_Kart_C_0] -0.2249
+[2022.03.16-11.58.02:788][895]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:789][895]LogBlueprintUserMessages: [Test_Kart_C_0] -0.228721
+[2022.03.16-11.58.02:797][896]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:797][896]LogBlueprintUserMessages: [Test_Kart_C_0] -0.232529
+[2022.03.16-11.58.02:805][897]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:805][897]LogBlueprintUserMessages: [Test_Kart_C_0] -0.236323
+[2022.03.16-11.58.02:813][898]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:813][898]LogBlueprintUserMessages: [Test_Kart_C_0] -0.240103
+[2022.03.16-11.58.02:822][899]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:822][899]LogBlueprintUserMessages: [Test_Kart_C_0] -0.243868
+[2022.03.16-11.58.02:830][900]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:830][900]LogBlueprintUserMessages: [Test_Kart_C_0] -0.247619
+[2022.03.16-11.58.02:838][901]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:838][901]LogBlueprintUserMessages: [Test_Kart_C_0] -0.251355
+[2022.03.16-11.58.02:847][902]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:847][902]LogBlueprintUserMessages: [Test_Kart_C_0] -0.255076
+[2022.03.16-11.58.02:855][903]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:855][903]LogBlueprintUserMessages: [Test_Kart_C_0] -0.258781
+[2022.03.16-11.58.02:863][904]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:863][904]LogBlueprintUserMessages: [Test_Kart_C_0] -0.262471
+[2022.03.16-11.58.02:872][905]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:872][905]LogBlueprintUserMessages: [Test_Kart_C_0] -0.266144
+[2022.03.16-11.58.02:880][906]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:880][906]LogBlueprintUserMessages: [Test_Kart_C_0] -0.269801
+[2022.03.16-11.58.02:888][907]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:888][907]LogBlueprintUserMessages: [Test_Kart_C_0] -0.27344
+[2022.03.16-11.58.02:897][908]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:897][908]LogBlueprintUserMessages: [Test_Kart_C_0] -0.277063
+[2022.03.16-11.58.02:905][909]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:905][909]LogBlueprintUserMessages: [Test_Kart_C_0] -0.280669
+[2022.03.16-11.58.02:914][910]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:914][910]LogBlueprintUserMessages: [Test_Kart_C_0] -0.284256
+[2022.03.16-11.58.02:922][911]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:922][911]LogBlueprintUserMessages: [Test_Kart_C_0] -0.287829
+[2022.03.16-11.58.02:930][912]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:930][912]LogBlueprintUserMessages: [Test_Kart_C_0] -0.29138
+[2022.03.16-11.58.02:938][913]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:938][913]LogBlueprintUserMessages: [Test_Kart_C_0] -0.294913
+[2022.03.16-11.58.02:947][914]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:947][914]LogBlueprintUserMessages: [Test_Kart_C_0] -0.298427
+[2022.03.16-11.58.02:955][915]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:955][915]LogBlueprintUserMessages: [Test_Kart_C_0] -0.301922
+[2022.03.16-11.58.02:963][916]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:963][916]LogBlueprintUserMessages: [Test_Kart_C_0] -0.305398
+[2022.03.16-11.58.02:972][917]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:972][917]LogBlueprintUserMessages: [Test_Kart_C_0] -0.308854
+[2022.03.16-11.58.02:980][918]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:980][918]LogBlueprintUserMessages: [Test_Kart_C_0] -0.31229
+[2022.03.16-11.58.02:988][919]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:989][919]LogBlueprintUserMessages: [Test_Kart_C_0] -0.315706
+[2022.03.16-11.58.02:997][920]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.02:997][920]LogBlueprintUserMessages: [Test_Kart_C_0] -0.319101
+[2022.03.16-11.58.03:005][921]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:005][921]LogBlueprintUserMessages: [Test_Kart_C_0] -0.322476
+[2022.03.16-11.58.03:013][922]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:013][922]LogBlueprintUserMessages: [Test_Kart_C_0] -0.32583
+[2022.03.16-11.58.03:022][923]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:022][923]LogBlueprintUserMessages: [Test_Kart_C_0] -0.329162
+[2022.03.16-11.58.03:030][924]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:030][924]LogBlueprintUserMessages: [Test_Kart_C_0] -0.332472
+[2022.03.16-11.58.03:038][925]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:038][925]LogBlueprintUserMessages: [Test_Kart_C_0] -0.335761
+[2022.03.16-11.58.03:047][926]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:047][926]LogBlueprintUserMessages: [Test_Kart_C_0] -0.339027
+[2022.03.16-11.58.03:055][927]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:055][927]LogBlueprintUserMessages: [Test_Kart_C_0] -0.342271
+[2022.03.16-11.58.03:063][928]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:063][928]LogBlueprintUserMessages: [Test_Kart_C_0] -0.345493
+[2022.03.16-11.58.03:072][929]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:072][929]LogBlueprintUserMessages: [Test_Kart_C_0] -0.348692
+[2022.03.16-11.58.03:080][930]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:080][930]LogBlueprintUserMessages: [Test_Kart_C_0] -0.351867
+[2022.03.16-11.58.03:089][931]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:089][931]LogBlueprintUserMessages: [Test_Kart_C_0] -0.355019
+[2022.03.16-11.58.03:097][932]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:097][932]LogBlueprintUserMessages: [Test_Kart_C_0] -0.358147
+[2022.03.16-11.58.03:105][933]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:105][933]LogBlueprintUserMessages: [Test_Kart_C_0] -0.361251
+[2022.03.16-11.58.03:113][934]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:114][934]LogBlueprintUserMessages: [Test_Kart_C_0] -0.364332
+[2022.03.16-11.58.03:122][935]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:122][935]LogBlueprintUserMessages: [Test_Kart_C_0] -0.367387
+[2022.03.16-11.58.03:130][936]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:130][936]LogBlueprintUserMessages: [Test_Kart_C_0] -0.370418
+[2022.03.16-11.58.03:138][937]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:138][937]LogBlueprintUserMessages: [Test_Kart_C_0] -0.373424
+[2022.03.16-11.58.03:147][938]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:147][938]LogBlueprintUserMessages: [Test_Kart_C_0] -0.376405
+[2022.03.16-11.58.03:155][939]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:155][939]LogBlueprintUserMessages: [Test_Kart_C_0] -0.37936
+[2022.03.16-11.58.03:163][940]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:163][940]LogBlueprintUserMessages: [Test_Kart_C_0] -0.38229
+[2022.03.16-11.58.03:172][941]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:172][941]LogBlueprintUserMessages: [Test_Kart_C_0] -0.385194
+[2022.03.16-11.58.03:180][942]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:180][942]LogBlueprintUserMessages: [Test_Kart_C_0] -0.388071
+[2022.03.16-11.58.03:189][943]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:189][943]LogBlueprintUserMessages: [Test_Kart_C_0] -0.390922
+[2022.03.16-11.58.03:197][944]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:197][944]LogBlueprintUserMessages: [Test_Kart_C_0] -0.393747
+[2022.03.16-11.58.03:205][945]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:205][945]LogBlueprintUserMessages: [Test_Kart_C_0] -0.396545
+[2022.03.16-11.58.03:214][946]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:214][946]LogBlueprintUserMessages: [Test_Kart_C_0] -0.399315
+[2022.03.16-11.58.03:222][947]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:222][947]LogBlueprintUserMessages: [Test_Kart_C_0] -0.374326
+[2022.03.16-11.58.03:230][948]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:230][948]LogBlueprintUserMessages: [Test_Kart_C_0] -0.34789
+[2022.03.16-11.58.03:238][949]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:239][949]LogBlueprintUserMessages: [Test_Kart_C_0] -0.321138
+[2022.03.16-11.58.03:247][950]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:247][950]LogBlueprintUserMessages: [Test_Kart_C_0] -0.294101
+[2022.03.16-11.58.03:255][951]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:255][951]LogBlueprintUserMessages: [Test_Kart_C_0] -0.266808
+[2022.03.16-11.58.03:263][952]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:264][952]LogBlueprintUserMessages: [Test_Kart_C_0] -0.239288
+[2022.03.16-11.58.03:272][953]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:272][953]LogBlueprintUserMessages: [Test_Kart_C_0] -0.211573
+[2022.03.16-11.58.03:280][954]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:280][954]LogBlueprintUserMessages: [Test_Kart_C_0] -0.183692
+[2022.03.16-11.58.03:289][955]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:289][955]LogBlueprintUserMessages: [Test_Kart_C_0] -0.155676
+[2022.03.16-11.58.03:297][956]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:297][956]LogBlueprintUserMessages: [Test_Kart_C_0] -0.127555
+[2022.03.16-11.58.03:305][957]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:305][957]LogBlueprintUserMessages: [Test_Kart_C_0] -0.099362
+[2022.03.16-11.58.03:314][958]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:314][958]LogBlueprintUserMessages: [Test_Kart_C_0] -0.071126
+[2022.03.16-11.58.03:322][959]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:322][959]LogBlueprintUserMessages: [Test_Kart_C_0] -0.042879
+[2022.03.16-11.58.03:330][960]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:330][960]LogBlueprintUserMessages: [Test_Kart_C_0] -0.014651
+[2022.03.16-11.58.03:339][961]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:339][961]LogBlueprintUserMessages: [Test_Kart_C_0] 0.013526
+[2022.03.16-11.58.03:347][962]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:347][962]LogBlueprintUserMessages: [Test_Kart_C_0] 0.041621
+[2022.03.16-11.58.03:356][963]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:356][963]LogBlueprintUserMessages: [Test_Kart_C_0] 0.069604
+[2022.03.16-11.58.03:364][964]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:364][964]LogBlueprintUserMessages: [Test_Kart_C_0] 0.097444
+[2022.03.16-11.58.03:372][965]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:372][965]LogBlueprintUserMessages: [Test_Kart_C_0] 0.12511
+[2022.03.16-11.58.03:380][966]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:380][966]LogBlueprintUserMessages: [Test_Kart_C_0] 0.152572
+[2022.03.16-11.58.03:389][967]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:389][967]LogBlueprintUserMessages: [Test_Kart_C_0] 0.179799
+[2022.03.16-11.58.03:397][968]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:397][968]LogBlueprintUserMessages: [Test_Kart_C_0] 0.188523
+[2022.03.16-11.58.03:405][969]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:405][969]LogBlueprintUserMessages: [Test_Kart_C_0] 0.196248
+[2022.03.16-11.58.03:414][970]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:414][970]LogBlueprintUserMessages: [Test_Kart_C_0] 0.20351
+[2022.03.16-11.58.03:422][971]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:422][971]LogBlueprintUserMessages: [Test_Kart_C_0] 0.210297
+[2022.03.16-11.58.03:430][972]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:430][972]LogBlueprintUserMessages: [Test_Kart_C_0] 0.216594
+[2022.03.16-11.58.03:439][973]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:439][973]LogBlueprintUserMessages: [Test_Kart_C_0] 0.222392
+[2022.03.16-11.58.03:447][974]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:447][974]LogBlueprintUserMessages: [Test_Kart_C_0] 0.227681
+[2022.03.16-11.58.03:455][975]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:455][975]LogBlueprintUserMessages: [Test_Kart_C_0] 0.232452
+[2022.03.16-11.58.03:464][976]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:464][976]LogBlueprintUserMessages: [Test_Kart_C_0] 0.236696
+[2022.03.16-11.58.03:472][977]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:472][977]LogBlueprintUserMessages: [Test_Kart_C_0] 0.240406
+[2022.03.16-11.58.03:480][978]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:480][978]LogBlueprintUserMessages: [Test_Kart_C_0] 0.243575
+[2022.03.16-11.58.03:489][979]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:489][979]LogBlueprintUserMessages: [Test_Kart_C_0] 0.22997
+[2022.03.16-11.58.03:497][980]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:497][980]LogBlueprintUserMessages: [Test_Kart_C_0] 0.215408
+[2022.03.16-11.58.03:505][981]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:505][981]LogBlueprintUserMessages: [Test_Kart_C_0] 0.20078
+[2022.03.16-11.58.03:514][982]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:514][982]LogBlueprintUserMessages: [Test_Kart_C_0] 0.186089
+[2022.03.16-11.58.03:522][983]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:522][983]LogBlueprintUserMessages: [Test_Kart_C_0] 0.17134
+[2022.03.16-11.58.03:530][984]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:530][984]LogBlueprintUserMessages: [Test_Kart_C_0] 0.156536
+[2022.03.16-11.58.03:539][985]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:539][985]LogBlueprintUserMessages: [Test_Kart_C_0] 0.141681
+[2022.03.16-11.58.03:547][986]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:547][986]LogBlueprintUserMessages: [Test_Kart_C_0] 0.126764
+[2022.03.16-11.58.03:555][987]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:556][987]LogBlueprintUserMessages: [Test_Kart_C_0] 0.11182
+[2022.03.16-11.58.03:564][988]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:564][988]LogBlueprintUserMessages: [Test_Kart_C_0] 0.096839
+[2022.03.16-11.58.03:572][989]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:572][989]LogBlueprintUserMessages: [Test_Kart_C_0] 0.081824
+[2022.03.16-11.58.03:580][990]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:580][990]LogBlueprintUserMessages: [Test_Kart_C_0] 0.066778
+[2022.03.16-11.58.03:589][991]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:589][991]LogBlueprintUserMessages: [Test_Kart_C_0] 0.051707
+[2022.03.16-11.58.03:597][992]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:597][992]LogBlueprintUserMessages: [Test_Kart_C_0] 0.036615
+[2022.03.16-11.58.03:605][993]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:605][993]LogBlueprintUserMessages: [Test_Kart_C_0] 0.021506
+[2022.03.16-11.58.03:614][994]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:614][994]LogBlueprintUserMessages: [Test_Kart_C_0] 0.006383
+[2022.03.16-11.58.03:622][995]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:622][995]LogBlueprintUserMessages: [Test_Kart_C_0] -0.008748
+[2022.03.16-11.58.03:630][996]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:630][996]LogBlueprintUserMessages: [Test_Kart_C_0] -0.023884
+[2022.03.16-11.58.03:639][997]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:639][997]LogBlueprintUserMessages: [Test_Kart_C_0] -0.03902
+[2022.03.16-11.58.03:647][998]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:647][998]LogBlueprintUserMessages: [Test_Kart_C_0] -0.03362
+[2022.03.16-11.58.03:656][999]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:656][999]LogBlueprintUserMessages: [Test_Kart_C_0] -0.02699
+[2022.03.16-11.58.03:664][  0]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:664][  0]LogBlueprintUserMessages: [Test_Kart_C_0] -0.020362
+[2022.03.16-11.58.03:672][  1]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:672][  1]LogBlueprintUserMessages: [Test_Kart_C_0] -0.013734
+[2022.03.16-11.58.03:680][  2]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:680][  2]LogBlueprintUserMessages: [Test_Kart_C_0] -0.007108
+[2022.03.16-11.58.03:689][  3]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:689][  3]LogBlueprintUserMessages: [Test_Kart_C_0] -0.000484
+[2022.03.16-11.58.03:697][  4]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:697][  4]LogBlueprintUserMessages: [Test_Kart_C_0] 0.006139
+[2022.03.16-11.58.03:705][  5]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:706][  5]LogBlueprintUserMessages: [Test_Kart_C_0] 0.012759
+[2022.03.16-11.58.03:714][  6]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:714][  6]LogBlueprintUserMessages: [Test_Kart_C_0] 0.019377
+[2022.03.16-11.58.03:722][  7]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:722][  7]LogBlueprintUserMessages: [Test_Kart_C_0] 0.022732
+[2022.03.16-11.58.03:730][  8]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:730][  8]LogBlueprintUserMessages: [Test_Kart_C_0] 0.02272
+[2022.03.16-11.58.03:739][  9]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:739][  9]LogBlueprintUserMessages: [Test_Kart_C_0] 0.021554
+[2022.03.16-11.58.03:747][ 10]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:747][ 10]LogBlueprintUserMessages: [Test_Kart_C_0] 0.019872
+[2022.03.16-11.58.03:756][ 11]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:756][ 11]LogBlueprintUserMessages: [Test_Kart_C_0] 0.017754
+[2022.03.16-11.58.03:764][ 12]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.03:764][ 12]LogBlueprintUserMessages: [Test_Kart_C_0] 0.015151
+[2022.03.16-11.58.04:823][139]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.04:823][139]LogBlueprintUserMessages: [Test_Kart_C_0] 0.126787
+[2022.03.16-11.58.04:831][140]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.04:831][140]LogBlueprintUserMessages: [Test_Kart_C_0] 0.133352
+[2022.03.16-11.58.04:839][141]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.04:839][141]LogBlueprintUserMessages: [Test_Kart_C_0] 0.146363
+[2022.03.16-11.58.04:847][142]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.04:847][142]LogBlueprintUserMessages: [Test_Kart_C_0] 0.161001
+[2022.03.16-11.58.04:890][147]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.04:890][147]LogBlueprintUserMessages: [Test_Kart_C_0] 0.191017
+[2022.03.16-11.58.04:897][148]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.04:897][148]LogBlueprintUserMessages: [Test_Kart_C_0] 0.184681
+[2022.03.16-11.58.05:190][183]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:190][183]LogBlueprintUserMessages: [Test_Kart_C_0] 0.270495
+[2022.03.16-11.58.05:281][194]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:281][194]LogBlueprintUserMessages: [Test_Kart_C_0] 0.237068
+[2022.03.16-11.58.05:298][196]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:298][196]LogBlueprintUserMessages: [Test_Kart_C_0] 0.208997
+[2022.03.16-11.58.05:315][198]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:315][198]LogBlueprintUserMessages: [Test_Kart_C_0] 0.182979
+[2022.03.16-11.58.05:340][201]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:340][201]LogBlueprintUserMessages: [Test_Kart_C_0] 0.145599
+[2022.03.16-11.58.05:357][203]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:357][203]LogBlueprintUserMessages: [Test_Kart_C_0] 0.125105
+[2022.03.16-11.58.05:365][204]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:365][204]LogBlueprintUserMessages: [Test_Kart_C_0] 0.114866
+[2022.03.16-11.58.05:373][205]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:373][205]LogBlueprintUserMessages: [Test_Kart_C_0] 0.104592
+[2022.03.16-11.58.05:381][206]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:381][206]LogBlueprintUserMessages: [Test_Kart_C_0] 0.094283
+[2022.03.16-11.58.05:473][217]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:473][217]LogBlueprintUserMessages: [Test_Kart_C_0] -0.039317
+[2022.03.16-11.58.05:481][218]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:481][218]LogBlueprintUserMessages: [Test_Kart_C_0] -0.04586
+[2022.03.16-11.58.05:490][219]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:490][219]LogBlueprintUserMessages: [Test_Kart_C_0] -0.052458
+[2022.03.16-11.58.05:498][220]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:498][220]LogBlueprintUserMessages: [Test_Kart_C_0] -0.059106
+[2022.03.16-11.58.05:506][221]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:506][221]LogBlueprintUserMessages: [Test_Kart_C_0] -0.065801
+[2022.03.16-11.58.05:515][222]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:515][222]LogBlueprintUserMessages: [Test_Kart_C_0] -0.072546
+[2022.03.16-11.58.05:523][223]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:523][223]LogBlueprintUserMessages: [Test_Kart_C_0] -0.079324
+[2022.03.16-11.58.05:531][224]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:531][224]LogBlueprintUserMessages: [Test_Kart_C_0] -0.086138
+[2022.03.16-11.58.05:540][225]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:540][225]LogBlueprintUserMessages: [Test_Kart_C_0] -0.092984
+[2022.03.16-11.58.05:548][226]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:548][226]LogBlueprintUserMessages: [Test_Kart_C_0] -0.099858
+[2022.03.16-11.58.05:556][227]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:556][227]LogBlueprintUserMessages: [Test_Kart_C_0] -0.106757
+[2022.03.16-11.58.05:565][228]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:565][228]LogBlueprintUserMessages: [Test_Kart_C_0] -0.113676
+[2022.03.16-11.58.05:573][229]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:573][229]LogBlueprintUserMessages: [Test_Kart_C_0] -0.120612
+[2022.03.16-11.58.05:581][230]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:581][230]LogBlueprintUserMessages: [Test_Kart_C_0] -0.127561
+[2022.03.16-11.58.05:590][231]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:590][231]LogBlueprintUserMessages: [Test_Kart_C_0] -0.134519
+[2022.03.16-11.58.05:598][232]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:598][232]LogBlueprintUserMessages: [Test_Kart_C_0] -0.141482
+[2022.03.16-11.58.05:606][233]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:606][233]LogBlueprintUserMessages: [Test_Kart_C_0] -0.148447
+[2022.03.16-11.58.05:615][234]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:615][234]LogBlueprintUserMessages: [Test_Kart_C_0] -0.15541
+[2022.03.16-11.58.05:623][235]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:623][235]LogBlueprintUserMessages: [Test_Kart_C_0] -0.13948
+[2022.03.16-11.58.05:631][236]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:631][236]LogBlueprintUserMessages: [Test_Kart_C_0] -0.122938
+[2022.03.16-11.58.05:640][237]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:640][237]LogBlueprintUserMessages: [Test_Kart_C_0] -0.106366
+[2022.03.16-11.58.05:648][238]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:648][238]LogBlueprintUserMessages: [Test_Kart_C_0] -0.089778
+[2022.03.16-11.58.05:657][239]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:657][239]LogBlueprintUserMessages: [Test_Kart_C_0] -0.073176
+[2022.03.16-11.58.05:665][240]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:665][240]LogBlueprintUserMessages: [Test_Kart_C_0] -0.056566
+[2022.03.16-11.58.05:673][241]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.05:673][241]LogBlueprintUserMessages: [Test_Kart_C_0] -0.039954
+[2022.03.16-11.58.11:260][910]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:260][910]LogBlueprintUserMessages: [Test_Kart_C_0] -0.020347
+[2022.03.16-11.58.11:268][911]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:268][911]LogBlueprintUserMessages: [Test_Kart_C_0] -0.024371
+[2022.03.16-11.58.11:277][912]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:277][912]LogBlueprintUserMessages: [Test_Kart_C_0] -0.028396
+[2022.03.16-11.58.11:285][913]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:285][913]LogBlueprintUserMessages: [Test_Kart_C_0] -0.03242
+[2022.03.16-11.58.11:293][914]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:293][914]LogBlueprintUserMessages: [Test_Kart_C_0] -0.036443
+[2022.03.16-11.58.11:302][915]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:302][915]LogBlueprintUserMessages: [Test_Kart_C_0] -0.040465
+[2022.03.16-11.58.11:311][916]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:311][916]LogBlueprintUserMessages: [Test_Kart_C_0] -0.04485
+[2022.03.16-11.58.11:320][917]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:320][917]LogBlueprintUserMessages: [Test_Kart_C_0] -0.04887
+[2022.03.16-11.58.11:327][918]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:327][918]LogBlueprintUserMessages: [Test_Kart_C_0] -0.05289
+[2022.03.16-11.58.11:335][919]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:335][919]LogBlueprintUserMessages: [Test_Kart_C_0] -0.056909
+[2022.03.16-11.58.11:344][920]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:344][920]LogBlueprintUserMessages: [Test_Kart_C_0] -0.060926
+[2022.03.16-11.58.11:352][921]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:352][921]LogBlueprintUserMessages: [Test_Kart_C_0] -0.064943
+[2022.03.16-11.58.11:360][922]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:360][922]LogBlueprintUserMessages: [Test_Kart_C_0] -0.068958
+[2022.03.16-11.58.11:369][923]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:369][923]LogBlueprintUserMessages: [Test_Kart_C_0] -0.072972
+[2022.03.16-11.58.11:377][924]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:377][924]LogBlueprintUserMessages: [Test_Kart_C_0] -0.076984
+[2022.03.16-11.58.11:385][925]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:385][925]LogBlueprintUserMessages: [Test_Kart_C_0] -0.080995
+[2022.03.16-11.58.11:394][926]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:394][926]LogBlueprintUserMessages: [Test_Kart_C_0] -0.085004
+[2022.03.16-11.58.11:402][927]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:402][927]LogBlueprintUserMessages: [Test_Kart_C_0] -0.089012
+[2022.03.16-11.58.11:410][928]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:410][928]LogBlueprintUserMessages: [Test_Kart_C_0] -0.093017
+[2022.03.16-11.58.11:419][929]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:419][929]LogBlueprintUserMessages: [Test_Kart_C_0] -0.097022
+[2022.03.16-11.58.11:427][930]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:427][930]LogBlueprintUserMessages: [Test_Kart_C_0] -0.101024
+[2022.03.16-11.58.11:436][931]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:436][931]LogBlueprintUserMessages: [Test_Kart_C_0] -0.105024
+[2022.03.16-11.58.11:444][932]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:444][932]LogBlueprintUserMessages: [Test_Kart_C_0] -0.109096
+[2022.03.16-11.58.11:452][933]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:452][933]LogBlueprintUserMessages: [Test_Kart_C_0] -0.113092
+[2022.03.16-11.58.11:461][934]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:461][934]LogBlueprintUserMessages: [Test_Kart_C_0] -0.117086
+[2022.03.16-11.58.11:469][935]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:469][935]LogBlueprintUserMessages: [Test_Kart_C_0] -0.121078
+[2022.03.16-11.58.11:478][936]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:478][936]LogBlueprintUserMessages: [Test_Kart_C_0] -0.125307
+[2022.03.16-11.58.11:486][937]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:486][937]LogBlueprintUserMessages: [Test_Kart_C_0] -0.129294
+[2022.03.16-11.58.11:495][938]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:495][938]LogBlueprintUserMessages: [Test_Kart_C_0] -0.133278
+[2022.03.16-11.58.11:503][939]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:503][939]LogBlueprintUserMessages: [Test_Kart_C_0] -0.137266
+[2022.03.16-11.58.11:511][940]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:511][940]LogBlueprintUserMessages: [Test_Kart_C_0] -0.141245
+[2022.03.16-11.58.11:519][941]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:519][941]LogBlueprintUserMessages: [Test_Kart_C_0] -0.145221
+[2022.03.16-11.58.11:528][942]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:528][942]LogBlueprintUserMessages: [Test_Kart_C_0] -0.149194
+[2022.03.16-11.58.11:537][943]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:537][943]LogBlueprintUserMessages: [Test_Kart_C_0] -0.153165
+[2022.03.16-11.58.11:546][944]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:546][944]LogBlueprintUserMessages: [Test_Kart_C_0] -0.157499
+[2022.03.16-11.58.11:554][945]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:554][945]LogBlueprintUserMessages: [Test_Kart_C_0] -0.161463
+[2022.03.16-11.58.11:562][946]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:562][946]LogBlueprintUserMessages: [Test_Kart_C_0] -0.165424
+[2022.03.16-11.58.11:571][947]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:571][947]LogBlueprintUserMessages: [Test_Kart_C_0] -0.169382
+[2022.03.16-11.58.11:579][948]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:579][948]LogBlueprintUserMessages: [Test_Kart_C_0] -0.173578
+[2022.03.16-11.58.11:587][949]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:587][949]LogBlueprintUserMessages: [Test_Kart_C_0] -0.177534
+[2022.03.16-11.58.11:596][950]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:596][950]LogBlueprintUserMessages: [Test_Kart_C_0] -0.181482
+[2022.03.16-11.58.11:604][951]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:604][951]LogBlueprintUserMessages: [Test_Kart_C_0] -0.185426
+[2022.03.16-11.58.11:612][952]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:612][952]LogBlueprintUserMessages: [Test_Kart_C_0] -0.189366
+[2022.03.16-11.58.11:621][953]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:621][953]LogBlueprintUserMessages: [Test_Kart_C_0] -0.193303
+[2022.03.16-11.58.11:629][954]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:629][954]LogBlueprintUserMessages: [Test_Kart_C_0] -0.197236
+[2022.03.16-11.58.11:637][955]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:638][955]LogBlueprintUserMessages: [Test_Kart_C_0] -0.201165
+[2022.03.16-11.58.11:646][956]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:646][956]LogBlueprintUserMessages: [Test_Kart_C_0] -0.20509
+[2022.03.16-11.58.11:654][957]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:654][957]LogBlueprintUserMessages: [Test_Kart_C_0] -0.209011
+[2022.03.16-11.58.11:662][958]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:663][958]LogBlueprintUserMessages: [Test_Kart_C_0] -0.212934
+[2022.03.16-11.58.11:671][959]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:671][959]LogBlueprintUserMessages: [Test_Kart_C_0] -0.216847
+[2022.03.16-11.58.11:679][960]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:679][960]LogBlueprintUserMessages: [Test_Kart_C_0] -0.220756
+[2022.03.16-11.58.11:687][961]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:687][961]LogBlueprintUserMessages: [Test_Kart_C_0] -0.22466
+[2022.03.16-11.58.11:696][962]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:696][962]LogBlueprintUserMessages: [Test_Kart_C_0] -0.22856
+[2022.03.16-11.58.11:704][963]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:704][963]LogBlueprintUserMessages: [Test_Kart_C_0] -0.232455
+[2022.03.16-11.58.11:712][964]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:712][964]LogBlueprintUserMessages: [Test_Kart_C_0] -0.236347
+[2022.03.16-11.58.11:721][965]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:721][965]LogBlueprintUserMessages: [Test_Kart_C_0] -0.240233
+[2022.03.16-11.58.11:729][966]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:729][966]LogBlueprintUserMessages: [Test_Kart_C_0] -0.244115
+[2022.03.16-11.58.11:737][967]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:738][967]LogBlueprintUserMessages: [Test_Kart_C_0] -0.247992
+[2022.03.16-11.58.11:746][968]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:746][968]LogBlueprintUserMessages: [Test_Kart_C_0] -0.251864
+[2022.03.16-11.58.11:754][969]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:754][969]LogBlueprintUserMessages: [Test_Kart_C_0] -0.255732
+[2022.03.16-11.58.11:763][970]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:763][970]LogBlueprintUserMessages: [Test_Kart_C_0] -0.259599
+[2022.03.16-11.58.11:771][971]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:771][971]LogBlueprintUserMessages: [Test_Kart_C_0] -0.263457
+[2022.03.16-11.58.11:779][972]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:779][972]LogBlueprintUserMessages: [Test_Kart_C_0] -0.267309
+[2022.03.16-11.58.11:787][973]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:787][973]LogBlueprintUserMessages: [Test_Kart_C_0] -0.236895
+[2022.03.16-11.58.11:796][974]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:796][974]LogBlueprintUserMessages: [Test_Kart_C_0] -0.20426
+[2022.03.16-11.58.11:804][975]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:804][975]LogBlueprintUserMessages: [Test_Kart_C_0] -0.149683
+[2022.03.16-11.58.11:812][976]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:812][976]LogBlueprintUserMessages: [Test_Kart_C_0] -0.094288
+[2022.03.16-11.58.11:821][977]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:821][977]LogBlueprintUserMessages: [Test_Kart_C_0] -0.038463
+[2022.03.16-11.58.11:829][978]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:829][978]LogBlueprintUserMessages: [Test_Kart_C_0] -0.038336
+[2022.03.16-11.58.11:837][979]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:838][979]LogBlueprintUserMessages: [Test_Kart_C_0] -0.039441
+[2022.03.16-11.58.11:846][980]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:846][980]LogBlueprintUserMessages: [Test_Kart_C_0] -0.040173
+[2022.03.16-11.58.11:854][981]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:854][981]LogBlueprintUserMessages: [Test_Kart_C_0] -0.04053
+[2022.03.16-11.58.11:863][982]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:863][982]LogBlueprintUserMessages: [Test_Kart_C_0] -0.040511
+[2022.03.16-11.58.11:871][983]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:871][983]LogBlueprintUserMessages: [Test_Kart_C_0] -0.024796
+[2022.03.16-11.58.11:879][984]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:879][984]LogBlueprintUserMessages: [Test_Kart_C_0] -0.008986
+[2022.03.16-11.58.11:887][985]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:888][985]LogBlueprintUserMessages: [Test_Kart_C_0] 0.006863
+[2022.03.16-11.58.11:896][986]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:896][986]LogBlueprintUserMessages: [Test_Kart_C_0] 0.022743
+[2022.03.16-11.58.11:904][987]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:904][987]LogBlueprintUserMessages: [Test_Kart_C_0] 0.022289
+[2022.03.16-11.58.11:913][988]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:913][988]LogBlueprintUserMessages: [Test_Kart_C_0] 0.021194
+[2022.03.16-11.58.11:921][989]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:921][989]LogBlueprintUserMessages: [Test_Kart_C_0] 0.020112
+[2022.03.16-11.58.11:929][990]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:929][990]LogBlueprintUserMessages: [Test_Kart_C_0] 0.019044
+[2022.03.16-11.58.11:938][991]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:938][991]LogBlueprintUserMessages: [Test_Kart_C_0] 0.017989
+[2022.03.16-11.58.11:946][992]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:946][992]LogBlueprintUserMessages: [Test_Kart_C_0] 0.016948
+[2022.03.16-11.58.11:954][993]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:954][993]LogBlueprintUserMessages: [Test_Kart_C_0] 0.01592
+[2022.03.16-11.58.11:963][994]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:963][994]LogBlueprintUserMessages: [Test_Kart_C_0] 0.014906
+[2022.03.16-11.58.11:971][995]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:971][995]LogBlueprintUserMessages: [Test_Kart_C_0] 0.013906
+[2022.03.16-11.58.11:979][996]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:979][996]LogBlueprintUserMessages: [Test_Kart_C_0] 0.012919
+[2022.03.16-11.58.11:988][997]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:988][997]LogBlueprintUserMessages: [Test_Kart_C_0] 0.011947
+[2022.03.16-11.58.11:996][998]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.11:996][998]LogBlueprintUserMessages: [Test_Kart_C_0] 0.010988
+[2022.03.16-11.58.12:004][999]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.12:004][999]LogBlueprintUserMessages: [Test_Kart_C_0] 0.010043
+[2022.03.16-11.58.12:013][  0]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.12:013][  0]LogBlueprintUserMessages: [Test_Kart_C_0] 0.009112
+[2022.03.16-11.58.12:021][  1]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.12:021][  1]LogBlueprintUserMessages: [Test_Kart_C_0] 0.007622
+[2022.03.16-11.58.12:029][  2]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.12:029][  2]LogBlueprintUserMessages: [Test_Kart_C_0] 0.004208
+[2022.03.16-11.58.12:038][  3]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.12:038][  3]LogBlueprintUserMessages: [Test_Kart_C_0] 0.001072
+[2022.03.16-11.58.12:046][  4]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.12:046][  4]LogBlueprintUserMessages: [Test_Kart_C_0] 0.000022
+[2022.03.16-11.58.12:054][  5]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.12:054][  5]LogBlueprintUserMessages: [Test_Kart_C_0] -0.000045
+[2022.03.16-11.58.12:063][  6]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.12:063][  6]LogBlueprintUserMessages: [Test_Kart_C_0] 0.000035
+[2022.03.16-11.58.12:071][  7]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.12:071][  7]LogBlueprintUserMessages: [Test_Kart_C_0] 0.000073
+[2022.03.16-11.58.12:079][  8]LogBlueprintUserMessages: [Test_Kart_C_0] Airborne
+[2022.03.16-11.58.12:079][  8]LogBlueprintUserMessages: [Test_Kart_C_0] -0.000039
+[2022.03.16-11.58.12:116][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-11.58.12:116][  8]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_RyanMap
+[2022.03.16-11.58.12:117][  8]LogWorld: UWorld::CleanupWorld for RyanMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-11.58.12:118][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-11.58.12:129][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.16-11.58.12:131][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-11.58.12:137][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-11.58.12:138][  8]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.16-11.58.12:139][  8]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.16-11.58.12:160][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.03.16-11.58.12:182][  9]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.03.16-11.58.15:805][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RyansPLants)
+[2022.03.16-11.58.19:751][803]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/VehicleBP/LevelDecoratingAssets/Roadpieces/RyansPLants.RyansPLants
+[2022.03.16-11.58.36:073][ 63]LogSavePackage: Moving '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyansPLantsFE73886D442D564D5425D894237C9053.tmp' to '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/LevelDecoratingAssets/Roadpieces/RyansPLants.uasset'
+[2022.03.16-11.58.36:092][ 63]AssetCheck: New page: Asset Save: RyansPLants
+[2022.03.16-11.58.36:092][ 63]LogContentValidation: Display: Validating StaticMesh /Game/VehicleBP/LevelDecoratingAssets/Roadpieces/RyansPLants.RyansPLants
+[2022.03.16-11.58.37:641][183]LogSlate: Window 'RyansPLants' being destroyed
+[2022.03.16-11.58.37:648][183]LogSlate: Window 'RyansPLants' being destroyed
+[2022.03.16-11.58.37:653][183]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-11.58.37:653][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-11.58.38:887][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LongTurnTrack)
+[2022.03.16-11.58.40:652][493]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/VehicleBP/LevelDecoratingAssets/Roadpieces/Johnnythons/LongTurnTrack.LongTurnTrack
+[2022.03.16-11.58.52:653][402]LogSavePackage: Moving '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/LongTurnTrack1058A0A14838E824C204CC8F7F047DE8.tmp' to '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/LevelDecoratingAssets/Roadpieces/Johnnythons/LongTurnTrack.uasset'
+[2022.03.16-11.58.52:673][402]AssetCheck: New page: Asset Save: LongTurnTrack
+[2022.03.16-11.58.52:673][402]LogContentValidation: Display: Validating StaticMesh /Game/VehicleBP/LevelDecoratingAssets/Roadpieces/Johnnythons/LongTurnTrack.LongTurnTrack
+[2022.03.16-11.58.54:075][509]LogSlate: Window 'LongTurnTrack' being destroyed
+[2022.03.16-11.58.54:082][509]LogSlate: Window 'LongTurnTrack' being destroyed
+[2022.03.16-11.58.54:087][509]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-11.58.54:087][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-11.58.55:126][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.03.16-11.58.55:407][616]LogSavePackage: Moving '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyanMapE5846CDB49E6621A421B1FA81201D71F.tmp' to '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyanMap.umap'
+[2022.03.16-11.58.55:416][616]LogFileHelpers: No new changes to save!
+[2022.03.16-11.58.55:429][616]AssetCheck: New page: Asset Save: RyanMap
+[2022.03.16-11.58.55:429][616]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyanMap.RyanMap
