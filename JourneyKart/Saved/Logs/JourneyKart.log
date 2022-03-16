@@ -26980,3 +26980,32 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.16-12.31.08:284][114]LogFileHelpers: No new changes to save!
 [2022.03.16-12.31.08:295][114]AssetCheck: New page: Asset Save: RyanMap
 [2022.03.16-12.31.08:295][114]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyanMap.RyanMap
+[2022.03.16-12.37.03:802][812]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (WaterTempText_Sprite9)
+[2022.03.16-12.37.04:132][843]Cmd: EDIT COPY
+[2022.03.16-12.37.04:325][856]Cmd: EDIT PASTE
+[2022.03.16-12.37.09:017][375]Cmd: DELETE
+[2022.03.16-12.37.09:017][375]Cmd: ACTOR DELETE
+[2022.03.16-12.37.09:021][375]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2022.03.16-12.37.09:029][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.03.16-12.37.09:034][375]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2022.03.16-12.37.49:169][864]Cmd: EDIT COPY
+[2022.03.16-12.37.49:378][880]Cmd: EDIT PASTE
+[2022.03.16-12.37.53:221][322]Cmd: EDIT COPY
+[2022.03.16-12.37.53:476][351]Cmd: EDIT PASTE
+[2022.03.16-12.37.56:744][724]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (WaterTempText_Sprite11)
+[2022.03.16-12.37.57:877][853]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (WaterTempText_Sprite12)
+[2022.03.16-12.37.59:640][ 36]Cmd: EDIT COPY
+[2022.03.16-12.37.59:849][ 50]Cmd: EDIT PASTE
+[2022.03.16-12.38.03:313][426]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (WaterTempText_Sprite12)
+[2022.03.16-12.38.15:024][735]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (WaterTempText_Sprite13)
+[2022.03.16-12.38.43:258][973]Cmd: EDIT COPY
+[2022.03.16-12.38.43:536][999]Cmd: EDIT PASTE
+[2022.03.16-12.39.09:190][860]Cmd: EDIT COPY
+[2022.03.16-12.39.09:403][884]Cmd: EDIT PASTE
+[2022.03.16-12.39.43:282][730]Cmd: EDIT COPY
+[2022.03.16-12.39.43:475][744]Cmd: EDIT PASTE
+[2022.03.16-12.40.15:832][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.03.16-12.40.16:106][362]LogSavePackage: Moving '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyanMapFFFB40664F06D60FB83BBAB63646E042.tmp' to '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyanMap.umap'
+[2022.03.16-12.40.16:115][362]LogFileHelpers: No new changes to save!
+[2022.03.16-12.40.16:126][362]AssetCheck: New page: Asset Save: RyanMap
+[2022.03.16-12.40.16:126][362]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyanMap.RyanMap
