@@ -9983,3 +9983,555 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.25-14.45.07:605][866]AssetCheck: New page: Asset Save: multiple assets
 [2022.03.25-14.45.07:605][866]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyansToEdit.RyansToEdit
 [2022.03.25-14.45.07:605][866]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/RyansToEdit_BuiltData.RyansToEdit_BuiltData
+[2022.03.25-14.47.07:582][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_Bush87)
+[2022.03.25-14.47.20:971][130]Cmd: EDIT COPY
+[2022.03.25-14.47.21:178][153]Cmd: EDIT PASTE
+[2022.03.25-14.47.38:729][683]LogStaticMesh: Building static mesh Mesh_PineTree...
+[2022.03.25-14.47.38:775][683]LogStaticMesh: Built static mesh [0.05s] /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Mesh_PineTree.Mesh_PineTree
+[2022.03.25-14.47.38:855][685]LogActorFactory: Actor Factory created Mesh_PineTree
+[2022.03.25-14.47.39:547][750]LogActorFactory: Actor Factory created Mesh_PineTree
+[2022.03.25-14.47.50:754][772]LogTexture: Display: Building textures: Mat_PineTree_Base_color (AutoDXT, 512X512)
+[2022.03.25-14.47.51:393][831]LogMaterial: Display: Missing cached shader map for material Mat_PineTree_Base_color_Mat, compiling. 
+[2022.03.25-14.47.51:407][831]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2022.03.25-14.47.51:407][831]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2022.03.25-14.47.51:407][831]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2022.03.25-14.48.02:301][763]Cmd: TRANSACTION UNDO
+[2022.03.25-14.48.02:301][763]LogEditorTransaction: Undo Create Actors
+[2022.03.25-14.48.13:423][753]Cmd: TRANSACTION UNDO
+[2022.03.25-14.48.13:423][753]LogEditorTransaction: Undo Create Actors
+[2022.03.25-14.48.21:135][358]Cmd: TRANSACTION UNDO
+[2022.03.25-14.48.21:135][358]LogEditorTransaction: Undo Create Actors
+[2022.03.25-14.48.30:615][ 44]Cmd: TRANSACTION UNDO
+[2022.03.25-14.48.30:615][ 44]LogEditorTransaction: Undo Create Actors
+[2022.03.25-14.48.42:682][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.03.25-14.48.43:181][258]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyansToEdit9A462A424F011B50A4B123BECA406270.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyansToEdit.umap'
+[2022.03.25-14.48.43:642][258]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyansToEdit_BuiltDataB0B17C0647BF24BB64FF2AB4F5F5399B.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyansToEdit_BuiltData.uasset'
+[2022.03.25-14.48.43:664][258]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.25-14.48.43:664][258]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyansToEdit.RyansToEdit
+[2022.03.25-14.48.43:664][258]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/RyansToEdit_BuiltData.RyansToEdit_BuiltData
+[2022.03.25-14.48.59:831][947]Cmd: TRANSACTION UNDO
+[2022.03.25-14.48.59:831][947]LogEditorTransaction: Undo Create Actors
+[2022.03.25-14.52.07:206][629]Cmd: TRANSACTION UNDO
+[2022.03.25-14.52.07:206][629]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.03.25-14.52.18:238][812]Cmd: TRANSACTION UNDO
+[2022.03.25-14.52.18:238][812]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.03.25-14.53.22:667][211]Cmd: TRANSACTION UNDO
+[2022.03.25-14.53.22:667][211]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.03.25-14.53.22:686][211]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 64X64)
+[2022.03.25-14.53.22:686][211]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2022.03.25-14.53.22:687][211]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 64X64)
+[2022.03.25-14.53.22:688][211]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 64X64)
+[2022.03.25-14.53.23:200][221]Cmd: TRANSACTION UNDO
+[2022.03.25-14.53.23:200][221]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.03.25-14.53.23:209][221]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 64X64)
+[2022.03.25-14.53.23:210][221]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 64X64)
+[2022.03.25-14.53.23:210][221]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2022.03.25-14.53.23:211][221]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 64X64)
+[2022.03.25-14.53.23:776][283]Cmd: TRANSACTION UNDO
+[2022.03.25-14.53.23:776][283]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.03.25-14.53.23:779][283]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2022.03.25-14.53.35:678][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.03.25-14.53.36:175][616]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyansToEdit8DE97AFC48D90AA84F407B8F34956D3E.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyansToEdit.umap'
+[2022.03.25-14.53.36:637][616]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyansToEdit_BuiltDataB4674F264BBDF9DA2DC1F1A356C16F28.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyansToEdit_BuiltData.uasset'
+[2022.03.25-14.53.36:746][616]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.25-14.53.36:746][616]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyansToEdit.RyansToEdit
+[2022.03.25-14.53.36:746][616]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/RyansToEdit_BuiltData.RyansToEdit_BuiltData
+[2022.03.25-14.53.37:627][715]MapCheck: New page: Map Check
+[2022.03.25-14.53.37:638][715]Cmd: MAP REBUILD ALLVISIBLE
+[2022.03.25-14.53.37:638][715]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.03.25-14.53.37:750][715]LogWorld: UWorld::CleanupWorld for RyansToEdit, bSessionEnded=true, bCleanupResources=false
+[2022.03.25-14.53.38:116][715]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.03.25-14.53.38:116][715]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.03.25-14.53.38:116][715]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.03.25-14.53.38:129][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.03.25-14.53.38:130][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:133][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:134][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:135][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2022.03.25-14.53.38:135][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.03.25-14.53.38:135][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2022.03.25-14.53.38:135][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:137][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:138][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:140][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:142][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:143][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:145][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:147][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:149][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:151][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:152][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:154][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:156][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:157][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:159][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:160][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2022.03.25-14.53.38:176][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:178][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:179][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:181][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:182][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:184][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:185][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:187][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:188][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:190][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.38:191][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.25-14.53.49:160][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 103
+[2022.03.25-14.53.49:160][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 102
+[2022.03.25-14.53.49:160][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 101
+[2022.03.25-14.53.49:160][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 100
+[2022.03.25-14.53.49:160][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 99
+[2022.03.25-14.53.49:160][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 98
+[2022.03.25-14.53.49:160][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 97
+[2022.03.25-14.53.49:160][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 96
+[2022.03.25-14.53.49:160][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 95
+[2022.03.25-14.53.49:160][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 94
+[2022.03.25-14.53.49:160][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 93
+[2022.03.25-14.53.49:160][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 92
+[2022.03.25-14.53.49:160][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 91
+[2022.03.25-14.53.49:160][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 90
+[2022.03.25-14.53.49:160][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 89
+[2022.03.25-14.53.49:160][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 88
+[2022.03.25-14.53.49:160][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 87
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 86
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 85
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 84
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 83
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 82
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 81
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 80
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 79
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 78
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 77
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 76
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 75
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 74
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 73
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 72
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 71
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 70
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 69
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 68
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 67
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 66
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 65
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 64
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 63
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 62
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 61
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 60
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 59
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 58
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 57
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 56
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 55
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 54
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 53
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 52
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 51
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 50
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 49
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 48
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 47
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 46
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 45
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 44
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 43
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2022.03.25-14.53.49:161][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2022.03.25-14.53.49:162][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2022.03.25-14.53.49:162][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.03.25-14.53.49:162][715]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2022.03.25-14.53.49:162][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.03.25-14.53.49:162][715]TextureStreamingBuild: Display: Compiling optional shaders took 11.030 seconds.
+[2022.03.25-14.53.49:185][715]LogLevel: Display: Export Material TexCoord Scales took 0.024 seconds.
+[2022.03.25-14.53.49:204][715]TextureStreamingBuild: Display: Build Texture Streaming took 0.019 seconds.
+[2022.03.25-14.53.49:212][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.03.25-14.53.49:213][715]LightingResults: New page: Lighting Build - 25 Mar 2022, 14:53:49
+[2022.03.25-14.53.49:221][715]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.03.25-14.53.49:225][715]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.03.25-14.53.49:225][715]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.03.25-14.53.49:226][715]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.03.25-14.53.49:226][715]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20056
+[2022.03.25-14.53.53:768][715]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2022.03.25-14.53.53:768][715]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.03.25-14.53.53:768][715]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.03.25-14.53.53:768][715]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.03.25-14.53.53:768][715]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.03.25-14.53.53:768][715]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.03.25-14.53.54:150][715]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.03.25-14.53.54:150][715]MapCheck: New page: RyansToEdit - 25 Mar 2022, 14:53:54
+[2022.03.25-14.53.54:151][715]MapCheck: Warning: Spline_Road_Floor_8 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.25-14.53.54:151][715]MapCheck: Warning: Spline_Road_Floor_8 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.25-14.53.54:151][715]MapCheck: Warning: EasyRoad4_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.25-14.53.54:151][715]MapCheck: Warning: EasyRoad7_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.25-14.53.54:151][715]MapCheck: Warning: EasyRoad9 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.25-14.53.54:151][715]MapCheck: Warning: EasyRoad9 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.25-14.53.54:151][715]MapCheck: Warning: EasyRoad9 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.25-14.53.54:151][715]MapCheck: Warning: EasyRoad9 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.25-14.53.54:153][715]MapCheck: Warning: Import_1_pCylinder1_5 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:153][715]MapCheck: Warning: Import_1_pCube11_8 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:153][715]MapCheck: Warning: Import_1_pCube12 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:153][715]MapCheck: Warning: Import_1_pCube13 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:153][715]MapCheck: Warning: Import_1_pCube14 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:153][715]MapCheck: Warning: Import_1_pCube15 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:153][715]MapCheck: Warning: Import_1_pCube16 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:153][715]MapCheck: Warning: Import_1_pCube17 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:153][715]MapCheck: Warning: Import_1_pCube18 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:153][715]MapCheck: Warning: Import_1_pCube19 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:153][715]MapCheck: Warning: Import_1_pCube20 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:153][715]MapCheck: Warning: Import_1_pCube21 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:153][715]MapCheck: Warning: Import_1_pCube22 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:153][715]MapCheck: Warning: Import_1_pCube23 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:153][715]MapCheck: Warning: Import_1_pCube24 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:153][715]MapCheck: Warning: Import_1_pCube25 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:153][715]MapCheck: Warning: Import_1_pCube26 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:153][715]MapCheck: Warning: Import_1_pCube27 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:154][715]MapCheck: Warning: Import_1_pCube28 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:154][715]MapCheck: Warning: Import_1_pCube29 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:154][715]MapCheck: Warning: Import_1_pCube30 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:154][715]MapCheck: Warning: Import_1_pCube31 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:154][715]MapCheck: Warning: Import_1_pasted__pasted__pSphere1_31 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:154][715]MapCheck: Warning: Import_1_pasted__pasted__pSphere2 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:154][715]MapCheck: Warning: Import_1_pasted__pasted__pSphere3 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.53.54:154][715]MapCheck: Map check complete: 0 Error(s), 33 Warning(s), took 3.772ms to complete.
+[2022.03.25-14.53.54:160][715]LogEditorBuildUtils: Build time 0:16
+[2022.03.25-14.53.54:349][716]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer defaultPolygonShader2, compiling. 
+[2022.03.25-14.53.54:352][716]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer defaultPolygonShader2, compiling. 
+[2022.03.25-14.53.54:355][716]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2022.03.25-14.53.54:355][716]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2022.03.25-14.53.54:355][716]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_DeadTree_Base_color_Mat, compiling. 
+[2022.03.25-14.53.54:358][716]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_DeadTree_Base_color_Mat, compiling. 
+[2022.03.25-14.53.54:522][716]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2022.03.25-14.53.54:539][717]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_Bushes_Base_color_Mat, compiling. 
+[2022.03.25-14.53.54:542][717]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_Bushes_Base_color_Mat, compiling. 
+[2022.03.25-14.53.54:545][717]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_PalmTree01_Base_color_Mat, compiling. 
+[2022.03.25-14.53.54:547][717]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_PalmTree01_Base_color_Mat, compiling. 
+[2022.03.25-14.53.54:634][718]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_BubbleTree_Base_color_Mat, compiling. 
+[2022.03.25-14.53.54:637][718]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_BubbleTree_Base_color_Mat, compiling. 
+[2022.03.25-14.53.54:640][718]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2022.03.25-14.53.54:643][718]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2022.03.25-14.53.54:716][719]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2022.03.25-14.53.54:718][719]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2022.03.25-14.53.54:721][719]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Trackosaur_lambert2_BaseColor_Mat, compiling. 
+[2022.03.25-14.53.54:724][719]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Trackosaur_lambert2_BaseColor_Mat, compiling. 
+[2022.03.25-14.53.54:740][720]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_PineTree_Base_color_Mat, compiling. 
+[2022.03.25-14.53.54:743][720]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_PineTree_Base_color_Mat, compiling. 
+[2022.03.25-14.53.59:076][721]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2022.03.25-14.53.59:076][721]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2022.03.25-14.53.59:076][721]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2022.03.25-14.53.59:076][721]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2022.03.25-14.53.59:076][721]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2022.03.25-14.53.59:076][721]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.03.25-14.53.59:076][721]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.03.25-14.54.00:326][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.03.25-14.54.16:161][802]LightingResults: Warning: FlyTrapBlockout Object has overlapping UVs.
+[2022.03.25-14.54.16:166][802]LightingResults: FlyTrapBlockout Lightmap UV are overlapping by 1.3%. Please adjust content - Enable Error Coloring to visualize.
+[2022.03.25-14.54.37:637][991]LogSlate: Window 'Message Log' being destroyed
+[2022.03.25-14.54.37:642][991]LogSlate: Window 'Message Log' being destroyed
+[2022.03.25-14.54.46:953][825]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape)
+[2022.03.25-14.54.58:816][843]Job is a success!
+[2022.03.25-14.54.59:745][844]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.365s
+[2022.03.25-14.54.59:745][844]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2022.03.25-14.54.59:745][844]LogVolumetricLightmapImport:      BrickData (all levels) 5.0Mb (trimmed 2.6Mb due to 0.010000 MinBrickError)
+[2022.03.25-14.54.59:745][844]LogVolumetricLightmapImport:      Bricks at depth
+[2022.03.25-14.54.59:745][844]LogVolumetricLightmapImport:          0: 0.9% covering 100.0% of volume
+[2022.03.25-14.54.59:745][844]LogVolumetricLightmapImport:          1: 12.6% covering 21.5% of volume
+[2022.03.25-14.54.59:745][844]LogVolumetricLightmapImport:          2: 86.5% covering 2.3% of volume
+[2022.03.25-14.54.59:745][844]LogVolumetricLightmapImport:      Bricks in each level
+[2022.03.25-14.54.59:745][844]LogVolumetricLightmapImport:          RyansToEdit 			 873 bricks 	 100.0% (Persistent Level)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 512X256)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 512X256)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 1024X512)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 128X64)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 128X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 128X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 1024X512)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 256X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 256X256)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 256X256)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 128X64)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 128X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 128X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 1024X512)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 1024X1024)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 1024X1024)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 128X64)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 128X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 128X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 256X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 256X256)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 256X256)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_12 (AutoDXT, 256X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 256X256)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 256X256)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_13 (AutoDXT, 256X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 256X256)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 256X256)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_14 (AutoDXT, 128X64)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 128X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 128X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_15 (AutoDXT, 256X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 256X256)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 256X256)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_16 (AutoDXT, 128X64)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 128X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 128X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_17 (AutoDXT, 128X64)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 128X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 128X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_18 (AutoDXT, 256X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 256X256)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 256X256)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_19 (AutoDXT, 128X64)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 128X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 128X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_20 (AutoDXT, 128X64)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 128X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 128X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_21 (AutoDXT, 128X64)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: HQ_Lightmap1_21 (AutoDXT, 128X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: LQ_Lightmap_1_21 (DXT1, 128X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_22 (AutoDXT, 128X64)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: HQ_Lightmap1_22 (AutoDXT, 128X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: LQ_Lightmap_1_22 (DXT1, 128X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_23 (AutoDXT, 128X64)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: HQ_Lightmap1_23 (AutoDXT, 128X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: LQ_Lightmap_1_23 (DXT1, 128X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_24 (AutoDXT, 128X64)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: HQ_Lightmap1_24 (AutoDXT, 128X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: LQ_Lightmap_1_24 (DXT1, 128X128)
+[2022.03.25-14.55.06:380][844]LogTexture: Display: Building textures: SkyOcclusion1_25 (AutoDXT, 64X32)
+[2022.03.25-14.55.06:381][844]LogTexture: Display: Building textures: HQ_Lightmap1_25 (AutoDXT, 64X64)
+[2022.03.25-14.55.06:381][844]LogTexture: Display: Building textures: LQ_Lightmap_1_25 (DXT1, 64X64)
+[2022.03.25-14.55.06:381][844]LogTexture: Display: Building textures: SkyOcclusion1_26 (AutoDXT, 64X32)
+[2022.03.25-14.55.06:381][844]LogTexture: Display: Building textures: HQ_Lightmap1_26 (AutoDXT, 64X64)
+[2022.03.25-14.55.06:381][844]LogTexture: Display: Building textures: LQ_Lightmap_1_26 (DXT1, 64X64)
+[2022.03.25-14.55.06:474][844]Lightmass on DESKTOP-75N8AII: 1:04 min total, 392 ms importing, 552 ms setup, 9.87 sec photons, 53.7 sec processing, 0 ms extra exporting [377/377 mappings]. Threads: 3:34 min total, 1:05 min processing.
+[2022.03.25-14.55.06:474][844]LogStaticLightingSystem: RyansToEdit_BuiltData storing lightmap data for 377 meshes in 26 LightmapResourceClusters (14.5 Meshes per cluster).
+[2022.03.25-14.55.06:523][844]LogMaterial: Display: Material /Game/VehicleBP/LevelDecoratingAssets/Dino/Trackosaur_lambert2_BaseColor_Mat.Trackosaur_lambert2_BaseColor_Mat needed to have new flag set bUsedWithStaticLighting !
+[2022.03.25-14.55.06:531][844]LogMaterial: Display: Missing cached shader map for material Trackosaur_lambert2_BaseColor_Mat, compiling. 
+[2022.03.25-14.55.06:544][844]LogMaterial: Display: Material /Game/VehicleBP/PrototypeAssets_ZN/lambert1.lambert1 needed to have new flag set bUsedWithStaticLighting !
+[2022.03.25-14.55.06:545][844]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2022.03.25-14.55.06:557][844]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2022.03.25-14.55.06:557][844]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2022.03.25-14.55.06:557][844]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2022.03.25-14.55.06:558][844]LogMaterial: Display: Material /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat needed to have new flag set bUsedWithStaticLighting !
+[2022.03.25-14.55.06:559][844]LogMaterial: Display: Missing cached shader map for material Mat_BubbleTree_Base_color_Mat, compiling. 
+[2022.03.25-14.55.06:574][844]LogMaterial: Display: Material /Game/VehicleBP/LevelDecoratingAssets/Ryans_stuff/Import/lambert1.lambert1 needed to have new flag set bUsedWithStaticLighting !
+[2022.03.25-14.55.06:575][844]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2022.03.25-14.55.06:587][844]LogMaterial: Display: Material /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat needed to have new flag set bUsedWithStaticLighting !
+[2022.03.25-14.55.06:588][844]LogMaterial: Display: Missing cached shader map for material Mat_PineTree_Base_color_Mat, compiling. 
+[2022.03.25-14.55.06:698][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.03.25-14.55.06:734][844]LogStaticLightingSystem: Illumination: 1:17 min (6.27 sec encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.03.25-14.55.06:734][844]LogStaticLightingSystem: Lightmap texture memory:  13.5 MB (13.5 MB streaming, 0.0 MB non-streaming), 52 textures
+[2022.03.25-14.55.06:734][844]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.03.25-14.55.06:874][844]DumpUnbuiltLightIteractions
+[2022.03.25-14.55.06:874][844]Lights with unbuilt interactions: 0
+[2022.03.25-14.55.06:874][844]
+[2022.03.25-14.55.06:874][844]Primitives with unbuilt interactions: 0
+[2022.03.25-14.55.24:445][844]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 84
+[2022.03.25-14.55.24:445][844]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 74
+[2022.03.25-14.55.24:445][844]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 64
+[2022.03.25-14.55.24:445][844]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 54
+[2022.03.25-14.55.24:445][844]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2022.03.25-14.55.24:445][844]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2022.03.25-14.55.24:445][844]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2022.03.25-14.55.24:445][844]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2022.03.25-14.55.24:445][844]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2022.03.25-14.55.24:445][844]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2022.03.25-14.55.24:445][844]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2022.03.25-14.55.24:445][844]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.03.25-14.55.24:530][845]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.03.25-14.55.24:530][845]MapCheck: New page: RyansToEdit - 25 Mar 2022, 14:55:24
+[2022.03.25-14.55.24:530][845]MapCheck: Warning: Spline_Road_Floor_8 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.25-14.55.24:530][845]MapCheck: Warning: Spline_Road_Floor_8 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.25-14.55.24:530][845]MapCheck: Warning: EasyRoad4_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.25-14.55.24:531][845]MapCheck: Warning: EasyRoad7_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.25-14.55.24:531][845]MapCheck: Warning: EasyRoad9 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.25-14.55.24:531][845]MapCheck: Warning: EasyRoad9 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.25-14.55.24:531][845]MapCheck: Warning: EasyRoad9 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.25-14.55.24:531][845]MapCheck: Warning: EasyRoad9 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.25-14.55.24:532][845]MapCheck: Warning: Import_1_pCylinder1_5 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:532][845]MapCheck: Warning: Import_1_pCube11_8 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:532][845]MapCheck: Warning: Import_1_pCube12 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:532][845]MapCheck: Warning: Import_1_pCube13 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:532][845]MapCheck: Warning: Import_1_pCube14 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:533][845]MapCheck: Warning: Import_1_pCube15 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:533][845]MapCheck: Warning: Import_1_pCube16 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:533][845]MapCheck: Warning: Import_1_pCube17 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:533][845]MapCheck: Warning: Import_1_pCube18 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:533][845]MapCheck: Warning: Import_1_pCube19 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:533][845]MapCheck: Warning: Import_1_pCube20 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:533][845]MapCheck: Warning: Import_1_pCube21 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:533][845]MapCheck: Warning: Import_1_pCube22 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:533][845]MapCheck: Warning: Import_1_pCube23 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:533][845]MapCheck: Warning: Import_1_pCube24 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:533][845]MapCheck: Warning: Import_1_pCube25 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:533][845]MapCheck: Warning: Import_1_pCube26 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:533][845]MapCheck: Warning: Import_1_pCube27 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:533][845]MapCheck: Warning: Import_1_pCube28 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:533][845]MapCheck: Warning: Import_1_pCube29 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:533][845]MapCheck: Warning: Import_1_pCube30 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:533][845]MapCheck: Warning: Import_1_pCube31 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:533][845]MapCheck: Warning: Import_1_pasted__pasted__pSphere1_31 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:533][845]MapCheck: Warning: Import_1_pasted__pasted__pSphere2 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:533][845]MapCheck: Warning: Import_1_pasted__pasted__pSphere3 Static mesh actor has NULL StaticMesh property 
+[2022.03.25-14.55.24:533][845]MapCheck: Map check complete: 0 Error(s), 33 Warning(s), took 3.574ms to complete.
+[2022.03.25-14.59.14:613][728]LogSlate: Window 'Message Log' being destroyed
+[2022.03.25-14.59.14:629][728]LogSlate: Window 'Message Log' being destroyed
+[2022.03.25-14.59.58:029][460]LogSlate: Window 'Content Browser' being destroyed
+[2022.03.25-14.59.58:033][460]LogSlate: Window 'Content Browser' being destroyed
+[2022.03.25-15.01.03:217][867]LogActorFactory: Actor Factory created FlyTrapBlockout
+[2022.03.25-15.01.04:533][ 18]LogActorFactory: Actor Factory created FlyTrapBlockout
+[2022.03.25-15.01.05:422][121]LogActorFactory: Actor Factory created FlyTrapBlockout
+[2022.03.25-15.01.55:583][197]Cmd: EDIT COPY
+[2022.03.25-15.01.55:785][219]Cmd: EDIT PASTE
+[2022.03.25-15.02.01:204][783]Cmd: EDIT COPY
+[2022.03.25-15.02.01:417][795]Cmd: EDIT PASTE
+[2022.03.25-15.02.04:131][ 93]Cmd: EDIT COPY
+[2022.03.25-15.02.04:372][120]Cmd: EDIT PASTE
+[2022.03.25-15.02.11:670][919]Cmd: TRANSACTION UNDO
+[2022.03.25-15.02.11:670][919]LogEditorTransaction: Undo Move Actors
+[2022.03.25-15.02.20:330][900]Cmd: EDIT COPY
+[2022.03.25-15.02.20:545][924]Cmd: EDIT PASTE
+[2022.03.25-15.04.01:202][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.03.25-15.04.01:719][289]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyansToEdit_Auto15F1177EF43D8A95CE13E579EE7E7DFB3.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/Autosaves/Game/VehicleBP/Maps/RyansToEdit_Auto1.umap'
+[2022.03.25-15.04.01:723][289]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VehicleBP/Maps/RyansToEdit' took 0.532
+[2022.03.25-15.04.01:723][289]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.532
+[2022.03.25-15.04.01:723][289]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat] ([1] browsable assets)...
+[2022.03.25-15.04.01:761][289]OBJ SavePackage:     Rendered thumbnail for [Material /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat]
+[2022.03.25-15.04.01:761][289]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat]
+[2022.03.25-15.04.01:768][289]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/Mat_BubbleTree_Base_color_Mat_Au872A94B547E6EBE0B1C65EA300120D42.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/Autosaves/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat_Auto1.uasset'
+[2022.03.25-15.04.01:770][289]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleBP/LevelDecoratingAssets/Dino/Trackosaur_lambert2_BaseColor_Mat] ([1] browsable assets)...
+[2022.03.25-15.04.01:782][289]OBJ SavePackage:     Rendered thumbnail for [Material /Game/VehicleBP/LevelDecoratingAssets/Dino/Trackosaur_lambert2_BaseColor_Mat.Trackosaur_lambert2_BaseColor_Mat]
+[2022.03.25-15.04.01:782][289]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleBP/LevelDecoratingAssets/Dino/Trackosaur_lambert2_BaseColor_Mat]
+[2022.03.25-15.04.01:795][289]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/Trackosaur_lambert2_BaseColor_Ma57AC9FA548DD8F3BF176EFBCB4257A2B.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/Autosaves/Game/VehicleBP/LevelDecoratingAssets/Dino/Trackosaur_lambert2_BaseColor_Mat_Auto1.uasset'
+[2022.03.25-15.04.01:801][289]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleBP/PrototypeAssets_ZN/lambert1] ([1] browsable assets)...
+[2022.03.25-15.04.01:813][289]OBJ SavePackage:     Rendered thumbnail for [Material /Game/VehicleBP/PrototypeAssets_ZN/lambert1.lambert1]
+[2022.03.25-15.04.01:813][289]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleBP/PrototypeAssets_ZN/lambert1]
+[2022.03.25-15.04.01:841][289]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/lambert1_Auto1C773CF0E449C1B53A768408B48A726AF.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/Autosaves/Game/VehicleBP/PrototypeAssets_ZN/lambert1_Auto1.uasset'
+[2022.03.25-15.04.01:843][289]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleBP/LevelDecoratingAssets/Ryans_stuff/Import/lambert1] ([1] browsable assets)...
+[2022.03.25-15.04.01:882][289]OBJ SavePackage:     Rendered thumbnail for [Material /Game/VehicleBP/LevelDecoratingAssets/Ryans_stuff/Import/lambert1.lambert1]
+[2022.03.25-15.04.01:882][289]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleBP/LevelDecoratingAssets/Ryans_stuff/Import/lambert1]
+[2022.03.25-15.04.01:888][289]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/lambert1_Auto1ADD6A0954330AAEE35ED44807B259414.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/Autosaves/Game/VehicleBP/LevelDecoratingAssets/Ryans_stuff/Import/lambert1_Auto1.uasset'
+[2022.03.25-15.04.01:890][289]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat] ([2] browsable assets)...
+[2022.03.25-15.04.01:920][289]OBJ SavePackage:     Rendered thumbnail for [Material /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat]
+[2022.03.25-15.04.01:946][289]OBJ SavePackage:     Rendered thumbnail for [Material /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat]
+[2022.03.25-15.04.01:946][289]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat]
+[2022.03.25-15.04.01:953][289]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/Mat_PineTree_Base_color_Mat_AutoD69F6E394B8B5F777FB514A319039469.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/Autosaves/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat_Auto1.uasset'
+[2022.03.25-15.04.01:954][289]LogFileHelpers: Auto-saving content packages took 0.231
+[2022.03.25-15.30.01:775][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FlyTrapBlockout3)
+[2022.03.25-15.30.02:020][104]Cmd: EDIT COPY
+[2022.03.25-15.30.02:224][120]Cmd: EDIT PASTE
+[2022.03.25-15.30.06:383][565]Cmd: EDIT COPY
+[2022.03.25-15.30.06:705][602]Cmd: EDIT PASTE
+[2022.03.25-15.30.12:372][249]Cmd: EDIT COPY
+[2022.03.25-15.30.12:593][260]Cmd: EDIT PASTE
+[2022.03.25-15.30.15:766][610]Cmd: EDIT COPY
+[2022.03.25-15.30.15:966][632]Cmd: EDIT PASTE
+[2022.03.25-15.30.19:454][ 33]Cmd: EDIT COPY
+[2022.03.25-15.30.19:662][ 56]Cmd: EDIT PASTE
+[2022.03.25-15.30.23:248][471]Cmd: EDIT COPY
+[2022.03.25-15.30.23:490][500]Cmd: EDIT PASTE
+[2022.03.25-15.30.30:309][234]Cmd: EDIT COPY
+[2022.03.25-15.30.30:533][259]Cmd: EDIT PASTE
+[2022.03.25-15.30.37:596][ 71]Cmd: EDIT COPY
+[2022.03.25-15.30.37:831][ 82]Cmd: EDIT PASTE
+[2022.03.25-15.30.43:874][728]Cmd: EDIT COPY
+[2022.03.25-15.30.44:098][753]Cmd: EDIT PASTE
+[2022.03.25-15.30.48:075][213]Cmd: EDIT COPY
+[2022.03.25-15.30.48:291][237]Cmd: EDIT PASTE
+[2022.03.25-15.31.15:713][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.03.25-15.31.16:215][457]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyansToEdit_Auto2C6EF307046ABAB3A03DE36AE3523D9AD.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/Autosaves/Game/VehicleBP/Maps/RyansToEdit_Auto2.umap'
+[2022.03.25-15.31.16:218][457]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VehicleBP/Maps/RyansToEdit' took 0.514
+[2022.03.25-15.31.16:218][457]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.514
+[2022.03.25-15.38.21:620][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FlyTrapBlockout6)
+[2022.03.25-15.38.21:946][567]Cmd: EDIT COPY
+[2022.03.25-15.38.22:148][589]Cmd: EDIT PASTE
+[2022.03.25-15.38.25:124][930]Cmd: EDIT COPY
+[2022.03.25-15.38.25:486][971]Cmd: EDIT PASTE
+[2022.03.25-15.38.28:940][365]Cmd: EDIT COPY
+[2022.03.25-15.38.29:184][392]Cmd: EDIT PASTE
+[2022.03.25-15.38.36:519][252]Cmd: EDIT COPY
+[2022.03.25-15.38.36:837][288]Cmd: EDIT PASTE
+[2022.03.25-15.38.43:557][ 75]LogEditorViewport: Clicking on Actor (LMB): EasyRoad_C (EasyRoad2)
+[2022.03.25-15.38.49:030][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FlyTrapBlockout20)
+[2022.03.25-15.38.56:231][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FlyTrapBlockout20)
+[2022.03.25-15.38.59:410][855]Cmd: EDIT COPY
+[2022.03.25-15.38.59:610][877]Cmd: EDIT PASTE
+[2022.03.25-15.39.10:093][  3]Cmd: EDIT COPY
+[2022.03.25-15.39.10:309][ 27]Cmd: EDIT PASTE
+[2022.03.25-15.39.14:791][548]Cmd: EDIT COPY
+[2022.03.25-15.39.15:003][572]Cmd: EDIT PASTE
+[2022.03.25-15.39.20:869][225]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FlyTrapBlockout23)
+[2022.03.25-15.39.28:723][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FlyTrapBlockout21)
+[2022.03.25-15.39.38:974][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FlyTrapBlockout20)
+[2022.03.25-15.39.41:619][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FlyTrapBlockout22)
+[2022.03.25-15.40.20:925][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FlyTrapBlockout18)
+[2022.03.25-15.40.24:366][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FlyTrapBlockout17)
+[2022.03.25-15.40.28:569][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FlyTrapBlockout19)
+[2022.03.25-15.40.48:890][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FlyTrapBlockout4)
+[2022.03.25-15.40.51:924][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FlyTrapBlockout15)
+[2022.03.25-15.40.55:751][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FlyTrapBlockout5)
+[2022.03.25-15.41.01:354][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FlyTrapBlockout14)
+[2022.03.25-15.41.07:599][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FlyTrapBlockout3)
+[2022.03.25-15.41.12:194][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FlyTrapBlockout6)
+[2022.03.25-15.41.50:999][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.03.25-15.41.51:525][ 23]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyansToEdit_Auto3D779E9D647978C87824094A40F551D9C.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/Autosaves/Game/VehicleBP/Maps/RyansToEdit_Auto3.umap'
+[2022.03.25-15.41.51:529][ 23]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VehicleBP/Maps/RyansToEdit' took 0.540
+[2022.03.25-15.41.51:529][ 23]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.540
+[2022.03.25-15.42.26:691][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FlyTrapBlockout8)
+[2022.03.25-15.42.31:133][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FlyTrapBlockout7)
+[2022.03.25-15.42.39:705][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FlyTrapBlockout9)
+[2022.03.25-15.42.42:025][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FlyTrapBlockout12)
+[2022.03.25-15.42.44:445][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FlyTrapBlockout13)
+[2022.03.25-15.42.47:413][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FlyTrapBlockout10)
