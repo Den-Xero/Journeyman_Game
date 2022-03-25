@@ -12278,3 +12278,142 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.25-16.58.02:196][365]AssetCheck: New page: Asset Save: multiple assets
 [2022.03.25-16.58.02:196][365]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyansToEdit.RyansToEdit
 [2022.03.25-16.58.02:196][365]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/RyansToEdit_BuiltData.RyansToEdit_BuiltData
+[2022.03.25-17.00.53:296][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_BerryBush127)
+[2022.03.25-17.01.26:129][921]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush149)
+[2022.03.25-17.01.26:593][968]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush123)
+[2022.03.25-17.01.33:141][721]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush152)
+[2022.03.25-17.01.33:634][773]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush121)
+[2022.03.25-17.01.34:911][918]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush153)
+[2022.03.25-17.01.36:156][ 60]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush151)
+[2022.03.25-17.01.38:766][357]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush147)
+[2022.03.25-17.01.39:310][415]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush150)
+[2022.03.25-17.01.40:315][528]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush148)
+[2022.03.25-17.01.40:888][588]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush146)
+[2022.03.25-17.01.48:559][423]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush131)
+[2022.03.25-17.01.49:288][503]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush133)
+[2022.03.25-17.01.50:266][613]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush160)
+[2022.03.25-17.01.51:682][770]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush130)
+[2022.03.25-17.01.52:162][820]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush158)
+[2022.03.25-17.01.53:024][915]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush157)
+[2022.03.25-17.01.53:619][979]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush159)
+[2022.03.25-17.01.54:392][ 64]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush132)
+[2022.03.25-17.01.54:865][113]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush129)
+[2022.03.25-17.02.08:884][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_BerryBush139)
+[2022.03.25-17.02.09:342][539]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush169)
+[2022.03.25-17.02.11:589][749]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush168)
+[2022.03.25-17.02.12:019][778]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush140)
+[2022.03.25-17.02.12:481][826]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush167)
+[2022.03.25-17.02.12:870][866]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush141)
+[2022.03.25-17.02.13:442][927]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush134)
+[2022.03.25-17.02.13:824][966]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush138)
+[2022.03.25-17.02.14:261][ 12]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush162)
+[2022.03.25-17.02.16:440][206]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush136)
+[2022.03.25-17.02.16:759][225]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush161)
+[2022.03.25-17.02.17:240][274]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush164)
+[2022.03.25-17.02.17:586][309]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush135)
+[2022.03.25-17.02.18:043][357]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush165)
+[2022.03.25-17.02.18:577][413]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush166)
+[2022.03.25-17.02.20:302][578]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush163)
+[2022.03.25-17.02.20:775][602]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush137)
+[2022.03.25-17.02.22:107][725]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush171)
+[2022.03.25-17.02.22:496][750]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush170)
+[2022.03.25-17.02.23:012][803]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush142)
+[2022.03.25-17.02.23:429][846]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush172)
+[2022.03.25-17.02.25:045][988]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush143)
+[2022.03.25-17.02.25:659][ 42]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush173)
+[2022.03.25-17.02.26:589][146]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush174)
+[2022.03.25-17.02.27:004][188]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush144)
+[2022.03.25-17.02.30:271][530]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush161)
+[2022.03.25-17.02.30:724][564]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush192)
+[2022.03.25-17.02.31:090][601]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush162)
+[2022.03.25-17.02.31:530][646]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush191)
+[2022.03.25-17.02.31:912][685]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush163)
+[2022.03.25-17.02.32:397][735]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush158)
+[2022.03.25-17.02.32:733][767]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush190)
+[2022.03.25-17.02.33:134][807]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush159)
+[2022.03.25-17.02.33:490][842]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush189)
+[2022.03.25-17.02.33:908][885]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush160)
+[2022.03.25-17.02.34:280][922]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush156)
+[2022.03.25-17.02.34:656][960]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush157)
+[2022.03.25-17.02.36:594][132]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush188)
+[2022.03.25-17.02.36:999][157]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush182)
+[2022.03.25-17.02.37:430][201]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush150)
+[2022.03.25-17.02.37:954][255]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape)
+[2022.03.25-17.02.40:128][496]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush183)
+[2022.03.25-17.02.40:696][556]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush151)
+[2022.03.25-17.02.41:076][593]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush181)
+[2022.03.25-17.02.41:556][643]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush152)
+[2022.03.25-17.02.42:016][691]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush145)
+[2022.03.25-17.02.42:401][729]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush149)
+[2022.03.25-17.02.44:029][855]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush147)
+[2022.03.25-17.02.44:912][953]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush176)
+[2022.03.25-17.02.46:293][110]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush175)
+[2022.03.25-17.02.46:778][160]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush178)
+[2022.03.25-17.02.47:360][222]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush146)
+[2022.03.25-17.02.48:099][302]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush179)
+[2022.03.25-17.02.48:650][360]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush180)
+[2022.03.25-17.02.49:299][430]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush177)
+[2022.03.25-17.02.50:976][570]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush148)
+[2022.03.25-17.02.51:359][597]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush185)
+[2022.03.25-17.02.51:751][636]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush184)
+[2022.03.25-17.02.52:180][680]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush153)
+[2022.03.25-17.02.52:605][722]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush186)
+[2022.03.25-17.02.53:050][766]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_BerryBush154)
+[2022.03.25-17.02.54:105][881]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Mesh_Bush187)
+[2022.03.25-17.03.06:865][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.03.25-17.03.07:419][ 91]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyansToEditE9C33577412B169E8C14FBA46309962F.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyansToEdit.umap'
+[2022.03.25-17.03.07:893][ 91]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyansToEdit_BuiltData5C3A61A14892F9496080EFBFC70FC04B.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyansToEdit_BuiltData.uasset'
+[2022.03.25-17.03.07:917][ 91]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.25-17.03.07:917][ 91]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyansToEdit.RyansToEdit
+[2022.03.25-17.03.07:917][ 91]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/RyansToEdit_BuiltData.RyansToEdit_BuiltData
+[2022.03.25-17.03.23:679][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.03.25-17.03.24:232][727]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyansToEditB73AF7014A24756A498175ADEF140225.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyansToEdit.umap'
+[2022.03.25-17.03.24:712][727]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyansToEdit_BuiltDataDED3F07B41C0F79E24D5B78593A55ECA.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyansToEdit_BuiltData.uasset'
+[2022.03.25-17.03.24:736][727]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.25-17.03.24:736][727]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyansToEdit.RyansToEdit
+[2022.03.25-17.03.24:736][727]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/RyansToEdit_BuiltData.RyansToEdit_BuiltData
+[2022.03.25-17.03.26:366][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.03.25-17.03.26:391][875]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/Mat_BubbleTree_Base_color_Mat7ABE76BF4AB9239C5F690F927DB79A59.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.uasset'
+[2022.03.25-17.03.26:395][875]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/Trackosaur_lambert2_BaseColor_MaC50C495244267A5DA4D9B3AA26031949.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/LevelDecoratingAssets/Dino/Trackosaur_lambert2_BaseColor_Mat.uasset'
+[2022.03.25-17.03.26:399][875]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/lambert1F6AA77DD468E168C3C021DB9F3ED03AF.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/PrototypeAssets_ZN/lambert1.uasset'
+[2022.03.25-17.03.26:405][875]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/Pteradactlye1DC3A99044BC86B001CFE0FB3E0049FC6.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/LevelDecoratingAssets/Ryans_stuff/Pteradactlye1.uasset'
+[2022.03.25-17.03.26:409][875]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/lambert10326EA3A405BC5A7DAD9399B1356D1BD.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/LevelDecoratingAssets/Ryans_stuff/Import/lambert1.uasset'
+[2022.03.25-17.03.26:414][875]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/Pteradactle23759FA274E51488147BAD9B7689B184F.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/LevelDecoratingAssets/Ryans_stuff/Pteradactle2.uasset'
+[2022.03.25-17.03.26:419][875]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/Mat_PineTree_Base_color_MatBF68E01E48C12B49381A6F901AA12674.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.uasset'
+[2022.03.25-17.03.26:441][875]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.25-17.03.26:441][875]LogContentValidation: Display: Validating LevelSequence /Game/VehicleBP/LevelDecoratingAssets/Ryans_stuff/Pteradactle2.Pteradactle2
+[2022.03.25-17.03.26:441][875]LogContentValidation: Display: Validating LevelSequence /Game/VehicleBP/LevelDecoratingAssets/Ryans_stuff/Pteradactlye1.Pteradactlye1
+[2022.03.25-17.03.26:441][875]LogContentValidation: Display: Validating Material /Game/VehicleBP/LevelDecoratingAssets/Dino/Trackosaur_lambert2_BaseColor_Mat.Trackosaur_lambert2_BaseColor_Mat
+[2022.03.25-17.03.26:442][875]LogContentValidation: Display: Validating Material /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat
+[2022.03.25-17.03.26:442][875]LogContentValidation: Display: Validating Material /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat
+[2022.03.25-17.03.26:442][875]LogContentValidation: Display: Validating Material /Game/VehicleBP/PrototypeAssets_ZN/lambert1.lambert1
+[2022.03.25-17.03.26:442][875]LogContentValidation: Display: Validating Material /Game/VehicleBP/LevelDecoratingAssets/Ryans_stuff/Import/lambert1.lambert1
+[2022.03.25-17.03.49:503][795]LogContentBrowser: Attempting asset rename: RyansToEdit -> JonathonsToEdit
+[2022.03.25-17.03.50:083][795]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/JonathonsToEdit_BuiltData6A704E1441040AD88571018322910894.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/JonathonsToEdit_BuiltData.uasset'
+[2022.03.25-17.03.50:095][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.03.25-17.03.50:653][795]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/JonathonsToEditFA6C60FA4E82606C0F60C1A5880ABCA6.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/JonathonsToEdit.umap'
+[2022.03.25-17.03.50:661][795]LogFileHelpers: Saving map 'JonathonsToEdit' took 0.575
+[2022.03.25-17.03.50:745][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.03.25-17.03.50:754][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.03.25-17.03.50:767][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.03.25-17.03.50:774][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.03.25-17.03.50:808][795]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/Pteradactlye186AB994C4E21704ABD2CD4B83DABD82B.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/LevelDecoratingAssets/Ryans_stuff/Pteradactlye1.uasset'
+[2022.03.25-17.03.50:813][795]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/Pteradactle2D0C55FF447769CA106F9F4856FADB3CA.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/LevelDecoratingAssets/Ryans_stuff/Pteradactle2.uasset'
+[2022.03.25-17.03.50:905][795]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.25-17.03.50:905][795]LogContentValidation: Display: Validating LevelSequence /Game/VehicleBP/LevelDecoratingAssets/Ryans_stuff/Pteradactle2.Pteradactle2
+[2022.03.25-17.03.50:905][795]LogContentValidation: Display: Validating LevelSequence /Game/VehicleBP/LevelDecoratingAssets/Ryans_stuff/Pteradactlye1.Pteradactlye1
+[2022.03.25-17.03.50:905][795]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/JonathonsToEdit.JonathonsToEdit
+[2022.03.25-17.03.50:906][795]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/JonathonsToEdit_BuiltData.JonathonsToEdit_BuiltData
+[2022.03.25-17.03.53:464][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.03.25-17.03.54:017][ 10]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/JonathonsToEdit107BE3A5415C968F76030A90EB09F654.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/JonathonsToEdit.umap'
+[2022.03.25-17.03.54:499][ 10]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/JonathonsToEdit_BuiltDataCEF1A8FC44D6BFD8A4989AB4399B2FE7.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/JonathonsToEdit_BuiltData.uasset'
+[2022.03.25-17.03.54:520][ 10]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.25-17.03.54:520][ 10]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/JonathonsToEdit.JonathonsToEdit
+[2022.03.25-17.03.54:520][ 10]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/JonathonsToEdit_BuiltData.JonathonsToEdit_BuiltData
+[2022.03.25-17.04.08:681][228]LogEditorViewport: Clicking on Actor (LMB): Spline_Road_Floor_C (Spline_Road_Floor4)
+[2022.03.25-17.04.16:387][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.03.25-17.04.16:940][ 21]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/JonathonsToEdit5854CBEE4EAE309AAB7A3E8253AFAA63.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/JonathonsToEdit.umap'
+[2022.03.25-17.04.17:408][ 21]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/JonathonsToEdit_BuiltData889BE5404CEEC761805FE68CD4CF8122.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/JonathonsToEdit_BuiltData.uasset'
+[2022.03.25-17.04.17:428][ 21]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.25-17.04.17:428][ 21]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/JonathonsToEdit.JonathonsToEdit
+[2022.03.25-17.04.17:428][ 21]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/JonathonsToEdit_BuiltData.JonathonsToEdit_BuiltData
