@@ -1936,3 +1936,50 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.30-11.09.55:602][663]LogFileHelpers: No new changes to save!
 [2022.03.30-11.09.55:621][663]AssetCheck: New page: Asset Save: RyansMap
 [2022.03.30-11.09.55:621][663]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyansMap.RyansMap
+[2022.03.30-11.10.16:540][100]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 64X64)
+[2022.03.30-11.10.16:542][100]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 64X64)
+[2022.03.30-11.10.16:543][100]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 64X64)
+[2022.03.30-11.10.22:079][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.03.30-11.10.22:143][752]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 64X64)
+[2022.03.30-11.10.22:143][752]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2022.03.30-11.10.22:144][752]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2022.03.30-11.10.22:145][752]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 64X64)
+[2022.03.30-11.10.22:145][752]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 64X64)
+[2022.03.30-11.10.24:266][752]LogSavePackage: Moving '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyansMap3094528143E95E736F9F718DC9BB6F14.tmp' to '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyansMap.umap'
+[2022.03.30-11.10.24:277][752]LogFileHelpers: No new changes to save!
+[2022.03.30-11.10.24:296][752]AssetCheck: New page: Asset Save: RyansMap
+[2022.03.30-11.10.24:296][752]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyansMap.RyansMap
+[2022.03.30-11.10.35:450][ 43]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (WaterTempText_Sprite22)
+[2022.03.30-11.10.47:513][478]Cmd: TRANSACTION UNDO
+[2022.03.30-11.10.47:513][478]LogEditorTransaction: Undo Move Actors
+[2022.03.30-11.10.55:057][289]Cmd: TRANSACTION UNDO
+[2022.03.30-11.10.55:057][289]LogEditorTransaction: Undo Move Actors
+[2022.03.30-11.10.58:207][576]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.03.30-11.11.07:789][699]Cmd: SELECT NONE
+[2022.03.30-11.11.25:234][602]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 64X64)
+[2022.03.30-11.11.25:236][602]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2022.03.30-11.11.25:238][602]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 64X64)
+[2022.03.30-11.11.25:239][602]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 64X64)
+[2022.03.30-11.11.48:489][283]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 64X64)
+[2022.03.30-11.11.48:490][283]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 64X64)
+[2022.03.30-11.11.53:513][868]Cmd: TRANSACTION UNDO
+[2022.03.30-11.11.53:513][868]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.03.30-11.11.53:521][868]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2022.03.30-11.11.53:522][868]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 64X64)
+[2022.03.30-11.11.53:523][868]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 64X64)
+[2022.03.30-11.11.53:523][868]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2022.03.30-11.11.53:524][868]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 64X64)
+[2022.03.30-11.12.20:279][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.03.30-11.12.20:345][954]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2022.03.30-11.12.20:345][954]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2022.03.30-11.12.20:346][954]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2022.03.30-11.12.20:346][954]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 64X64)
+[2022.03.30-11.12.20:347][954]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 64X64)
+[2022.03.30-11.12.20:347][954]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 64X64)
+[2022.03.30-11.12.20:348][954]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2022.03.30-11.12.20:348][954]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 64X64)
+[2022.03.30-11.12.20:349][954]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 64X64)
+[2022.03.30-11.12.22:475][954]LogSavePackage: Moving '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyansMap808E698D41DFF2868A5391B7708A148A.tmp' to '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyansMap.umap'
+[2022.03.30-11.12.22:485][954]LogFileHelpers: No new changes to save!
+[2022.03.30-11.12.22:521][954]AssetCheck: New page: Asset Save: RyansMap
+[2022.03.30-11.12.22:521][954]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyansMap.RyansMap
