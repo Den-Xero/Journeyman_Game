@@ -1572,3 +1572,367 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.30-11.02.22:225][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
 [2022.03.30-11.02.22:228][ 88]LogEditorActor: Deleted 1 Actors (0.050 secs)
 [2022.03.30-11.02.27:275][417]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.03.30-11.03.14:970][ 83]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.30-11.03.14:978][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-11.03.14:978][ 83]PIE: New page: PIE session: RyansMap (30 Mar 2022, 13:03:14)
+[2022.03.30-11.03.14:979][ 83]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_RyansMap
+[2022.03.30-11.03.15:266][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.287032s)
+[2022.03.30-11.03.15:267][ 83]LogAIModule: Creating AISystem for world RyansMap
+[2022.03.30-11.03.15:268][ 83]LogPlayLevel: PIE: World Init took: (0.001448s)
+[2022.03.30-11.03.15:268][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/RyansMap.RyansMap to /Game/VehicleBP/Maps/UEDPIE_0_RyansMap.RyansMap (0.288673s)
+[2022.03.30-11.03.15:276][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.03.30-11.03.15:278][ 83]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.03.30-11.03.15:278][ 83]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-11.03.15:278][ 83]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-11.03.15:278][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-11.03.15:278][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-11.03.15:278][ 83]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-11.03.15:278][ 83]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-11.03.15:278][ 83]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-11.03.15:278][ 83]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-11.03.15:279][ 83]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.30-11.03.15:279][ 83]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-11.03.15:285][ 83]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-11.03.15:285][ 83]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-11.03.15:322][ 83]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.03.30-11.03.15:322][ 83]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-11.03.15:322][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-11.03.15:322][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-11.03.15:322][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-11.03.15:322][ 83]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-11.03.15:322][ 83]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-11.03.15:337][ 83]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-11.03.15:338][ 83]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-11.03.15:338][ 83]LogInit: FAudioDevice initialized.
+[2022.03.30-11.03.15:338][ 83]LogAudio: Display: Audio Device (ID: 5) registered with world 'RyansMap'.
+[2022.03.30-11.03.15:394][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-11.03.15:395][ 83]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.03.30-11.03.15:439][ 83]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_RyansMap.RyansMap up for play (max tick rate 0) at 2022.03.30-12.03.15
+[2022.03.30-11.03.15:441][ 83]LogWorld: Bringing up level for play took: 0.043721
+[2022.03.30-11.03.15:441][ 83]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.03.30-11.03.15:452][ 83]PIE: Server logged in
+[2022.03.30-11.03.15:454][ 83]PIE: Play in editor total start time 0.477 seconds.
+[2022.03.30-11.03.28:331][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-11.03.28:331][600]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_RyansMap
+[2022.03.30-11.03.28:332][600]LogSlate: Window 'JourneyKart Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.30-11.03.28:339][600]LogWorld: UWorld::CleanupWorld for RyansMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-11.03.28:345][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-11.03.28:354][600]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-11.03.28:359][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-11.03.28:371][600]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-11.03.28:372][600]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-11.03.28:400][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.03.30-11.03.28:423][601]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.03.30-11.03.29:965][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.03.30-11.03.30:028][777]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 64X64)
+[2022.03.30-11.03.30:029][777]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2022.03.30-11.03.30:029][777]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2022.03.30-11.03.30:030][777]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 64X64)
+[2022.03.30-11.03.30:030][777]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2022.03.30-11.03.30:031][777]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2022.03.30-11.03.30:031][777]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 64X64)
+[2022.03.30-11.03.30:031][777]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 64X64)
+[2022.03.30-11.03.32:174][777]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 64X64)
+[2022.03.30-11.03.32:175][777]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 64X64)
+[2022.03.30-11.03.32:175][777]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 64X64)
+[2022.03.30-11.03.32:176][777]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 64X64)
+[2022.03.30-11.03.32:176][777]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 64X64)
+[2022.03.30-11.03.32:177][777]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 64X64)
+[2022.03.30-11.03.32:177][777]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 64X64)
+[2022.03.30-11.03.32:178][777]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 64X64)
+[2022.03.30-11.03.32:178][777]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 64X64)
+[2022.03.30-11.03.32:179][777]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 64X64)
+[2022.03.30-11.03.32:179][777]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 64X64)
+[2022.03.30-11.03.32:180][777]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 64X64)
+[2022.03.30-11.03.32:181][777]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 64X64)
+[2022.03.30-11.03.32:183][777]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 64X64)
+[2022.03.30-11.03.32:184][777]LogTexture: Display: Building textures: Texture2D_122 (BGRA8, 64X64)
+[2022.03.30-11.03.32:185][777]LogTexture: Display: Building textures: Texture2D_123 (BGRA8, 64X64)
+[2022.03.30-11.03.32:185][777]LogTexture: Display: Building textures: Texture2D_124 (BGRA8, 64X64)
+[2022.03.30-11.03.32:186][777]LogTexture: Display: Building textures: Texture2D_125 (BGRA8, 64X64)
+[2022.03.30-11.03.32:186][777]LogTexture: Display: Building textures: Texture2D_126 (BGRA8, 64X64)
+[2022.03.30-11.03.32:187][777]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 64X64)
+[2022.03.30-11.03.32:191][777]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2022.03.30-11.03.32:192][777]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2022.03.30-11.03.32:192][777]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2022.03.30-11.03.32:193][777]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2022.03.30-11.03.32:193][777]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2022.03.30-11.03.32:194][777]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2022.03.30-11.03.32:194][777]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2022.03.30-11.03.32:195][777]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2022.03.30-11.03.32:196][777]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2022.03.30-11.03.32:196][777]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 64X64)
+[2022.03.30-11.03.32:197][777]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2022.03.30-11.03.32:198][777]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 64X64)
+[2022.03.30-11.03.32:198][777]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 64X64)
+[2022.03.30-11.03.32:199][777]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 64X64)
+[2022.03.30-11.03.32:200][777]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 64X64)
+[2022.03.30-11.03.32:200][777]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 64X64)
+[2022.03.30-11.03.32:201][777]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 64X64)
+[2022.03.30-11.03.32:202][777]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 64X64)
+[2022.03.30-11.03.32:202][777]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 64X64)
+[2022.03.30-11.03.32:203][777]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 64X64)
+[2022.03.30-11.03.32:204][777]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 64X64)
+[2022.03.30-11.03.32:205][777]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 64X64)
+[2022.03.30-11.03.32:205][777]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 64X64)
+[2022.03.30-11.03.32:206][777]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 64X64)
+[2022.03.30-11.03.32:206][777]LogSavePackage: Moving '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyansMap661C6C3C4E9FDA8F414139A76FB6B47C.tmp' to '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyansMap.umap'
+[2022.03.30-11.03.32:217][777]LogFileHelpers: No new changes to save!
+[2022.03.30-11.03.32:244][777]AssetCheck: New page: Asset Save: RyansMap
+[2022.03.30-11.03.32:244][777]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyansMap.RyansMap
+[2022.03.30-11.03.34:888][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_PineTree6)
+[2022.03.30-11.03.46:854][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_PineTree7)
+[2022.03.30-11.03.55:225][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_PineTree8)
+[2022.03.30-11.06.25:704][179]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.03.30-11.06.37:912][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2022.03.30-11.06.49:553][937]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (WaterTempText_Sprite9)
+[2022.03.30-11.07.01:238][267]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (WaterTempText_Sprite10)
+[2022.03.30-11.07.11:755][510]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (WaterTempText_Sprite12)
+[2022.03.30-11.07.13:281][688]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (WaterTempText_Sprite11)
+[2022.03.30-11.07.22:350][748]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (WaterTempText_Sprite12)
+[2022.03.30-11.07.28:716][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.03.30-11.07.30:902][499]LogSavePackage: Moving '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyansMapFF61FB62456544D0FB5477832C9A0152.tmp' to '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyansMap.umap'
+[2022.03.30-11.07.30:912][499]LogFileHelpers: No new changes to save!
+[2022.03.30-11.07.30:930][499]AssetCheck: New page: Asset Save: RyansMap
+[2022.03.30-11.07.30:930][499]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyansMap.RyansMap
+[2022.03.30-11.07.33:652][796]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.30-11.07.33:660][796]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-11.07.33:660][796]PIE: New page: PIE session: RyansMap (30 Mar 2022, 13:07:33)
+[2022.03.30-11.07.33:661][796]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_RyansMap
+[2022.03.30-11.07.33:950][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.289238s)
+[2022.03.30-11.07.33:951][796]LogAIModule: Creating AISystem for world RyansMap
+[2022.03.30-11.07.33:952][796]LogPlayLevel: PIE: World Init took: (0.001399s)
+[2022.03.30-11.07.33:952][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/RyansMap.RyansMap to /Game/VehicleBP/Maps/UEDPIE_0_RyansMap.RyansMap (0.290877s)
+[2022.03.30-11.07.33:961][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.03.30-11.07.33:962][796]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.03.30-11.07.33:962][796]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-11.07.33:962][796]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-11.07.33:962][796]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-11.07.33:962][796]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-11.07.33:962][796]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-11.07.33:962][796]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-11.07.33:962][796]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-11.07.33:962][796]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-11.07.33:963][796]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.30-11.07.33:963][796]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-11.07.33:970][796]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-11.07.33:970][796]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-11.07.34:008][796]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.03.30-11.07.34:008][796]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-11.07.34:008][796]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-11.07.34:008][796]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-11.07.34:009][796]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-11.07.34:009][796]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-11.07.34:009][796]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-11.07.34:023][796]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-11.07.34:023][796]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-11.07.34:023][796]LogInit: FAudioDevice initialized.
+[2022.03.30-11.07.34:023][796]LogAudio: Display: Audio Device (ID: 6) registered with world 'RyansMap'.
+[2022.03.30-11.07.34:068][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-11.07.34:069][796]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.03.30-11.07.34:116][796]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_RyansMap.RyansMap up for play (max tick rate 0) at 2022.03.30-12.07.34
+[2022.03.30-11.07.34:117][796]LogWorld: Bringing up level for play took: 0.045707
+[2022.03.30-11.07.34:117][796]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.03.30-11.07.34:129][796]PIE: Server logged in
+[2022.03.30-11.07.34:131][796]PIE: Play in editor total start time 0.473 seconds.
+[2022.03.30-11.07.41:852][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-11.07.41:852][689]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_RyansMap
+[2022.03.30-11.07.41:853][689]LogSlate: Window 'JourneyKart Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.30-11.07.41:860][689]LogWorld: UWorld::CleanupWorld for RyansMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-11.07.41:867][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-11.07.41:876][689]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-11.07.41:895][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-11.07.41:902][689]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.30-11.07.41:902][689]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-11.07.41:903][689]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-11.07.41:943][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.03.30-11.07.41:986][690]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.03.30-11.08.12:872][305]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2022.03.30-11.08.12:873][305]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2022.03.30-11.08.19:806][122]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.30-11.08.19:814][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-11.08.19:814][122]PIE: New page: PIE session: RyansMap (30 Mar 2022, 13:08:19)
+[2022.03.30-11.08.19:815][122]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_RyansMap
+[2022.03.30-11.08.20:108][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.292972s)
+[2022.03.30-11.08.20:109][122]LogAIModule: Creating AISystem for world RyansMap
+[2022.03.30-11.08.20:110][122]LogPlayLevel: PIE: World Init took: (0.001363s)
+[2022.03.30-11.08.20:110][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/RyansMap.RyansMap to /Game/VehicleBP/Maps/UEDPIE_0_RyansMap.RyansMap (0.294519s)
+[2022.03.30-11.08.20:119][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.03.30-11.08.20:121][122]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.03.30-11.08.20:121][122]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-11.08.20:121][122]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-11.08.20:121][122]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-11.08.20:121][122]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-11.08.20:121][122]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-11.08.20:121][122]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-11.08.20:121][122]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-11.08.20:121][122]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-11.08.20:122][122]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.30-11.08.20:122][122]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-11.08.20:128][122]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-11.08.20:128][122]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-11.08.20:165][122]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.03.30-11.08.20:165][122]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-11.08.20:165][122]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-11.08.20:165][122]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-11.08.20:166][122]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-11.08.20:166][122]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-11.08.20:166][122]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-11.08.20:179][122]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-11.08.20:179][122]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-11.08.20:179][122]LogInit: FAudioDevice initialized.
+[2022.03.30-11.08.20:179][122]LogAudio: Display: Audio Device (ID: 7) registered with world 'RyansMap'.
+[2022.03.30-11.08.20:238][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-11.08.20:238][122]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.03.30-11.08.20:283][122]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_RyansMap.RyansMap up for play (max tick rate 0) at 2022.03.30-12.08.20
+[2022.03.30-11.08.20:285][122]LogWorld: Bringing up level for play took: 0.044475
+[2022.03.30-11.08.20:285][122]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.03.30-11.08.20:297][122]PIE: Server logged in
+[2022.03.30-11.08.20:298][122]PIE: Play in editor total start time 0.485 seconds.
+[2022.03.30-11.08.27:562][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-11.08.27:562][956]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_RyansMap
+[2022.03.30-11.08.27:563][956]LogSlate: Window 'JourneyKart Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.30-11.08.27:576][956]LogWorld: UWorld::CleanupWorld for RyansMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-11.08.27:582][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-11.08.27:591][956]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-11.08.27:596][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-11.08.27:607][956]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.30-11.08.27:607][956]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-11.08.27:608][956]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-11.08.27:635][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.03.30-11.08.27:651][957]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.03.30-11.08.39:062][272]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.30-11.08.39:070][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-11.08.39:070][272]PIE: New page: PIE session: RyansMap (30 Mar 2022, 13:08:39)
+[2022.03.30-11.08.39:071][272]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_RyansMap
+[2022.03.30-11.08.39:365][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.293469s)
+[2022.03.30-11.08.39:366][272]LogAIModule: Creating AISystem for world RyansMap
+[2022.03.30-11.08.39:366][272]LogPlayLevel: PIE: World Init took: (0.001237s)
+[2022.03.30-11.08.39:366][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/RyansMap.RyansMap to /Game/VehicleBP/Maps/UEDPIE_0_RyansMap.RyansMap (0.294901s)
+[2022.03.30-11.08.39:375][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.03.30-11.08.39:376][272]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.03.30-11.08.39:376][272]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-11.08.39:376][272]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-11.08.39:376][272]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-11.08.39:376][272]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-11.08.39:376][272]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-11.08.39:376][272]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-11.08.39:376][272]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-11.08.39:376][272]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-11.08.39:377][272]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.30-11.08.39:377][272]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-11.08.39:383][272]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-11.08.39:383][272]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-11.08.39:420][272]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.03.30-11.08.39:420][272]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-11.08.39:420][272]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-11.08.39:420][272]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-11.08.39:421][272]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-11.08.39:421][272]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-11.08.39:421][272]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-11.08.39:434][272]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-11.08.39:434][272]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-11.08.39:434][272]LogInit: FAudioDevice initialized.
+[2022.03.30-11.08.39:434][272]LogAudio: Display: Audio Device (ID: 8) registered with world 'RyansMap'.
+[2022.03.30-11.08.39:488][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-11.08.39:489][272]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.03.30-11.08.39:533][272]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_RyansMap.RyansMap up for play (max tick rate 0) at 2022.03.30-12.08.39
+[2022.03.30-11.08.39:534][272]LogWorld: Bringing up level for play took: 0.042645
+[2022.03.30-11.08.39:534][272]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.03.30-11.08.39:545][272]PIE: Server logged in
+[2022.03.30-11.08.39:547][272]PIE: Play in editor total start time 0.478 seconds.
+[2022.03.30-11.08.47:802][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-11.08.47:802][225]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_RyansMap
+[2022.03.30-11.08.47:802][225]LogSlate: Window 'JourneyKart Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.30-11.08.47:813][225]LogWorld: UWorld::CleanupWorld for RyansMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-11.08.47:819][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-11.08.47:830][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-11.08.47:834][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-11.08.47:847][225]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-11.08.47:848][225]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-11.08.47:873][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.03.30-11.08.47:888][226]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.03.30-11.08.51:158][591]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 64X64)
+[2022.03.30-11.08.51:161][591]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 64X64)
+[2022.03.30-11.08.55:450][102]Cmd: TRANSACTION UNDO
+[2022.03.30-11.08.55:450][102]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.03.30-11.08.55:456][102]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2022.03.30-11.08.55:457][102]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2022.03.30-11.08.55:457][102]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2022.03.30-11.08.55:457][102]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2022.03.30-11.09.01:975][826]Cmd: TRANSACTION UNDO
+[2022.03.30-11.09.01:975][826]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.03.30-11.09.01:982][826]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2022.03.30-11.09.01:983][826]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2022.03.30-11.09.01:984][826]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 64X64)
+[2022.03.30-11.09.01:985][826]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2022.03.30-11.09.01:986][826]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 64X64)
+[2022.03.30-11.09.01:987][826]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2022.03.30-11.09.07:453][427]Cmd: TRANSACTION UNDO
+[2022.03.30-11.09.07:453][427]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.03.30-11.09.07:460][427]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2022.03.30-11.09.07:461][427]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 64X64)
+[2022.03.30-11.09.07:462][427]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2022.03.30-11.09.07:462][427]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 64X64)
+[2022.03.30-11.09.28:548][840]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.30-11.09.28:557][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-11.09.28:557][840]PIE: New page: PIE session: RyansMap (30 Mar 2022, 13:09:28)
+[2022.03.30-11.09.28:558][840]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_RyansMap
+[2022.03.30-11.09.28:845][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.287352s)
+[2022.03.30-11.09.28:846][840]LogAIModule: Creating AISystem for world RyansMap
+[2022.03.30-11.09.28:846][840]LogPlayLevel: PIE: World Init took: (0.001217s)
+[2022.03.30-11.09.28:846][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/RyansMap.RyansMap to /Game/VehicleBP/Maps/UEDPIE_0_RyansMap.RyansMap (0.288758s)
+[2022.03.30-11.09.28:856][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.03.30-11.09.28:858][840]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.03.30-11.09.28:858][840]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-11.09.28:858][840]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-11.09.28:858][840]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-11.09.28:858][840]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-11.09.28:858][840]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-11.09.28:858][840]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-11.09.28:858][840]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-11.09.28:858][840]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-11.09.28:859][840]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.30-11.09.28:859][840]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-11.09.28:865][840]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-11.09.28:865][840]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-11.09.28:901][840]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.03.30-11.09.28:902][840]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-11.09.28:902][840]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-11.09.28:902][840]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-11.09.28:902][840]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-11.09.28:902][840]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-11.09.28:902][840]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-11.09.28:915][840]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-11.09.28:915][840]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-11.09.28:915][840]LogInit: FAudioDevice initialized.
+[2022.03.30-11.09.28:915][840]LogAudio: Display: Audio Device (ID: 9) registered with world 'RyansMap'.
+[2022.03.30-11.09.28:963][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-11.09.28:963][840]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.03.30-11.09.29:008][840]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_RyansMap.RyansMap up for play (max tick rate 0) at 2022.03.30-12.09.29
+[2022.03.30-11.09.29:009][840]LogWorld: Bringing up level for play took: 0.043336
+[2022.03.30-11.09.29:009][840]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.03.30-11.09.29:020][840]PIE: Server logged in
+[2022.03.30-11.09.29:021][840]PIE: Play in editor total start time 0.467 seconds.
+[2022.03.30-11.09.36:272][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-11.09.36:272][652]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_RyansMap
+[2022.03.30-11.09.36:273][652]LogSlate: Window 'JourneyKart Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.30-11.09.36:285][652]LogWorld: UWorld::CleanupWorld for RyansMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-11.09.36:292][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-11.09.36:301][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-11.09.36:305][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-11.09.36:317][652]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.30-11.09.36:317][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-11.09.36:318][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-11.09.36:346][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.03.30-11.09.36:362][653]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.03.30-11.09.53:405][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.03.30-11.09.53:469][663]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 64X64)
+[2022.03.30-11.09.53:470][663]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2022.03.30-11.09.53:470][663]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 64X64)
+[2022.03.30-11.09.53:471][663]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2022.03.30-11.09.53:471][663]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2022.03.30-11.09.55:591][663]LogSavePackage: Moving '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyansMapE9E07EFC40AED1E8CBD66FB1DABD6B49.tmp' to '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyansMap.umap'
+[2022.03.30-11.09.55:602][663]LogFileHelpers: No new changes to save!
+[2022.03.30-11.09.55:621][663]AssetCheck: New page: Asset Save: RyansMap
+[2022.03.30-11.09.55:621][663]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyansMap.RyansMap
