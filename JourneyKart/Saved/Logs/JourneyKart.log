@@ -915,3 +915,46 @@ Make sure 'Test_Kart_C' has been compiled for  Get Has_Item
 [2022.04.06-13.19.20:066][567]LogFileHelpers: No new changes to save!
 [2022.04.06-13.19.20:081][567]AssetCheck: New page: Asset Save: RyansMap
 [2022.04.06-13.19.20:081][567]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyansMap.RyansMap
+[2022.04.06-13.20.35:459][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PostVolcanoFbxModel)
+[2022.04.06-13.20.35:978][695]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor4)
+[2022.04.06-13.21.50:707][354]Cmd: TRANSACTION UNDO
+[2022.04.06-13.21.50:707][354]LogEditorTransaction: Undo Move Actors
+[2022.04.06-13.22.42:489][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PreDipSwirl)
+[2022.04.06-13.22.44:039][135]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor4)
+[2022.04.06-13.33.30:422][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2022.04.06-13.33.45:960][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.04.06-13.33.48:178][925]LogSavePackage: Moving '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyansMapE10A61824C72B34A97369B876CAA0087.tmp' to '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyansMap.umap'
+[2022.04.06-13.33.48:193][925]LogFileHelpers: No new changes to save!
+[2022.04.06-13.33.48:219][925]AssetCheck: New page: Asset Save: RyansMap
+[2022.04.06-13.33.48:219][925]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyansMap.RyansMap
+[2022.04.06-13.33.52:520][356]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor4)
+[2022.04.06-13.36.54:279][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LongTurnTrack)
+[2022.04.06-13.36.55:681][861]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor4)
+[2022.04.06-13.40.41:335][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PostPlantRamp)
+[2022.04.06-13.47.50:670][521]Cmd: TRANSACTION UNDO
+[2022.04.06-13.47.50:670][521]LogEditorTransaction: Undo Add Keys at Current Time
+[2022.04.06-13.47.51:270][542]Cmd: TRANSACTION UNDO
+[2022.04.06-13.47.51:270][542]LogEditorTransaction: Undo Move Actors
+[2022.04.06-13.47.51:934][593]Cmd: TRANSACTION UNDO
+[2022.04.06-13.47.51:934][593]LogEditorTransaction: Undo Rotate Actors
+[2022.04.06-13.47.52:451][632]Cmd: TRANSACTION UNDO
+[2022.04.06-13.47.52:451][632]LogEditorTransaction: Undo Rotate Actors
+[2022.04.06-13.47.52:873][665]Cmd: TRANSACTION UNDO
+[2022.04.06-13.47.52:873][665]LogEditorTransaction: Undo Rotate Actors
+[2022.04.06-13.47.53:449][710]Cmd: TRANSACTION UNDO
+[2022.04.06-13.47.53:449][710]LogEditorTransaction: Undo Move Actors
+[2022.04.06-13.47.53:974][751]Cmd: TRANSACTION UNDO
+[2022.04.06-13.47.53:975][751]LogEditorTransaction: Undo Move Actors
+[2022.04.06-13.47.54:435][787]Cmd: TRANSACTION UNDO
+[2022.04.06-13.47.54:435][787]LogEditorTransaction: Undo Move Actors
+[2022.04.06-13.47.55:693][887]Cmd: TRANSACTION UNDO
+[2022.04.06-13.47.55:693][887]LogEditorTransaction: Undo Move Actors
+[2022.04.06-13.48.14:858][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (VolcanoRotator)
+[2022.04.06-13.48.16:624][456]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor4)
+[2022.04.06-13.55.25:027][ 33]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.04.06-13.55.26:238][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PostVolcanoFbxModel)
+[2022.04.06-13.56.32:843][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_EasyRoad3_6)
+[2022.04.06-13.56.32:939][335]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.04.06-13.57.21:867][695]LogSavePackage: Moving '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/NewLevelSequenceFD44FA8246A6C325D5C5AF8F48C0C710.tmp' to '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/LevelDecoratingAssets/Ryans_stuff/Movie/NewLevelSequence.uasset'
+[2022.04.06-13.57.21:880][695]AssetCheck: New page: Asset Save: NewLevelSequence
+[2022.04.06-13.57.21:880][695]LogContentValidation: Display: Validating LevelSequence /Game/VehicleBP/LevelDecoratingAssets/Ryans_stuff/Movie/NewLevelSequence.NewLevelSequence
