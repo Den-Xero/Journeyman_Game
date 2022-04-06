@@ -2207,3 +2207,649 @@ Make sure 'Test_Kart_C' has been compiled for  Get Has_Item
 [2022.04.06-14.24.02:896][857]LogFileHelpers: No new changes to save!
 [2022.04.06-14.24.02:917][857]AssetCheck: New page: Asset Save: RyansMap
 [2022.04.06-14.24.02:917][857]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyansMap.RyansMap
+[2022.04.06-14.24.21:632][903]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.06-14.24.21:642][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.06-14.24.21:642][903]PIE: New page: PIE session: RyansMap (6 Apr 2022, 16:24:21)
+[2022.04.06-14.24.21:643][903]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_RyansMap
+[2022.04.06-14.24.21:930][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.287296s)
+[2022.04.06-14.24.21:931][903]LogAIModule: Creating AISystem for world RyansMap
+[2022.04.06-14.24.21:931][903]LogPlayLevel: PIE: World Init took: (0.001341s)
+[2022.04.06-14.24.21:931][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/RyansMap.RyansMap to /Game/VehicleBP/Maps/UEDPIE_0_RyansMap.RyansMap (0.288842s)
+[2022.04.06-14.24.21:942][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.04.06-14.24.21:944][903]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.04.06-14.24.21:945][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.06-14.24.21:945][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.06-14.24.21:945][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.06-14.24.21:945][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.06-14.24.21:945][903]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.06-14.24.21:945][903]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.06-14.24.21:945][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.06-14.24.21:945][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.06-14.24.21:945][903]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.06-14.24.21:945][903]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.06-14.24.21:957][903]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.06-14.24.21:957][903]LogAudioMixer: Display: 1: FrontRight
+[2022.04.06-14.24.21:995][903]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.04.06-14.24.21:995][903]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.06-14.24.21:996][903]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.06-14.24.21:996][903]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.06-14.24.21:996][903]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.06-14.24.21:996][903]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.06-14.24.21:996][903]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.06-14.24.22:010][903]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.06-14.24.22:010][903]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.06-14.24.22:010][903]LogInit: FAudioDevice initialized.
+[2022.04.06-14.24.22:010][903]LogAudio: Display: Audio Device (ID: 9) registered with world 'RyansMap'.
+[2022.04.06-14.24.22:019][903]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.04.06-14.24.22:063][903]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_RyansMap.RyansMap up for play (max tick rate 0) at 2022.04.06-15.24.22
+[2022.04.06-14.24.22:064][903]LogWorld: Bringing up level for play took: 0.042856
+[2022.04.06-14.24.22:064][903]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.04.06-14.24.22:078][903]PIE: Server logged in
+[2022.04.06-14.24.22:079][903]PIE: Play in editor total start time 0.44 seconds.
+[2022.04.06-14.24.28:203][630]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.24.28:603][678]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.24.29:069][734]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.24.29:694][809]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.24.31:011][967]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.24.31:406][ 14]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.24.33:223][232]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.24.33:949][319]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.24.34:658][404]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.24.35:416][495]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.24.36:383][611]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.24.36:601][637]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.24.37:034][689]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.24.37:084][695]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.24.37:326][724]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.24.37:401][733]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.24.37:993][804]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.24.38:343][846]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.24.39:744][ 14]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.24.39:744][ 14]LogBlueprintUserMessages: [Test_Kart_C_0] -69.999992
+[2022.04.06-14.24.39:978][ 42]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.24.40:402][ 93]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.24.40:402][ 93]LogBlueprintUserMessages: [Test_Kart_C_0] -69.999992
+[2022.04.06-14.24.40:902][153]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.24.47:225][911]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.24.47:650][962]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.24.48:100][ 16]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.24.48:317][ 42]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.24.48:817][102]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.24.48:901][112]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.24.49:285][158]LogBlueprintUserMessages: [Test_Kart_C_0] Triple_Green_Shell
+[2022.04.06-14.24.50:467][300]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.24.50:709][329]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.24.51:184][386]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.24.51:334][404]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.24.53:487][662]LogBlueprintUserMessages: [Test_Kart_C_0] Lightning_Tome
+[2022.04.06-14.24.55:774][934]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.24.56:049][967]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.24.56:507][ 22]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.24.56:690][ 44]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.24.57:842][182]LogBlueprintUserMessages: [Test_Kart_C_0] Golden_Mushroom
+[2022.04.06-14.24.59:892][428]LogBlueprintUserMessages: [Test_Kart_C_0] Golden mushroom delay is active
+[2022.04.06-14.25.00:408][490]LogBlueprintUserMessages: [Test_Kart_C_0] Golden mushroom delay is active
+[2022.04.06-14.25.00:659][520]LogScript: Warning: Accessed None trying to read property Current_Kart
+	Test_Kart_C /Game/VehicleBP/Maps/UEDPIE_0_RyansMap.RyansMap:PersistentLevel.Test_Kart_C_0
+	Function /Game/Kart/Kart_BP/Test_Kart.Test_Kart_C:ExecuteUbergraph_Test_Kart:298A
+[2022.04.06-14.25.00:659][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Current_Kart". Blueprint:  Test_Kart Function:  Execute Ubergraph Test Kart Graph:  EventGraph Node:  Set World Scale 3D
+[2022.04.06-14.25.00:659][520]LogScript: Warning: Accessed None
+	Test_Kart_C /Game/VehicleBP/Maps/UEDPIE_0_RyansMap.RyansMap:PersistentLevel.Test_Kart_C_0
+	Function /Game/Kart/Kart_BP/Test_Kart.Test_Kart_C:ExecuteUbergraph_Test_Kart:299F
+[2022.04.06-14.25.00:659][520]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Test_Kart Function:  Execute Ubergraph Test Kart Graph:  EventGraph Node:  Set World Scale 3D
+[2022.04.06-14.25.01:874][658]LogBlueprintUserMessages: [Test_Kart_C_0] Golden mushroom delay is active
+[2022.04.06-14.25.02:406][722]LogBlueprintUserMessages: [Test_Kart_C_0] Golden mushroom delay is active
+[2022.04.06-14.25.03:282][827]LogBlueprintUserMessages: [Test_Kart_C_0] Golden mushroom delay is active
+[2022.04.06-14.25.03:732][881]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.04:041][918]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.04:591][984]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.25.04:591][984]LogBlueprintUserMessages: [Test_Kart_C_0] -69.999992
+[2022.04.06-14.25.05:725][120]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.25.06:300][189]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.25.06:483][211]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.25.06:742][242]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.07:626][348]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.09:075][522]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.09:275][546]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.09:826][612]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.10:067][641]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.10:317][671]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.11:525][816]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.25.12:184][895]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.25.12:242][902]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.25.12:242][902]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.12:275][906]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.25.12:592][944]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.13:034][997]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.13:308][ 30]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.13:583][ 63]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.13:834][ 93]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.14:192][136]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.14:517][175]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.15:785][327]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.16:110][366]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.17:094][484]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.17:361][516]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.17:687][555]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.18:087][603]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.25.19:471][769]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.19:488][771]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.25.23:091][203]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.23:341][233]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.23:691][275]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.24:149][330]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.25.24:325][351]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.25.25:550][498]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.25.26:117][566]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.25.28:250][822]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.25.28:884][898]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.25.29:850][ 14]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.25.30:852][134]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.25.31:587][222]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.25.32:105][284]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.25.32:571][340]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.25.32:788][366]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.25.33:155][410]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.25.33:447][445]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.25.34:413][561]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.25.34:413][561]LogBlueprintUserMessages: [Test_Kart_C_0] -69.999985
+[2022.04.06-14.25.34:639][588]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.25.35:281][665]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.25.35:281][665]LogBlueprintUserMessages: [Test_Kart_C_0] -70.000008
+[2022.04.06-14.25.35:572][700]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.25.36:147][769]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.25.36:147][769]LogBlueprintUserMessages: [Test_Kart_C_0] -70.000008
+[2022.04.06-14.25.36:364][795]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.25.37:164][891]LogBlueprintUserMessages: [Test_Kart_C_0] Lightning_Tome
+[2022.04.06-14.25.38:280][ 25]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.25.40:215][257]LogBlueprintUserMessages: [Test_Kart_C_0] Golden_Mushroom
+[2022.04.06-14.25.40:714][317]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.41:073][360]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.41:330][391]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.41:547][417]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.41:747][441]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.42:014][473]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.42:273][504]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.42:398][519]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.25.42:615][545]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.25.42:839][572]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.43:064][599]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.43:356][634]LogBlueprintUserMessages: [Test_Kart_C_0] Out of ammo
+[2022.04.06-14.25.43:457][646]LogBlueprintUserMessages: [Test_Kart_C_0] Triple_Green_Shell
+[2022.04.06-14.25.44:306][748]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.25.44:549][777]LogScript: Warning: Accessed None trying to read property Current_Kart
+	Test_Kart_C /Game/VehicleBP/Maps/UEDPIE_0_RyansMap.RyansMap:PersistentLevel.Test_Kart_C_0
+	Function /Game/Kart/Kart_BP/Test_Kart.Test_Kart_C:ExecuteUbergraph_Test_Kart:298A
+[2022.04.06-14.25.44:549][777]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Current_Kart". Blueprint:  Test_Kart Function:  Execute Ubergraph Test Kart Graph:  EventGraph Node:  Set World Scale 3D
+[2022.04.06-14.25.44:549][777]LogScript: Warning: Accessed None
+	Test_Kart_C /Game/VehicleBP/Maps/UEDPIE_0_RyansMap.RyansMap:PersistentLevel.Test_Kart_C_0
+	Function /Game/Kart/Kart_BP/Test_Kart.Test_Kart_C:ExecuteUbergraph_Test_Kart:299F
+[2022.04.06-14.25.44:549][777]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Test_Kart Function:  Execute Ubergraph Test Kart Graph:  EventGraph Node:  Set World Scale 3D
+[2022.04.06-14.25.44:715][797]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.25.47:653][149]LogBlueprintUserMessages: [Test_Kart_C_0] Lightning_Tome
+[2022.04.06-14.25.48:595][262]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.25.48:936][303]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.25.49:186][333]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.25.49:937][423]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.25.50:420][481]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.25.50:720][517]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.25.51:028][554]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.25.51:821][649]LogBlueprintUserMessages: [Test_Kart_C_0] Lightning_Tome
+[2022.04.06-14.25.51:895][658]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.25.52:271][703]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.25.53:281][824]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.25.54:750][  0]LogScript: Warning: Accessed None trying to read property Current_Kart
+	Test_Kart_C /Game/VehicleBP/Maps/UEDPIE_0_RyansMap.RyansMap:PersistentLevel.Test_Kart_C_0
+	Function /Game/Kart/Kart_BP/Test_Kart.Test_Kart_C:ExecuteUbergraph_Test_Kart:298A
+[2022.04.06-14.25.54:750][  0]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Current_Kart". Blueprint:  Test_Kart Function:  Execute Ubergraph Test Kart Graph:  EventGraph Node:  Set World Scale 3D
+[2022.04.06-14.25.54:750][  0]LogScript: Warning: Accessed None
+	Test_Kart_C /Game/VehicleBP/Maps/UEDPIE_0_RyansMap.RyansMap:PersistentLevel.Test_Kart_C_0
+	Function /Game/Kart/Kart_BP/Test_Kart.Test_Kart_C:ExecuteUbergraph_Test_Kart:299F
+[2022.04.06-14.25.54:751][  0]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Test_Kart Function:  Execute Ubergraph Test Kart Graph:  EventGraph Node:  Set World Scale 3D
+[2022.04.06-14.25.56:005][148]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.25.56:155][166]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.26.02:453][920]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.26.02:453][920]LogBlueprintUserMessages: [Test_Kart_C_0] -70.000008
+[2022.04.06-14.26.04:240][134]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.26.06:724][432]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.26.07:066][473]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.26.07:199][489]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.26.07:200][489]LogBlueprintUserMessages: [Test_Kart_C_0] -70.000008
+[2022.04.06-14.26.07:357][508]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.26.07:707][550]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.26.07:849][567]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.26.09:941][818]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.26.10:766][917]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.26.22:532][328]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.26.23:091][395]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.26.26:544][809]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.26.27:253][894]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.26.28:611][ 57]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.26.31:357][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Current_Kart". Blueprint:  Test_Kart Function:  Execute Ubergraph Test Kart Graph:  EventGraph Node:  Set World Scale 3D
+[2022.04.06-14.26.31:358][386]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Test_Kart Function:  Execute Ubergraph Test Kart Graph:  EventGraph Node:  Set World Scale 3D
+[2022.04.06-14.26.34:509][764]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.26.34:668][783]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.26.46:903][250]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.26.47:204][286]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.26.47:953][376]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.26.48:195][405]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.26.48:371][426]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.26.48:554][448]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.26.48:754][472]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.26.48:954][496]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.26.49:155][520]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.26.49:546][567]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.26.49:771][594]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.26.50:080][631]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.26.53:550][ 47]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Current_Kart". Blueprint:  Test_Kart Function:  Execute Ubergraph Test Kart Graph:  EventGraph Node:  Set World Scale 3D
+[2022.04.06-14.26.53:550][ 47]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Test_Kart Function:  Execute Ubergraph Test Kart Graph:  EventGraph Node:  Set World Scale 3D
+[2022.04.06-14.26.54:526][164]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.26.54:702][185]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.26.55:302][257]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.26.55:636][297]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.26.56:914][448]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.26.57:698][542]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.26.59:247][728]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.26.59:981][816]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.27.00:698][902]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.27.01:124][953]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.27.01:817][ 36]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.27.02:143][ 75]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.27.02:575][127]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.27.03:169][196]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.27.04:020][297]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.27.04:220][321]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.27.05:554][481]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.27.05:554][481]LogBlueprintUserMessages: [Test_Kart_C_0] -70.000008
+[2022.04.06-14.27.06:187][557]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.27.07:162][674]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.27.07:162][674]LogBlueprintUserMessages: [Test_Kart_C_0] -69.999992
+[2022.04.06-14.27.07:321][693]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.27.08:405][823]LogBlueprintUserMessages: [Test_Kart_C_0] Triple_Mushroom
+[2022.04.06-14.27.11:580][204]LogBlueprintUserMessages: [Test_Kart_C_0] Rock_Mushroom
+[2022.04.06-14.27.12:472][311]LogBlueprintUserMessages: [Test_Kart_C_0] Used Rock Shroom
+[2022.04.06-14.27.13:421][425]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.27.13:563][442]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.27.13:979][492]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.27.14:346][536]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.27.14:664][574]LogBlueprintUserMessages: [Test_Kart_C_0] Lightning_Tome
+[2022.04.06-14.27.15:163][634]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.27.15:688][697]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.27.16:247][764]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.27.16:598][806]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.27.17:872][959]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.27.17:872][959]LogBlueprintUserMessages: [Test_Kart_C_0] -69.999992
+[2022.04.06-14.27.18:006][975]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.27.18:865][ 78]LogBlueprintUserMessages: [Test_Kart_C_0] Lightning_Tome
+[2022.04.06-14.27.20:807][311]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.27.21:083][344]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.27.23:161][593]LogBlueprintUserMessages: [Test_Kart_C_0] Lightning_Tome
+[2022.04.06-14.27.23:426][625]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.27.23:952][688]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.27.24:552][760]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.27.24:936][806]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.27.27:053][ 60]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Current_Kart". Blueprint:  Test_Kart Function:  Execute Ubergraph Test Kart Graph:  EventGraph Node:  Set World Scale 3D
+[2022.04.06-14.27.27:054][ 60]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Test_Kart Function:  Execute Ubergraph Test Kart Graph:  EventGraph Node:  Set World Scale 3D
+[2022.04.06-14.27.27:253][ 84]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.27.27:553][120]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.27.33:664][853]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.27.33:664][853]LogBlueprintUserMessages: [Test_Kart_C_0] -69.999992
+[2022.04.06-14.27.35:314][ 51]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.27.38:481][431]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.27.38:481][431]LogBlueprintUserMessages: [Test_Kart_C_0] -69.999992
+[2022.04.06-14.27.39:181][515]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.27.41:491][792]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.27.41:632][809]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.27.42:040][858]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.27.42:499][913]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.27.53:046][178]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.27.53:704][257]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.27.53:945][286]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.27.54:188][315]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.27.55:213][438]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.27.55:489][471]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.27.56:031][536]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.27.56:373][577]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.27.57:243][679]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.27.57:501][710]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.27.57:934][762]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.27.58:318][808]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.27.58:860][873]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Current_Kart". Blueprint:  Test_Kart Function:  Execute Ubergraph Test Kart Graph:  EventGraph Node:  Set World Scale 3D
+[2022.04.06-14.27.58:860][873]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Test_Kart Function:  Execute Ubergraph Test Kart Graph:  EventGraph Node:  Set World Scale 3D
+[2022.04.06-14.27.59:152][908]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.27.59:327][929]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.28.00:086][ 20]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.28.00:394][ 57]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.28.01:144][147]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.28.01:594][201]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.28.02:036][254]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.28.02:772][342]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.28.03:271][402]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.28.03:820][466]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.28.04:375][531]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.28.04:671][566]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.28.05:288][640]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.28.05:454][660]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.28.06:305][762]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.28.06:305][762]LogBlueprintUserMessages: [Test_Kart_C_0] -69.999992
+[2022.04.06-14.28.06:830][825]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.28.07:697][929]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.28.07:697][929]LogBlueprintUserMessages: [Test_Kart_C_0] -69.999992
+[2022.04.06-14.28.08:281][999]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.28.13:432][617]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.28.13:964][681]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.28.14:715][771]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.28.15:140][822]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.28.15:190][828]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.28.15:232][833]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.28.15:740][894]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.28.15:741][894]LogBlueprintUserMessages: [Test_Kart_C_0] Triple_Mushroom
+[2022.04.06-14.28.15:791][900]LogBlueprintUserMessages: [Test_Kart_C_0] Rock_Mushroom
+[2022.04.06-14.28.16:215][951]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.28.16:675][  6]LogBlueprintUserMessages: [Test_Kart_C_0] Used Rock Shroom
+[2022.04.06-14.28.17:342][ 86]LogBlueprintUserMessages: [Test_Kart_C_0] Used Rock Shroom
+[2022.04.06-14.28.17:891][152]LogBlueprintUserMessages: [Test_Kart_C_0] Used Rock Shroom
+[2022.04.06-14.28.20:042][410]LogBlueprintUserMessages: [Test_Kart_C_0] Rock_Mushroom
+[2022.04.06-14.28.20:974][522]LogBlueprintUserMessages: [Test_Kart_C_0] Used Rock Shroom
+[2022.04.06-14.28.22:393][692]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.28.22:619][719]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.28.23:086][775]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.28.23:411][814]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.28.24:279][918]LogBlueprintUserMessages: [Test_Kart_C_0] Triple_Green_Shell
+[2022.04.06-14.28.28:298][400]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.28.28:440][417]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.28.34:749][174]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.28.34:749][174]LogBlueprintUserMessages: [Test_Kart_C_0] -69.999992
+[2022.04.06-14.28.36:116][338]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.28.42:382][ 90]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.28.42:942][157]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.28.46:594][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-14.28.46:594][591]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_RyansMap
+[2022.04.06-14.28.46:595][591]LogWorld: UWorld::CleanupWorld for RyansMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-14.28.46:602][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-14.28.46:609][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.06-14.28.46:615][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-14.28.46:628][591]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.06-14.28.46:628][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.06-14.28.46:630][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.06-14.28.46:650][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-14.28.46:659][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.04.06-14.28.46:780][592]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.04.06-14.28.48:741][788]LogSlate: Window 'Message Log' being destroyed
+[2022.04.06-14.28.48:747][788]LogSlate: Window 'Message Log' being destroyed
+[2022.04.06-14.29.15:401][947]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.06-14.29.15:411][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.06-14.29.15:411][947]PIE: New page: PIE session: RyansMap (6 Apr 2022, 16:29:15)
+[2022.04.06-14.29.15:441][947]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_RyansMap
+[2022.04.06-14.29.15:732][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.291385s)
+[2022.04.06-14.29.15:733][947]LogAIModule: Creating AISystem for world RyansMap
+[2022.04.06-14.29.15:733][947]LogPlayLevel: PIE: World Init took: (0.001423s)
+[2022.04.06-14.29.15:733][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/RyansMap.RyansMap to /Game/VehicleBP/Maps/UEDPIE_0_RyansMap.RyansMap (0.293063s)
+[2022.04.06-14.29.15:744][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.04.06-14.29.15:747][947]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.04.06-14.29.15:747][947]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.06-14.29.15:747][947]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.06-14.29.15:747][947]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.06-14.29.15:747][947]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.06-14.29.15:747][947]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.06-14.29.15:747][947]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.06-14.29.15:747][947]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.06-14.29.15:747][947]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.06-14.29.15:748][947]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.06-14.29.15:748][947]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.06-14.29.15:760][947]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.06-14.29.15:760][947]LogAudioMixer: Display: 1: FrontRight
+[2022.04.06-14.29.15:798][947]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.04.06-14.29.15:799][947]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.06-14.29.15:799][947]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.06-14.29.15:799][947]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.06-14.29.15:799][947]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.06-14.29.15:799][947]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.06-14.29.15:799][947]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.06-14.29.15:813][947]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.06-14.29.15:813][947]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.06-14.29.15:813][947]LogInit: FAudioDevice initialized.
+[2022.04.06-14.29.15:814][947]LogAudio: Display: Audio Device (ID: 10) registered with world 'RyansMap'.
+[2022.04.06-14.29.15:827][947]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.04.06-14.29.15:869][947]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_RyansMap.RyansMap up for play (max tick rate 0) at 2022.04.06-15.29.15
+[2022.04.06-14.29.15:871][947]LogWorld: Bringing up level for play took: 0.042519
+[2022.04.06-14.29.15:871][947]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.04.06-14.29.15:885][947]PIE: Server logged in
+[2022.04.06-14.29.15:886][947]PIE: Play in editor total start time 0.478 seconds.
+[2022.04.06-14.29.20:580][492]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.29.20:763][514]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.29.21:354][585]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.29.21:521][605]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.29.22:913][772]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.29.23:030][786]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.29.23:512][844]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.29.23:763][874]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.29.24:463][958]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.29.24:597][974]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.29.25:271][ 55]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.29.25:555][ 89]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.29.26:039][147]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.29.26:272][175]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.29.26:647][220]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.29.27:081][272]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.29.27:539][325]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.29.27:857][363]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.29.28:307][417]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.29.28:474][437]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.29.28:716][466]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.29.29:251][530]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.29.29:725][587]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.29.29:976][617]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.29.30:326][659]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.29.30:543][685]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.29.31:567][808]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.29.31:567][808]LogBlueprintUserMessages: [Test_Kart_C_0] -69.999992
+[2022.04.06-14.29.31:853][842]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.29.32:385][906]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.29.32:385][906]LogBlueprintUserMessages: [Test_Kart_C_0] -69.999992
+[2022.04.06-14.29.32:644][937]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.29.34:353][142]LogBlueprintUserMessages: [Test_Kart_C_0] Rock_Mushroom
+[2022.04.06-14.29.34:752][190]LogBlueprintUserMessages: [Test_Kart_C_0] Used Rock Shroom
+[2022.04.06-14.29.37:504][520]LogBlueprintUserMessages: [Test_Kart_C_0] Lightning_Tome
+[2022.04.06-14.29.39:120][714]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.29.39:504][760]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.29.40:237][848]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.29.40:637][896]LogBlueprintUserMessages: [Test_Kart_C_0] Triple_Mushroom
+[2022.04.06-14.29.40:711][905]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.29.44:838][400]LogBlueprintUserMessages: [Test_Kart_C_0] Lightning_Tome
+[2022.04.06-14.29.46:988][657]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.29.46:988][657]LogBlueprintUserMessages: [Test_Kart_C_0] -69.999992
+[2022.04.06-14.29.47:179][680]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.29.47:663][738]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.29.47:663][738]LogBlueprintUserMessages: [Test_Kart_C_0] -69.999992
+[2022.04.06-14.29.47:813][756]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.29.48:848][880]LogBlueprintUserMessages: [Test_Kart_C_0] Lightning_Tome
+[2022.04.06-14.29.48:905][887]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.29.49:139][915]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.29.50:038][ 23]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.29.50:163][ 38]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.29.52:322][297]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Current_Kart". Blueprint:  Test_Kart Function:  Execute Ubergraph Test Kart Graph:  EventGraph Node:  Set World Scale 3D
+[2022.04.06-14.29.52:323][297]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Test_Kart Function:  Execute Ubergraph Test Kart Graph:  EventGraph Node:  Set World Scale 3D
+[2022.04.06-14.29.59:291][133]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.29.59:291][133]LogBlueprintUserMessages: [Test_Kart_C_0] -69.999992
+[2022.04.06-14.30.00:918][328]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.30.02:297][493]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Current_Kart". Blueprint:  Test_Kart Function:  Execute Ubergraph Test Kart Graph:  EventGraph Node:  Set World Scale 3D
+[2022.04.06-14.30.02:297][493]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Test_Kart Function:  Execute Ubergraph Test Kart Graph:  EventGraph Node:  Set World Scale 3D
+[2022.04.06-14.30.03:012][579]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.30.03:012][579]LogBlueprintUserMessages: [Test_Kart_C_0] -70.000015
+[2022.04.06-14.30.03:254][608]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.30.06:677][ 16]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.30.07:319][ 93]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.30.12:745][744]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.30.13:004][775]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.30.13:470][831]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.30.13:979][892]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.30.23:270][  6]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.30.23:804][ 70]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.30.24:155][112]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.30.24:289][128]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.30.24:705][178]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.30.25:122][228]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.30.25:531][277]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.30.25:848][315]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.30.26:740][422]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.30.27:032][457]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.30.27:749][543]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.30.27:749][543]LogBlueprintUserMessages: [Test_Kart_C_0] -69.999992
+[2022.04.06-14.30.27:990][572]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.30.28:761][662]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.30.28:761][662]LogBlueprintUserMessages: [Test_Kart_C_0] -70.000008
+[2022.04.06-14.30.29:160][710]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.30.29:677][772]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.30.29:677][772]LogBlueprintUserMessages: [Test_Kart_C_0] -70.000008
+[2022.04.06-14.30.31:428][982]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.30.31:636][  7]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.30.32:472][107]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.30.33:998][290]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.30.33:998][290]LogBlueprintUserMessages: [Test_Kart_C_0] -69.999992
+[2022.04.06-14.30.34:798][386]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.30.34:981][408]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.30.35:573][479]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.30.36:006][531]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.30.36:373][575]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.30.37:374][695]LogBlueprintUserMessages: [Test_Kart_C_0] Rock_Mushroom
+[2022.04.06-14.30.37:441][703]LogBlueprintUserMessages: [Test_Kart_C_0] Lightning_Tome
+[2022.04.06-14.30.38:334][810]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.30.38:617][844]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array All_Karts [4/3]!
+[2022.04.06-14.30.41:593][201]LogBlueprintUserMessages: [Test_Kart_C_0] Rock_Mushroom
+[2022.04.06-14.30.42:001][250]LogBlueprintUserMessages: [Test_Kart_C_0] Used Rock Shroom
+[2022.04.06-14.30.43:642][447]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.30.44:101][502]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.30.44:927][601]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Current_Kart". Blueprint:  Test_Kart Function:  Execute Ubergraph Test Kart Graph:  EventGraph Node:  Set World Scale 3D
+[2022.04.06-14.30.44:927][601]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Test_Kart Function:  Execute Ubergraph Test Kart Graph:  EventGraph Node:  Set World Scale 3D
+[2022.04.06-14.30.45:885][716]LogBlueprintUserMessages: [Test_Kart_C_0] Triple_Green_Shell
+[2022.04.06-14.30.47:846][951]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.30.48:113][983]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.30.49:473][146]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.30.49:665][169]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.30.50:190][232]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.30.50:432][261]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.30.56:441][982]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.30.56:441][982]LogBlueprintUserMessages: [Test_Kart_C_0] -70.000008
+[2022.04.06-14.30.58:235][197]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.31.00:978][526]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.31.00:978][526]LogBlueprintUserMessages: [Test_Kart_C_0] -70.000008
+[2022.04.06-14.31.01:570][597]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.31.03:231][796]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.31.03:231][796]LogBlueprintUserMessages: [Test_Kart_C_0] -70.000008
+[2022.04.06-14.31.03:864][872]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.31.04:239][917]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.31.05:181][ 30]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.31.12:086][855]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.31.13:011][966]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.31.16:494][383]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.31.16:852][426]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.31.17:813][541]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.31.18:213][589]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.31.19:231][711]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.31.19:755][774]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.31.21:222][950]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.31.21:531][987]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.31.22:064][ 51]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.31.22:364][ 87]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.31.22:864][147]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.31.23:256][194]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.31.23:507][224]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.31.23:728][250]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.31.24:421][333]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.31.25:107][415]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.31.25:607][475]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.31.25:740][491]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.31.26:249][552]LogBlueprintUserMessages: [Test_Kart_C_0] Drifting
+[2022.04.06-14.31.26:416][572]LogBlueprintUserMessages: [Test_Kart_C_0] Stopped Drifing
+[2022.04.06-14.31.41:314][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-14.31.41:314][351]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_RyansMap
+[2022.04.06-14.31.41:315][351]LogWorld: UWorld::CleanupWorld for RyansMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-14.31.41:321][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-14.31.41:328][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.06-14.31.41:334][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-14.31.41:342][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-14.31.41:347][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.06-14.31.41:348][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.06-14.31.41:377][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.04.06-14.31.41:511][352]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.04.06-14.31.43:205][514]LogSlate: Window 'Message Log' being destroyed
+[2022.04.06-14.31.43:212][514]LogSlate: Window 'Message Log' being destroyed
+[2022.04.06-14.31.51:520][448]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2022.04.06-14.31.51:544][448]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2022.04.06-14.31.51:544][448]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.04.06-14.31.51:544][448]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2022.04.06-14.31.51:567][448]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2022.04.06-14.31.51:585][448]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2022.04.06-14.31.51:601][448]LogMaterial: Display: Missing cached shader map for material ColorMaskBrushMaterial, compiling. 
+[2022.04.06-14.31.51:615][448]LogMaterial: Display: Missing cached shader map for material LandscapeDirtyMaterial, compiling. 
+[2022.04.06-14.31.51:638][448]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2022.04.06-14.31.51:672][448]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2022.04.06-14.31.51:683][448]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2022.04.06-14.31.51:697][448]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2022.04.06-14.31.51:710][448]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2022.04.06-14.31.51:726][448]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2022.04.06-14.31.51:740][448]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2022.04.06-14.31.51:754][448]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2022.04.06-14.31.51:770][448]LogMaterial: Display: Missing cached shader map for material M_Landscape_Material, compiling. 
+[2022.04.06-14.31.51:782][448]LogMaterial: Display: Missing cached shader map for material M_Landscape_Material, compiling. 
+[2022.04.06-14.31.51:790][448]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2022.04.06-14.31.52:537][475]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 260
+[2022.04.06-14.31.53:192][501]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 250
+[2022.04.06-14.31.54:976][591]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 240
+[2022.04.06-14.31.55:295][609]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 230
+[2022.04.06-14.31.57:112][711]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 220
+[2022.04.06-14.31.57:733][745]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 210
+[2022.04.06-14.31.59:550][847]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 200
+[2022.04.06-14.31.59:872][864]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 190
+[2022.04.06-14.32.01:212][925]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 64X64)
+[2022.04.06-14.32.01:214][925]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 64X64)
+[2022.04.06-14.32.01:645][944]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 180
+[2022.04.06-14.32.02:248][978]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 170
+[2022.04.06-14.32.04:010][ 78]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 160
+[2022.04.06-14.32.04:317][ 96]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 150
+[2022.04.06-14.32.06:329][206]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 140
+[2022.04.06-14.32.06:852][236]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 130
+[2022.04.06-14.32.08:860][326]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 120
+[2022.04.06-14.32.09:743][371]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 110
+[2022.04.06-14.32.11:033][442]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 100
+[2022.04.06-14.32.12:255][508]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 90
+[2022.04.06-14.32.13:241][565]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 80
+[2022.04.06-14.32.14:753][649]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 70
+[2022.04.06-14.32.15:427][686]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2022.04.06-14.32.17:248][790]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2022.04.06-14.32.17:559][808]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2022.04.06-14.32.19:759][934]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2022.04.06-14.32.19:804][936]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2022.04.06-14.32.22:028][ 48]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2022.04.06-14.32.22:170][ 55]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2022.04.06-14.32.23:311][115]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.04.06-14.32.25:876][320]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 64X64)
+[2022.04.06-14.32.25:878][320]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2022.04.06-14.32.31:906][820]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 64X64)
+[2022.04.06-14.32.31:908][820]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 64X64)
+[2022.04.06-14.32.36:122][242]Cmd: TRANSACTION UNDO
+[2022.04.06-14.32.36:122][242]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.06-14.32.36:129][242]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2022.04.06-14.32.36:130][242]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 64X64)
+[2022.04.06-14.32.36:130][242]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 64X64)
+[2022.04.06-14.32.36:131][242]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 64X64)
+[2022.04.06-14.32.36:132][242]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 64X64)
+[2022.04.06-14.32.43:426][860]Cmd: TRANSACTION UNDO
+[2022.04.06-14.32.43:426][860]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.06-14.32.43:434][860]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2022.04.06-14.32.43:434][860]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 64X64)
+[2022.04.06-14.32.43:435][860]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 64X64)
+[2022.04.06-14.32.43:435][860]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 64X64)
+[2022.04.06-14.32.43:436][860]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 64X64)
+[2022.04.06-14.32.50:636][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.04.06-14.32.50:704][588]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 64X64)
+[2022.04.06-14.32.50:705][588]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 64X64)
+[2022.04.06-14.32.50:705][588]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 64X64)
+[2022.04.06-14.32.50:706][588]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 64X64)
+[2022.04.06-14.32.50:707][588]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 64X64)
+[2022.04.06-14.32.50:707][588]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2022.04.06-14.32.53:244][588]LogSavePackage: Moving '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyansMap0CDA92454ADD604139A85E945B7BFFEF.tmp' to '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyansMap.umap'
+[2022.04.06-14.32.53:256][588]LogFileHelpers: No new changes to save!
+[2022.04.06-14.32.53:285][588]AssetCheck: New page: Asset Save: RyansMap
+[2022.04.06-14.32.53:285][588]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyansMap.RyansMap
