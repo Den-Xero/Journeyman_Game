@@ -1991,3 +1991,13 @@ Make sure 'Test_Kart_C' has been compiled for  Get Has_Item
 [2022.04.06-14.20.02:792][332]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
 [2022.04.06-14.20.06:084][642]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
 [2022.04.06-14.20.06:516][683]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor4)
+[2022.04.06-14.21.55:453][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.04.06-14.21.59:959][797]LogSavePackage: Moving '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyansMapB8BAACEE47D1C7AAAC9C978C9564A949.tmp' to '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyansMap.umap'
+[2022.04.06-14.21.59:975][797]LogFileHelpers: No new changes to save!
+[2022.04.06-14.21.59:999][797]AssetCheck: New page: Asset Save: RyansMap
+[2022.04.06-14.21.59:999][797]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyansMap.RyansMap
+[2022.04.06-14.22.04:201][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.04.06-14.22.06:420][817]LogSavePackage: Moving '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyansMap6B88015E4A63679D07F8CAA2D4B502D8.tmp' to '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyansMap.umap'
+[2022.04.06-14.22.06:434][817]LogFileHelpers: No new changes to save!
+[2022.04.06-14.22.06:463][817]AssetCheck: New page: Asset Save: RyansMap
+[2022.04.06-14.22.06:463][817]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyansMap.RyansMap
