@@ -982,3 +982,211 @@ Make sure 'Test_Kart_C' has been compiled for  Get Has_Item
 [2022.04.06-14.01.44:044][ 98]LogFileHelpers: No new changes to save!
 [2022.04.06-14.01.44:060][ 98]AssetCheck: New page: Asset Save: RyansMap
 [2022.04.06-14.01.44:060][ 98]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyansMap.RyansMap
+[2022.04.06-14.04.58:171][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.04.06-14.04.58:203][339]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VehicleBP/Maps/RyansMap.RyansMap
+[2022.04.06-14.04.58:203][339]Cmd: MAP LOAD FILE="../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyansMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.06-14.04.58:203][339]LightingResults: New page: Lighting Build
+[2022.04.06-14.04.58:204][339]LoadErrors: New page: Loading map: RyansMap.umap
+[2022.04.06-14.04.58:213][339]LogWorld: UWorld::CleanupWorld for RyansMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-14.04.58:214][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-14.04.58:214][339]MapCheck: New page: Map Check
+[2022.04.06-14.04.58:214][339]LightingResults: New page: Lighting Build
+[2022.04.06-14.04.58:224][339]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.06-14.04.58:257][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.04.06-14.04.58:551][339]LogAudio: Display: Audio Device (ID: 1) registered with world 'RyansMap'.
+[2022.04.06-14.04.58:552][339]LogAIModule: Creating AISystem for world RyansMap
+[2022.04.06-14.04.59:654][339]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.06-14.04.59:682][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.04.06-14.04.59:691][339]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.06-14.04.59:692][339]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.302ms to complete.
+[2022.04.06-14.04.59:692][339]LogFileHelpers: Loading map 'RyansMap' took 1.489
+[2022.04.06-14.05.10:212][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.04.06-14.05.10:560][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_0 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:560][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_1 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:560][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_10 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:560][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_11 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:560][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_12 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:560][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_13 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:560][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_14 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:560][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_15 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:561][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_16 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:561][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_17 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:561][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_18 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:561][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_19 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:561][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_2 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:561][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_20 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:561][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_21 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:561][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_22 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:561][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_23 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:561][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_24 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:561][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_25 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:561][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_26 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:561][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_27 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:561][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_28 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:561][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_29 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:561][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_3 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:561][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_30 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:561][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_31 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:561][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_32 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:562][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_33 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:562][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_34 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:562][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_35 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:562][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_36 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:562][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_37 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:562][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_38 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:562][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_39 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:562][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_4 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:562][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_40 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:562][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_41 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:562][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_42 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:562][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_43 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:562][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_44 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:562][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_45 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:562][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_46 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:562][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_5 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:562][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_6 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:562][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_63 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:562][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_65 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:563][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_66 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:563][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_69 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:563][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_7 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:563][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_8 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:563][568]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_9 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.10:686][568]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VehicleBP/Maps/Main_Map.Main_Map
+[2022.04.06-14.05.10:686][568]Cmd: MAP LOAD FILE="../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/Main_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.06-14.05.10:686][568]LightingResults: New page: Lighting Build
+[2022.04.06-14.05.10:686][568]LoadErrors: New page: Loading map: Main_Map.umap
+[2022.04.06-14.05.10:696][568]LogWorld: UWorld::CleanupWorld for RyansMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-14.05.10:696][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-14.05.10:697][568]MapCheck: New page: Map Check
+[2022.04.06-14.05.10:697][568]LightingResults: New page: Lighting Build
+[2022.04.06-14.05.10:713][568]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.06-14.05.10:739][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.04.06-14.05.10:742][568]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Map'.
+[2022.04.06-14.05.11:052][568]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.06-14.05.11:052][568]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.06-14.05.12:069][568]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.06-14.05.12:070][568]LogAIModule: Creating AISystem for world Main_Map
+[2022.04.06-14.05.12:099][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.04.06-14.05.12:109][568]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.06-14.05.12:109][568]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.301ms to complete.
+[2022.04.06-14.05.12:109][568]LogFileHelpers: Loading map 'Main_Map' took 1.423
+[2022.04.06-14.05.22:839][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PiranhaPlantLow)
+[2022.04.06-14.05.32:889][757]Cmd: EDIT COPY
+[2022.04.06-14.05.33:841][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.04.06-14.05.34:242][841]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VehicleBP/Maps/RyansMap.RyansMap
+[2022.04.06-14.05.34:242][841]Cmd: MAP LOAD FILE="../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyansMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.06-14.05.34:242][841]LightingResults: New page: Lighting Build
+[2022.04.06-14.05.34:242][841]LoadErrors: New page: Loading map: RyansMap.umap
+[2022.04.06-14.05.34:283][841]LogWorld: UWorld::CleanupWorld for Main_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-14.05.34:283][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-14.05.34:284][841]MapCheck: New page: Map Check
+[2022.04.06-14.05.34:284][841]LightingResults: New page: Lighting Build
+[2022.04.06-14.05.34:296][841]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.06-14.05.34:327][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.04.06-14.05.34:330][841]LogAudio: Display: Audio Device (ID: 1) registered with world 'RyansMap'.
+[2022.04.06-14.05.35:672][841]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.06-14.05.35:672][841]LogAIModule: Creating AISystem for world RyansMap
+[2022.04.06-14.05.35:699][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.04.06-14.05.35:709][841]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.06-14.05.35:710][841]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.31ms to complete.
+[2022.04.06-14.05.35:710][841]LogFileHelpers: Loading map 'RyansMap' took 1.468
+[2022.04.06-14.05.37:174][  3]Cmd: EDIT PASTE
+[2022.04.06-14.05.43:994][730]Cmd: SELECT NONE
+[2022.04.06-14.05.47:520][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.04.06-14.05.49:767][103]LogSavePackage: Moving '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyansMap358FF3214EC0D444596E1FB1E14C0748.tmp' to '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyansMap.umap'
+[2022.04.06-14.05.49:780][103]LogFileHelpers: No new changes to save!
+[2022.04.06-14.05.49:805][103]AssetCheck: New page: Asset Save: RyansMap
+[2022.04.06-14.05.49:805][103]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyansMap.RyansMap
+[2022.04.06-14.05.51:629][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_0 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_1 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_10 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_11 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_12 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_13 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_14 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_15 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_16 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_17 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_18 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_19 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_2 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_20 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_21 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_22 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_23 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_24 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_25 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_26 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_27 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_28 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_29 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_3 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_30 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_31 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_32 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_33 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_34 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_35 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_36 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_37 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_38 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_39 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_4 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_40 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_41 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_42 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_43 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:912][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_44 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:913][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_45 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:913][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_46 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:913][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_5 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:913][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_6 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:913][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_63 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:913][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_65 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:913][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_66 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:913][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_69 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:913][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_7 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:913][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_8 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.51:913][321]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_9 contains no miplevels! Please delete. (Format: 0)
+[2022.04.06-14.05.52:022][321]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VehicleBP/Maps/Main_Map.Main_Map
+[2022.04.06-14.05.52:023][321]Cmd: MAP LOAD FILE="../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/Main_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.06-14.05.52:023][321]LightingResults: New page: Lighting Build
+[2022.04.06-14.05.52:023][321]LoadErrors: New page: Loading map: Main_Map.umap
+[2022.04.06-14.05.52:071][321]LogWorld: UWorld::CleanupWorld for RyansMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-14.05.52:072][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-14.05.52:072][321]MapCheck: New page: Map Check
+[2022.04.06-14.05.52:072][321]LightingResults: New page: Lighting Build
+[2022.04.06-14.05.52:088][321]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.06-14.05.52:114][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.04.06-14.05.52:117][321]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Map'.
+[2022.04.06-14.05.52:426][321]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.06-14.05.52:426][321]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.06-14.05.53:432][321]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.06-14.05.53:432][321]LogAIModule: Creating AISystem for world Main_Map
+[2022.04.06-14.05.53:461][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.04.06-14.05.53:471][321]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.06-14.05.53:472][321]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.356ms to complete.
+[2022.04.06-14.05.53:472][321]LogFileHelpers: Loading map 'Main_Map' took 1.448
+[2022.04.06-14.06.17:944][181]Cmd: EDIT COPY
+[2022.04.06-14.06.19:278][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.04.06-14.06.19:682][322]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VehicleBP/Maps/RyansMap.RyansMap
+[2022.04.06-14.06.19:682][322]Cmd: MAP LOAD FILE="../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyansMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.06-14.06.19:682][322]LightingResults: New page: Lighting Build
+[2022.04.06-14.06.19:682][322]LoadErrors: New page: Loading map: RyansMap.umap
+[2022.04.06-14.06.19:722][322]LogWorld: UWorld::CleanupWorld for Main_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-14.06.19:723][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-14.06.19:723][322]MapCheck: New page: Map Check
+[2022.04.06-14.06.19:723][322]LightingResults: New page: Lighting Build
+[2022.04.06-14.06.19:740][322]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.06-14.06.19:765][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.04.06-14.06.19:768][322]LogAudio: Display: Audio Device (ID: 1) registered with world 'RyansMap'.
+[2022.04.06-14.06.21:108][322]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.06-14.06.21:108][322]LogAIModule: Creating AISystem for world RyansMap
+[2022.04.06-14.06.21:137][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.04.06-14.06.21:147][322]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.06-14.06.21:148][322]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.284ms to complete.
+[2022.04.06-14.06.21:148][322]LogFileHelpers: Loading map 'RyansMap' took 1.466
+[2022.04.06-14.06.23:023][535]Cmd: EDIT PASTE
+[2022.04.06-14.06.27:170][997]Cmd: SELECT NONE
