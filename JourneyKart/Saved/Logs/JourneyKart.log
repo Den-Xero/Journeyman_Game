@@ -907,3 +907,11 @@ Make sure 'Test_Kart_C' has been compiled for  Get Has_Item
 [2022.04.06-13.17.12:441][685]LogFileHelpers: No new changes to save!
 [2022.04.06-13.17.12:473][685]AssetCheck: New page: Asset Save: RyansMap
 [2022.04.06-13.17.12:474][685]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyansMap.RyansMap
+[2022.04.06-13.19.16:732][495]LogSavePackage: Moving '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/NewLevelSequence2248E788412D97F9AC7CA683697B38AE.tmp' to '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/LevelDecoratingAssets/Ryans_stuff/Movie/NewLevelSequence.uasset'
+[2022.04.06-13.19.16:748][495]AssetCheck: New page: Asset Save: NewLevelSequence
+[2022.04.06-13.19.16:748][495]LogContentValidation: Display: Validating LevelSequence /Game/VehicleBP/LevelDecoratingAssets/Ryans_stuff/Movie/NewLevelSequence.NewLevelSequence
+[2022.04.06-13.19.17:800][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.04.06-13.19.20:054][567]LogSavePackage: Moving '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyansMap127B62D44672A6FC4EAB9BA75E8E6552.tmp' to '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyansMap.umap'
+[2022.04.06-13.19.20:066][567]LogFileHelpers: No new changes to save!
+[2022.04.06-13.19.20:081][567]AssetCheck: New page: Asset Save: RyansMap
+[2022.04.06-13.19.20:081][567]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyansMap.RyansMap
