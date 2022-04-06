@@ -1527,3 +1527,8 @@ Make sure 'Test_Kart_C' has been compiled for  Get Has_Item
 [2022.04.06-14.08.58:296][928]LogFileHelpers: No new changes to save!
 [2022.04.06-14.08.58:314][928]AssetCheck: New page: Asset Save: RyansMap
 [2022.04.06-14.08.58:314][928]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyansMap.RyansMap
+[2022.04.06-14.09.18:816][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.04.06-14.09.21:035][720]LogSavePackage: Moving '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Saved/RyansMap8B8A524545679764033D0BBAC19643BB.tmp' to '../../../../../../Users/a0052779/Documents/GitHub/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/RyansMap.umap'
+[2022.04.06-14.09.21:047][720]LogFileHelpers: No new changes to save!
+[2022.04.06-14.09.21:067][720]AssetCheck: New page: Asset Save: RyansMap
+[2022.04.06-14.09.21:067][720]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/RyansMap.RyansMap
