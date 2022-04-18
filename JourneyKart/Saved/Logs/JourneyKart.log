@@ -1822,3 +1822,337 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.18-17.30.41:279][601]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/Main_Map24C3013A4821CC131B3DD080AF39D9C7.tmp' to 'D:/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/Main_Map.umap'
 [2022.04.18-17.30.41:315][601]AssetCheck: New page: Asset Save: Main_Map
 [2022.04.18-17.30.41:315][601]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/Main_Map.Main_Map
+[2022.04.18-17.38.41:886][336]LogSlate: Window 'Message Log' being destroyed
+[2022.04.18-17.38.41:905][336]LogSlate: Window 'Message Log' being destroyed
+[2022.04.18-17.38.57:489][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:490][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:490][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\LevelDecoratingAssets\GeorgesFolder\Textures\Mat_Bushes_Base_color_Mat.uasset: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_Bushes_Base_color': Can't find file.
+[2022.04.18-17.38.57:491][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\LevelDecoratingAssets\GeorgesFolder\Textures\Mat_Bushes_Base_color_Mat.uasset: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_Bushes_Base_color': Can't find file.
+[2022.04.18-17.38.57:491][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\LevelDecoratingAssets\GeorgesFolder\Textures\Mat_Bushes_Base_color_Mat.uasset: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_Bushes_Base_color': Can't find file.
+[2022.04.18-17.38.57:491][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_DeadTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:491][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_DeadTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:492][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:492][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:492][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:493][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:502][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:502][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_DeadTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:503][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:503][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:632][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:632][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by FlyTrapBlockout_36
+[2022.04.18-17.38.57:712][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:712][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by FlyTrapBlockout10
+[2022.04.18-17.38.57:713][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:713][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by FlyTrapBlockout11
+[2022.04.18-17.38.57:713][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:713][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by FlyTrapBlockout12
+[2022.04.18-17.38.57:713][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:713][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by FlyTrapBlockout13
+[2022.04.18-17.38.57:714][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:714][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by FlyTrapBlockout14
+[2022.04.18-17.38.57:714][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:714][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by FlyTrapBlockout15
+[2022.04.18-17.38.57:714][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:714][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by FlyTrapBlockout16
+[2022.04.18-17.38.57:715][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:715][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by FlyTrapBlockout17
+[2022.04.18-17.38.57:715][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:715][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by FlyTrapBlockout18
+[2022.04.18-17.38.57:715][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:715][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by FlyTrapBlockout19
+[2022.04.18-17.38.57:716][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:716][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by FlyTrapBlockout20
+[2022.04.18-17.38.57:716][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:716][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by FlyTrapBlockout21
+[2022.04.18-17.38.57:717][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:717][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by FlyTrapBlockout22
+[2022.04.18-17.38.57:717][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:717][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by FlyTrapBlockout23
+[2022.04.18-17.38.57:717][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:717][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by FlyTrapBlockout2_9
+[2022.04.18-17.38.57:718][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:718][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by FlyTrapBlockout3
+[2022.04.18-17.38.57:718][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:718][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by FlyTrapBlockout4
+[2022.04.18-17.38.57:719][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:719][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by FlyTrapBlockout5
+[2022.04.18-17.38.57:719][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:719][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by FlyTrapBlockout6
+[2022.04.18-17.38.57:719][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:719][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by FlyTrapBlockout7
+[2022.04.18-17.38.57:720][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:720][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by FlyTrapBlockout8
+[2022.04.18-17.38.57:720][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:720][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by FlyTrapBlockout9
+[2022.04.18-17.38.57:726][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:727][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree15
+[2022.04.18-17.38.57:727][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:727][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree16
+[2022.04.18-17.38.57:727][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:727][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree17
+[2022.04.18-17.38.57:728][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:728][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree18
+[2022.04.18-17.38.57:728][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:728][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree19
+[2022.04.18-17.38.57:729][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:729][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree2
+[2022.04.18-17.38.57:729][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:729][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree20
+[2022.04.18-17.38.57:729][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:729][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree21
+[2022.04.18-17.38.57:730][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:730][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree22
+[2022.04.18-17.38.57:730][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:730][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree23
+[2022.04.18-17.38.57:730][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:730][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree24
+[2022.04.18-17.38.57:731][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:731][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree25
+[2022.04.18-17.38.57:731][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:731][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree26
+[2022.04.18-17.38.57:731][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:731][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree27
+[2022.04.18-17.38.57:732][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:732][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree28
+[2022.04.18-17.38.57:732][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:732][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree29
+[2022.04.18-17.38.57:733][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:733][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree3
+[2022.04.18-17.38.57:733][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:733][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree30
+[2022.04.18-17.38.57:733][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:733][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree32
+[2022.04.18-17.38.57:734][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:734][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree33
+[2022.04.18-17.38.57:734][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:734][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree34
+[2022.04.18-17.38.57:734][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:735][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree35
+[2022.04.18-17.38.57:735][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:735][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree36
+[2022.04.18-17.38.57:735][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:735][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree37
+[2022.04.18-17.38.57:736][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:736][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree38_110
+[2022.04.18-17.38.57:736][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:736][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree39
+[2022.04.18-17.38.57:736][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:737][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree4
+[2022.04.18-17.38.57:737][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:737][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree5
+[2022.04.18-17.38.57:737][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:737][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree6
+[2022.04.18-17.38.57:738][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:738][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree7
+[2022.04.18-17.38.57:738][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:738][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree9
+[2022.04.18-17.38.57:739][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:739][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_BubbleTree_Base_color_Mat.Mat_BubbleTree_Base_color_Mat Referenced by Mesh_BubbleTree_5
+[2022.04.18-17.38.57:745][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_DeadTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:745][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_DeadTree_Base_color_Mat.Mat_DeadTree_Base_color_Mat Referenced by Mesh_DeadTree2
+[2022.04.18-17.38.57:746][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_DeadTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:746][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_DeadTree_Base_color_Mat.Mat_DeadTree_Base_color_Mat Referenced by Mesh_DeadTree3
+[2022.04.18-17.38.57:746][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_DeadTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:746][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_DeadTree_Base_color_Mat.Mat_DeadTree_Base_color_Mat Referenced by Mesh_DeadTree4
+[2022.04.18-17.38.57:746][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_DeadTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:747][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_DeadTree_Base_color_Mat.Mat_DeadTree_Base_color_Mat Referenced by Mesh_DeadTree5
+[2022.04.18-17.38.57:747][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_DeadTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:747][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_DeadTree_Base_color_Mat.Mat_DeadTree_Base_color_Mat Referenced by Mesh_DeadTree_28
+[2022.04.18-17.38.57:747][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_DeadTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:747][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_DeadTree_Base_color_Mat.Mat_DeadTree_Base_color_Mat Referenced by Mesh_FallenTreeLog_12
+[2022.04.18-17.38.57:748][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:748][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V10
+[2022.04.18-17.38.57:749][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:749][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V11
+[2022.04.18-17.38.57:749][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:749][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V12
+[2022.04.18-17.38.57:749][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:749][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V13
+[2022.04.18-17.38.57:750][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:750][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V14
+[2022.04.18-17.38.57:750][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:750][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V15
+[2022.04.18-17.38.57:750][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:750][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V16
+[2022.04.18-17.38.57:751][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:751][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V17
+[2022.04.18-17.38.57:751][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:751][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V18
+[2022.04.18-17.38.57:752][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:752][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V19
+[2022.04.18-17.38.57:752][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:752][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V20
+[2022.04.18-17.38.57:752][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:752][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V21
+[2022.04.18-17.38.57:753][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:753][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V22
+[2022.04.18-17.38.57:753][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:753][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V23
+[2022.04.18-17.38.57:753][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:753][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V24
+[2022.04.18-17.38.57:754][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:754][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V25
+[2022.04.18-17.38.57:754][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:754][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V26
+[2022.04.18-17.38.57:754][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:754][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V27
+[2022.04.18-17.38.57:755][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:755][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V28
+[2022.04.18-17.38.57:755][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:755][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V29
+[2022.04.18-17.38.57:755][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:756][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V2_15
+[2022.04.18-17.38.57:756][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:756][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V3
+[2022.04.18-17.38.57:756][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:756][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V30
+[2022.04.18-17.38.57:757][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:757][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V4
+[2022.04.18-17.38.57:757][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:757][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V5
+[2022.04.18-17.38.57:758][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:758][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V6
+[2022.04.18-17.38.57:758][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:758][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PalmTree01_Base_color_Mat.Mat_PalmTree01_Base_color_Mat Referenced by Mesh_PalmTree02V7
+[2022.04.18-17.38.57:759][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:759][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat Referenced by Mesh_PineTree10
+[2022.04.18-17.38.57:759][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:759][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat Referenced by Mesh_PineTree11
+[2022.04.18-17.38.57:760][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:760][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat Referenced by Mesh_PineTree12
+[2022.04.18-17.38.57:760][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:760][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat Referenced by Mesh_PineTree13
+[2022.04.18-17.38.57:760][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:761][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat Referenced by Mesh_PineTree14
+[2022.04.18-17.38.57:761][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:761][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat Referenced by Mesh_PineTree15
+[2022.04.18-17.38.57:761][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:761][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat Referenced by Mesh_PineTree16
+[2022.04.18-17.38.57:761][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:762][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat Referenced by Mesh_PineTree17
+[2022.04.18-17.38.57:762][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:762][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat Referenced by Mesh_PineTree18
+[2022.04.18-17.38.57:762][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:762][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat Referenced by Mesh_PineTree19
+[2022.04.18-17.38.57:763][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:763][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat Referenced by Mesh_PineTree2
+[2022.04.18-17.38.57:763][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:763][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat Referenced by Mesh_PineTree20
+[2022.04.18-17.38.57:763][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:763][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat Referenced by Mesh_PineTree21
+[2022.04.18-17.38.57:764][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:764][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat Referenced by Mesh_PineTree22
+[2022.04.18-17.38.57:764][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:764][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat Referenced by Mesh_PineTree23
+[2022.04.18-17.38.57:764][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:764][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat Referenced by Mesh_PineTree24
+[2022.04.18-17.38.57:765][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:765][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat Referenced by Mesh_PineTree3
+[2022.04.18-17.38.57:765][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:765][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat Referenced by Mesh_PineTree4
+[2022.04.18-17.38.57:765][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:765][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat Referenced by Mesh_PineTree5
+[2022.04.18-17.38.57:766][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:766][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat Referenced by Mesh_PineTree6
+[2022.04.18-17.38.57:766][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:766][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat Referenced by Mesh_PineTree7
+[2022.04.18-17.38.57:766][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:766][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat Referenced by Mesh_PineTree8
+[2022.04.18-17.38.57:767][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:767][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat Referenced by Mesh_PineTree9
+[2022.04.18-17.38.57:767][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\Maps\Stu_Skinning.umap: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat': Can't find file.
+[2022.04.18-17.38.57:767][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_PineTree_Base_color_Mat.Mat_PineTree_Base_color_Mat Referenced by Mesh_PineTree_4
+[2022.04.18-17.38.58:020][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\LevelDecoratingAssets\GeorgesFolder\Textures\Mat_Bushes_Base_color_Mat.uasset: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_Bushes_Base_color': Can't find file.
+[2022.04.18-17.38.58:020][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_Bushes_Base_color.Mat_Bushes_Base_color Referenced by Mat_Bushes_Base_color_Mat
+[2022.04.18-17.38.58:021][765]LogLinker: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\LevelDecoratingAssets\GeorgesFolder\Textures\Mat_Bushes_Base_color_Mat.uasset: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_Bushes_Base_color': Can't find file.
+[2022.04.18-17.38.58:021][765]LoadErrors: Failed to load /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Textures/Mat_Bushes_Base_color.Mat_Bushes_Base_color Referenced by MaterialExpressionTextureSample_0
+[2022.04.18-17.38.59:709][765]LogMaterial: Display: Missing cached shader map for material Mat_Bushes_Base_color_Mat, compiling. 
+[2022.04.18-17.38.59:710][765]LogMaterial: Warning: [AssetLog] D:\Journeyman_Game\JourneyKart\Content\VehicleBP\LevelDecoratingAssets\GeorgesFolder\Textures\Mat_Bushes_Base_color_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.18-17.38.59:710][765]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.18-17.38.59:864][765]LogObjectTools: Deleting 1 worlds: /Game/VehicleBP/Maps/Stu_Skinning.Stu_Skinning
+[2022.04.18-17.38.59:865][765]LogObjectTools: Currently 21 active worlds: /Game/VehicleBP/Maps/Main_Map.Main_Map, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14, /Engine/Transient.World_15, /Engine/Transient.World_16, /Engine/Transient.World_17, /Engine/Transient.World_19, /Engine/Transient.World_20
+[2022.04.18-17.38.59:922][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.04.18-17.39.03:155][765]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.18-17.39.03:191][765]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/VehicleBP/Maps/Stu_Skinning.Stu_Skinning
+[2022.04.18-17.39.08:280][765]LogWorld: UWorld::CleanupWorld for Stu_Skinning, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-17.39.08:284][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-17.39.08:644][765]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2022.04.18-17.39.08:851][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.04.18-17.39.08:905][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.04.18-17.39.08:940][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.04.18-17.42.10:029][677]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.18-17.42.12:055][833]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.18-17.42.13:719][988]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.18-17.42.15:541][148]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.18-17.42.16:463][231]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.18-17.42.17:398][316]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.18-17.42.19:451][520]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.18-17.48.25:820][276]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.18-17.48.27:627][418]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.18-17.48.29:370][554]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.18-17.48.31:412][714]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.18-17.48.33:010][839]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.18-17.48.37:921][235]Cmd: DELETE
+[2022.04.18-17.48.37:921][235]Cmd: ACTOR DELETE
+[2022.04.18-17.48.37:972][235]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.48.38:008][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.04.18-17.48.38:021][235]LogEditorActor: Deleted 1 Actors (0.100 secs)
+[2022.04.18-17.48.41:343][511]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.18-17.48.41:996][565]Cmd: DELETE
+[2022.04.18-17.48.41:996][565]Cmd: ACTOR DELETE
+[2022.04.18-17.48.42:048][565]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.48.42:083][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.04.18-17.48.42:086][565]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2022.04.18-17.48.45:190][852]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.18-17.48.47:506][ 39]Cmd: DELETE
+[2022.04.18-17.48.47:506][ 39]Cmd: ACTOR DELETE
+[2022.04.18-17.48.47:555][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.48.47:591][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.04.18-17.48.47:593][ 39]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2022.04.18-17.48.51:629][375]Cmd: DELETE
+[2022.04.18-17.48.51:629][375]Cmd: ACTOR DELETE
+[2022.04.18-17.48.51:680][375]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.48.51:718][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.04.18-17.48.51:720][375]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2022.04.18-17.48.54:453][609]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.18-17.48.59:623][ 36]Cmd: DELETE
+[2022.04.18-17.48.59:623][ 36]Cmd: ACTOR DELETE
+[2022.04.18-17.48.59:676][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.48.59:710][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.04.18-17.48.59:714][ 36]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2022.04.18-17.49.02:944][330]Cmd: DELETE
+[2022.04.18-17.49.02:944][330]Cmd: ACTOR DELETE
+[2022.04.18-17.49.02:997][330]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.49.03:032][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.04.18-17.49.03:035][330]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2022.04.18-17.49.08:751][830]Cmd: DELETE
+[2022.04.18-17.49.08:751][830]Cmd: ACTOR DELETE
+[2022.04.18-17.49.08:812][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.49.08:813][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.49.08:813][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.49.08:813][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.49.08:813][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.49.08:814][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.49.08:814][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.49.08:814][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.49.08:815][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.49.08:815][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.49.08:815][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.49.08:815][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.49.08:815][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.49.08:816][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.49.08:816][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.49.08:816][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.49.08:816][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.49.08:817][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.49.08:817][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.49.08:817][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.18-17.49.08:853][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.04.18-17.49.08:856][830]LogEditorActor: Deleted 20 Actors (0.104 secs)
+[2022.04.18-17.49.17:430][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Maps/Main_Map" FILE="D:/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/Main_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.18-17.49.17:469][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.04.18-17.49.19:197][546]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/Main_Map33C8B5A24F637F72D3FC3598BC4B6071.tmp' to 'D:/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/Main_Map.umap'
+[2022.04.18-17.49.19:236][546]AssetCheck: New page: Asset Save: Main_Map
+[2022.04.18-17.49.19:236][546]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/Main_Map.Main_Map
