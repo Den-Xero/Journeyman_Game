@@ -1069,3 +1069,876 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.23-14.29.15:330][322]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/Main_MapE7D6AA4245BF842BC90B2596DA1C99DC.tmp' to 'D:/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/Main_Map.umap'
 [2022.04.23-14.29.15:382][322]AssetCheck: New page: Asset Save: Main_Map
 [2022.04.23-14.29.15:382][322]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/Main_Map.Main_Map
+[2022.04.23-14.53.00:317][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PreDipSwirl)
+[2022.04.23-14.53.35:059][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.04.23-14.53.35:066][539]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VehicleBP/Maps/Main_Map' took 0.041
+[2022.04.23-14.53.35:067][539]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Track_Bits/BetterXNew] ([1] browsable assets)...
+[2022.04.23-14.53.35:082][539]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Modular_Track_Bits/BetterXNew.BetterXNew]
+[2022.04.23-14.53.35:082][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Track_Bits/BetterXNew]
+[2022.04.23-14.53.35:082][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modular_Track_Bits/BetterXNew" FILE="D:/Journeyman_Game/JourneyKart/Saved/Autosaves/Game/Modular_Track_Bits/BetterXNew_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.04.23-14.53.35:095][539]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/BetterXNew_Auto152BDDED248DF6A8D6653AE832BF32716.tmp' to 'D:/Journeyman_Game/JourneyKart/Saved/Autosaves/Game/Modular_Track_Bits/BetterXNew_Auto1.uasset'
+[2022.04.23-14.53.35:096][539]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Track_Bits/LongTurnTrackNew] ([1] browsable assets)...
+[2022.04.23-14.53.35:110][539]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Modular_Track_Bits/LongTurnTrackNew.LongTurnTrackNew]
+[2022.04.23-14.53.35:110][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Track_Bits/LongTurnTrackNew]
+[2022.04.23-14.53.35:120][539]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/LongTurnTrackNew_Auto138F62B064D65C2A0C873CBB2EF4D2215.tmp' to 'D:/Journeyman_Game/JourneyKart/Saved/Autosaves/Game/Modular_Track_Bits/LongTurnTrackNew_Auto1.uasset'
+[2022.04.23-14.53.35:121][539]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Track_Bits/LongTurnOverhangTrackNew] ([1] browsable assets)...
+[2022.04.23-14.53.35:136][539]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Modular_Track_Bits/LongTurnOverhangTrackNew.LongTurnOverhangTrackNew]
+[2022.04.23-14.53.35:136][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Track_Bits/LongTurnOverhangTrackNew]
+[2022.04.23-14.53.35:146][539]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/LongTurnOverhangTrackNew_Auto1795C916B4FD34911E05E7EAAE619282E.tmp' to 'D:/Journeyman_Game/JourneyKart/Saved/Autosaves/Game/Modular_Track_Bits/LongTurnOverhangTrackNew_Auto1.uasset'
+[2022.04.23-14.53.35:147][539]LogFileHelpers: Auto-saving content packages took 0.080
+[2022.04.23-15.00.08:498][738]LogSlate: Window 'FBX Export Options' being destroyed
+[2022.04.23-15.00.08:519][738]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2022.04.23-15.00.15:610][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pitstop)
+[2022.04.23-15.00.17:636][226]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Pitstop)
+[2022.04.23-15.00.23:936][528]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pitstop)
+[2022.04.23-15.00.44:398][315]LogSlate: Window 'FBX Export Options' being destroyed
+[2022.04.23-15.00.44:417][315]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2022.04.23-15.00.50:346][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_EasyRoad3_6)
+[2022.04.23-15.01.08:521][354]LogSlate: Window 'FBX Export Options' being destroyed
+[2022.04.23-15.01.08:546][354]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2022.04.23-15.01.19:789][ 70]LogEditorViewport: Clicking on Actor (LMB): Spline_Road_Floor_C (Spline_Road_Floor9)
+[2022.04.23-15.01.24:469][344]LogEditorViewport: Clicking on Actor (LMB): Spline_Road_Floor_C (Spline_Road_Floor9)
+[2022.04.23-15.01.24:531][346]LogEditorViewport: Clicking on Component (LMB): SplineMeshComponent (NODE_AddSplineMeshComponent-0)
+[2022.04.23-15.01.25:765][427]LogEditorViewport: Clicking on Component (SHIFT LMB): SplineMeshComponent (NODE_AddSplineMeshComponent-0_0)
+[2022.04.23-15.01.25:841][430]LogEditorViewport: Clicking on Actor (LMB): Spline_Road_Floor_C (Spline_Road_Floor9)
+[2022.04.23-15.01.26:812][494]LogEditorViewport: Clicking on Actor (LMB): Spline_Road_Floor_C (Spline_Road_Floor9)
+[2022.04.23-15.01.26:887][497]LogEditorViewport: Clicking on Component (LMB): SplineMeshComponent (NODE_AddSplineMeshComponent-0)
+[2022.04.23-15.01.27:755][555]LogEditorViewport: Clicking on Component (SHIFT LMB): SplineMeshComponent (NODE_AddSplineMeshComponent-0_0)
+[2022.04.23-15.01.28:581][607]LogEditorViewport: Clicking on Component (SHIFT LMB): SplineMeshComponent (NODE_AddSplineMeshComponent-0_1)
+[2022.04.23-15.01.29:438][662]LogEditorViewport: Clicking on Component (SHIFT LMB): SplineMeshComponent (NODE_AddSplineMeshComponent-0_2)
+[2022.04.23-15.01.34:604][ 12]LogEditorViewport: Clicking on Component (context menu): SplineMeshComponent (NODE_AddSplineMeshComponent-0_2)
+[2022.04.23-15.01.37:430][196]LogEditorViewport: Clicking on Component (context menu): SplineMeshComponent (NODE_AddSplineMeshComponent-0_2)
+[2022.04.23-15.01.38:390][256]LogEditorViewport: Clicking on Component (LMB): SplineMeshComponent (NODE_AddSplineMeshComponent-0_2)
+[2022.04.23-15.01.39:519][331]LogEditorViewport: Clicking on Component (LMB): SplineMeshComponent (NODE_AddSplineMeshComponent-0_1)
+[2022.04.23-15.01.41:091][436]LogEditorViewport: Clicking on Component (LMB): SplineMeshComponent (NODE_AddSplineMeshComponent-0_2)
+[2022.04.23-15.01.42:247][512]LogEditorViewport: Clicking on Component (SHIFT LMB): SplineMeshComponent (NODE_AddSplineMeshComponent-0_1)
+[2022.04.23-15.01.42:851][551]LogEditorViewport: Clicking on Component (SHIFT LMB): SplineMeshComponent (NODE_AddSplineMeshComponent-0_0)
+[2022.04.23-15.01.44:072][630]LogEditorViewport: Clicking on Component (SHIFT LMB): SplineMeshComponent (NODE_AddSplineMeshComponent-0)
+[2022.04.23-15.02.15:880][762]LogSlate: Window 'Create Merged Actor' being destroyed
+[2022.04.23-15.02.15:920][762]LogStaticMesh: Building static mesh SM_MERGED_Spline_Road_Floor9...
+[2022.04.23-15.02.15:922][762]LogStaticMesh: Built static mesh [0.00s] /Game/Modular_Track_Bits/SM_MERGED_Spline_Road_Floor9.SM_MERGED_Spline_Road_Floor9
+[2022.04.23-15.02.15:923][762]LogStaticMesh: Warning: SM_MERGED_Spline_Road_Floor9 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.23-15.02.15:923][762]LogStaticMesh: Warning: SM_MERGED_Spline_Road_Floor9 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.23-15.02.18:640][880]LogSlate: Window 'Merge Actors' being destroyed
+[2022.04.23-15.02.18:651][880]LogSlate: Window 'Merge Actors' being destroyed
+[2022.04.23-15.02.20:235][984]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Spline_Road_Floor9)
+[2022.04.23-15.02.29:898][290]LogSlate: Window 'FBX Export Options' being destroyed
+[2022.04.23-15.02.29:921][290]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2022.04.23-15.02.32:057][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (VolcanoRotator)
+[2022.04.23-15.02.32:844][475]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (VolcanoRotator)
+[2022.04.23-15.02.36:770][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (VolcanoRotator)
+[2022.04.23-15.02.47:006][983]LogSlate: Window 'FBX Export Options' being destroyed
+[2022.04.23-15.02.47:024][983]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2022.04.23-15.02.55:291][495]LogEditorViewport: Clicking on Actor (LMB): Spline_Road_Floor_C (Spline_Road_Floor8)
+[2022.04.23-15.03.13:933][558]LogEditorViewport: Clicking on Actor (context menu): Spline_Road_Floor_C (Spline_Road_Floor8)
+[2022.04.23-15.03.17:335][726]LogActorFactory: Actor Factory created SM_MERGED_Spline_Road_Floor8
+[2022.04.23-15.03.17:361][726]EditorErrors: New page: Actor Reattachment
+[2022.04.23-15.03.21:764][960]Cmd: TRANSACTION UNDO
+[2022.04.23-15.03.21:764][960]LogEditorTransaction: Undo Replace Actor(s)
+[2022.04.23-15.03.21:791][960]LogScript: Warning: Attempted to access Spline via property Spline, but Spline is pending kill
+	Spline_Road_Floor_C /Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.Spline_Road_Floor8
+	Function /Game/VehicleBP/PrototypeAssets_ZN/Spline_Road_Floor.Spline_Road_Floor_C:UserConstructionScript:0040
+[2022.04.23-15.03.21:801][960]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.04.23-15.03.23:037][960]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.235 s
+[2022.04.23-15.03.23:037][960]LogOutputDevice: Error: === Handled ensure: ===
+[2022.04.23-15.03.23:037][960]LogOutputDevice: Error: 
+[2022.04.23-15.03.23:037][960]LogOutputDevice: Error: Ensure condition failed: !InActorComponent->IsPendingKill() [File:D:/Build/++UE4/Sync/Engine/Source/Editor/Kismet/Private/SSCSEditor.cpp] [Line: 6659]
+[2022.04.23-15.03.23:037][960]LogOutputDevice: Error: 
+[2022.04.23-15.03.23:037][960]LogOutputDevice: Error: Stack: 
+[2022.04.23-15.03.23:037][960]LogOutputDevice: Error: [Callstack] 0x00007ff900281639 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.04.23-15.03.23:037][960]LogOutputDevice: Error: [Callstack] 0x00007ff8fff900e7 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.04.23-15.03.23:037][960]LogOutputDevice: Error: [Callstack] 0x00007ff8fff973a6 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.04.23-15.03.23:037][960]LogOutputDevice: Error: [Callstack] 0x00007ff900076d6e UE4Editor-Kismet.dll!UnknownFunction []
+[2022.04.23-15.03.23:037][960]LogOutputDevice: Error: [Callstack] 0x00007ff8d30caabf UE4Editor-LevelEditor.dll!UnknownFunction []
+[2022.04.23-15.03.23:037][960]LogOutputDevice: Error: [Callstack] 0x00007ff8d30a4068 UE4Editor-LevelEditor.dll!UnknownFunction []
+[2022.04.23-15.03.23:037][960]LogOutputDevice: Error: [Callstack] 0x00007ff8d3074f67 UE4Editor-LevelEditor.dll!UnknownFunction []
+[2022.04.23-15.03.23:037][960]LogOutputDevice: Error: [Callstack] 0x00007ff8d2f73399 UE4Editor-LevelEditor.dll!UnknownFunction []
+[2022.04.23-15.03.23:037][960]LogOutputDevice: Error: [Callstack] 0x00007ff90121d082 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.23-15.03.23:037][960]LogOutputDevice: Error: [Callstack] 0x00007ff90121cff0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.23-15.03.23:037][960]LogOutputDevice: Error: [Callstack] 0x00007ff9012085bb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.23-15.03.23:037][960]LogOutputDevice: Error: [Callstack] 0x00007ff9011f4ed2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff9011e187d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff901283850 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff9011e10f1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff9011dafbe UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff901a5db77 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff8c5a453c5 UE4Editor-MainFrame.dll!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff8c5a45eae UE4Editor-MainFrame.dll!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff912c733a9 UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff912cac62a UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff8c5a537de UE4Editor-MainFrame.dll!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff8c5a45065 UE4Editor-MainFrame.dll!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff912cae3ec UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff912ca2226 UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff972dcb958 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff972db9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff972dce389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff972db4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff9afa3e858 USER32.dll!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff9afa3e299 USER32.dll!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff972dcf914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff6e3668848 UE4Editor.exe!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff6e368117c UE4Editor.exe!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff6e368125a UE4Editor.exe!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff6e36952bd UE4Editor.exe!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff6e3697fea UE4Editor.exe!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff9b0407034 KERNEL32.DLL!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: [Callstack] 0x00007ff9b1922651 ntdll.dll!UnknownFunction []
+[2022.04.23-15.03.23:038][960]LogOutputDevice: Error: 
+[2022.04.23-15.03.23:048][960]LogStats:                SubmitErrorReport -  0.000 s
+[2022.04.23-15.03.26:148][960]LogStats:                    SendNewReport -  3.100 s
+[2022.04.23-15.03.26:148][960]LogStats:             FDebug::EnsureFailed -  4.347 s
+[2022.04.23-15.03.26:315][960]Cmd: TRANSACTION UNDO
+[2022.04.23-15.03.26:316][960]LogEditorTransaction: Undo Clicking on Actors
+[2022.04.23-15.03.26:648][960]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (WavePlane)
+[2022.04.23-15.03.26:723][960]Cmd: TRANSACTION UNDO
+[2022.04.23-15.03.26:723][960]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2022.04.23-15.03.27:014][960]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.23-15.03.27:054][960]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-15.03.27:054][960]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-15.03.29:428][ 75]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.04.23-15.03.30:564][141]Cmd: TRANSACTION UNDO
+[2022.04.23-15.03.30:564][141]LogEditorTransaction: Undo Clicking on Actors
+[2022.04.23-15.03.31:241][157]Cmd: TRANSACTION UNDO
+[2022.04.23-15.03.31:241][157]LogEditorTransaction: Undo Clicking on Actors
+[2022.04.23-15.03.33:432][275]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.04.23-15.03.37:114][458]LogActorFactory: Actor Factory created ToBeach
+[2022.04.23-15.03.38:430][519]LogActorFactory: Actor Factory created ToBeach
+[2022.04.23-15.04.48:924][242]LogSlate: Window 'FBX Export Options' being destroyed
+[2022.04.23-15.04.48:950][242]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2022.04.23-15.05.01:562][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RyansPLants)
+[2022.04.23-15.05.12:736][341]LogSlate: Window 'FBX Export Options' being destroyed
+[2022.04.23-15.05.12:753][341]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2022.04.23-15.07.52:528][317]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Downloads/Mesh_LogBridge.fbx)
+[2022.04.23-15.07.52:540][317]LogFbx: Loading FBX Scene from D:/Downloads/Mesh_LogBridge.fbx
+[2022.04.23-15.07.52:549][317]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.23-15.07.54:294][317]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.23-15.07.54:314][317]LogFbx: Display: Triangulating static mesh Mesh_LogBridge
+[2022.04.23-15.07.54:381][317]LogStaticMesh: Building static mesh Mesh_LogBridge...
+[2022.04.23-15.07.54:418][317]LogStaticMesh: Built static mesh [0.04s] /Game/VehicleBP/LevelDecoratingAssets/Roadpieces/Mesh_LogBridge.Mesh_LogBridge
+[2022.04.23-15.08.00:895][625]LogActorFactory: Actor Factory created Mesh_LogBridge
+[2022.04.23-15.08.10:393][136]LogActorFactory: Actor Factory created Mesh_LogBridge
+[2022.04.23-15.08.48:246][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NewPostvolcanoramp)
+[2022.04.23-15.08.49:580][434]Cmd: DELETE
+[2022.04.23-15.08.49:581][434]Cmd: ACTOR DELETE
+[2022.04.23-15.08.49:691][434]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.23-15.08.49:737][434]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.04.23-15.08.49:748][434]LogEditorActor: Deleted 1 Actors (0.140 secs)
+[2022.04.23-15.08.57:861][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_LogBridge)
+[2022.04.23-15.10.17:341][ 35]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.23-15.10.17:353][ 35]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.04.23-15.10.17:354][ 35]LogPlayLevel: [PlayLevel] Compiling Main_Map before play...
+[2022.04.23-15.10.17:506][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.04.23-15.10.17:514][ 35]LogPlayLevel: PlayLevel: Blueprint regeneration took 160 ms (1 blueprints)
+[2022.04.23-15.10.17:514][ 35]PIE: New page: PIE session: Main_Map (23 Apr 2022, 17:10:17)
+[2022.04.23-15.10.17:515][ 35]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-15.10.17:787][ 35]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_46 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.17:787][ 35]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_45 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.17:787][ 35]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_44 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.17:787][ 35]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_43 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.17:787][ 35]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_63 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.17:787][ 35]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_42 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.17:787][ 35]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_41 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.17:787][ 35]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_66 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.17:787][ 35]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_40 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.17:787][ 35]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_65 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.17:787][ 35]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_39 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.17:788][ 35]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_38 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.17:788][ 35]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_69 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.17:788][ 35]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_37 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.17:800][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.284737s)
+[2022.04.23-15.10.17:802][ 35]LogAIModule: Creating AISystem for world Main_Map
+[2022.04.23-15.10.17:803][ 35]LogPlayLevel: PIE: World Init took: (0.003044s)
+[2022.04.23-15.10.17:803][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/Main_Map.Main_Map to /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map (0.288570s)
+[2022.04.23-15.10.17:841][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.04.23-15.10.17:843][ 35]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.23-15.10.17:843][ 35]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.23-15.10.17:843][ 35]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.23-15.10.17:843][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.23-15.10.17:843][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.23-15.10.17:843][ 35]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.23-15.10.17:843][ 35]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.23-15.10.17:843][ 35]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.23-15.10.17:843][ 35]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.23-15.10.17:844][ 35]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.23-15.10.17:844][ 35]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.23-15.10.17:851][ 35]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-15.10.17:851][ 35]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-15.10.17:867][ 35]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.04.23-15.10.17:868][ 35]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.23-15.10.17:868][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.23-15.10.17:868][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.23-15.10.17:870][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.23-15.10.17:870][ 35]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.23-15.10.17:870][ 35]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.23-15.10.17:899][ 35]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.23-15.10.17:899][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.23-15.10.17:899][ 35]LogInit: FAudioDevice initialized.
+[2022.04.23-15.10.17:899][ 35]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main_Map'.
+[2022.04.23-15.10.17:917][ 35]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.04.23-15.10.17:945][ 35]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.23-15.10.17:945][ 35]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.23-15.10.17:948][ 35]LogPhysics: Warning: Scale for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Cube_24.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=6.719 Y=0.000 Z=26.094
+[2022.04.23-15.10.18:025][ 35]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map up for play (max tick rate 0) at 2022.04.23-16.10.18
+[2022.04.23-15.10.18:032][ 35]LogWorld: Bringing up level for play took: 0.112132
+[2022.04.23-15.10.18:033][ 35]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.04.23-15.10.18:066][ 35]PIE: Server logged in
+[2022.04.23-15.10.18:067][ 35]PIE: Play in editor total start time 0.715 seconds.
+[2022.04.23-15.10.19:494][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-15.10.19:494][ 78]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-15.10.19:497][ 78]LogWorld: UWorld::CleanupWorld for Main_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-15.10.19:523][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-15.10.19:537][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.23-15.10.19:566][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-15.10.19:613][ 78]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.23-15.10.19:614][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-15.10.19:616][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-15.10.19:647][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-15.10.19:690][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.04.23-15.10.20:181][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.04.23-15.10.30:311][682]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (VolcanoRotator)
+[2022.04.23-15.10.31:748][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.23-15.10.31:748][751]PIE: New page: PIE session: Main_Map (23 Apr 2022, 17:10:31)
+[2022.04.23-15.10.31:748][751]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-15.10.32:016][751]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_46 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.32:016][751]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_45 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.32:017][751]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_44 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.32:017][751]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_43 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.32:017][751]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_63 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.32:017][751]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_42 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.32:017][751]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_41 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.32:017][751]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_66 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.32:017][751]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_40 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.32:017][751]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_65 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.32:017][751]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_39 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.32:017][751]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_38 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.32:017][751]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_69 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.32:017][751]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_37 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.10.32:026][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.278377s)
+[2022.04.23-15.10.32:028][751]LogAIModule: Creating AISystem for world Main_Map
+[2022.04.23-15.10.32:028][751]LogPlayLevel: PIE: World Init took: (0.001888s)
+[2022.04.23-15.10.32:029][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/Main_Map.Main_Map to /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map (0.280801s)
+[2022.04.23-15.10.32:066][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.04.23-15.10.32:069][751]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.04.23-15.10.32:069][751]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.23-15.10.32:069][751]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.23-15.10.32:069][751]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.23-15.10.32:069][751]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.23-15.10.32:069][751]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.23-15.10.32:069][751]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.23-15.10.32:069][751]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.23-15.10.32:069][751]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.23-15.10.32:070][751]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.23-15.10.32:070][751]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.23-15.10.32:075][751]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-15.10.32:075][751]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-15.10.32:091][751]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.04.23-15.10.32:091][751]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.23-15.10.32:092][751]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.23-15.10.32:092][751]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.23-15.10.32:093][751]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.23-15.10.32:093][751]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.23-15.10.32:093][751]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.23-15.10.32:121][751]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.23-15.10.32:121][751]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.23-15.10.32:121][751]LogInit: FAudioDevice initialized.
+[2022.04.23-15.10.32:121][751]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main_Map'.
+[2022.04.23-15.10.32:134][751]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.04.23-15.10.32:156][751]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.23-15.10.32:156][751]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.23-15.10.32:159][751]LogPhysics: Warning: Scale for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Cube_24.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=6.719 Y=0.000 Z=26.094
+[2022.04.23-15.10.32:225][751]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map up for play (max tick rate 0) at 2022.04.23-16.10.32
+[2022.04.23-15.10.32:230][751]LogWorld: Bringing up level for play took: 0.093611
+[2022.04.23-15.10.32:231][751]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.04.23-15.10.32:266][751]PIE: Server logged in
+[2022.04.23-15.10.32:267][751]PIE: Play in editor total start time 0.52 seconds.
+[2022.04.23-15.10.53:342][844]LogBlueprintUserMessages: [Test_Kart2] Banana
+[2022.04.23-15.10.53:916][874]LogBlueprintUserMessages: [Test_Kart_2] Star
+[2022.04.23-15.10.57:354][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-15.10.57:354][ 49]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-15.10.57:357][ 49]LogWorld: UWorld::CleanupWorld for Main_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-15.10.57:384][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-15.10.57:396][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.23-15.10.57:422][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-15.10.57:459][ 49]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.23-15.10.57:461][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-15.10.57:462][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-15.10.57:494][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-15.10.57:546][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.04.23-15.10.57:923][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.04.23-15.10.58:894][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_LogBridge)
+[2022.04.23-15.11.01:458][223]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/VehicleBP/LevelDecoratingAssets/Roadpieces/Mesh_LogBridge.Mesh_LogBridge
+[2022.04.23-15.11.36:559][849]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/Mesh_LogBridge34373891423E94977FD7678A1764D3D0.tmp' to 'D:/Journeyman_Game/JourneyKart/Content/VehicleBP/LevelDecoratingAssets/Roadpieces/Mesh_LogBridge.uasset'
+[2022.04.23-15.11.36:582][849]AssetCheck: New page: Asset Save: Mesh_LogBridge
+[2022.04.23-15.11.36:582][849]LogContentValidation: Display: Validating StaticMesh /Game/VehicleBP/LevelDecoratingAssets/Roadpieces/Mesh_LogBridge.Mesh_LogBridge
+[2022.04.23-15.11.47:550][383]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (VolcanoRotator)
+[2022.04.23-15.11.48:945][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.23-15.11.48:945][428]PIE: New page: PIE session: Main_Map (23 Apr 2022, 17:11:48)
+[2022.04.23-15.11.48:945][428]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-15.11.49:226][428]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_46 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.11.49:226][428]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_45 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.11.49:227][428]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_44 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.11.49:227][428]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_43 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.11.49:227][428]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_63 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.11.49:227][428]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_42 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.11.49:227][428]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_41 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.11.49:227][428]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_66 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.11.49:227][428]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_40 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.11.49:227][428]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_65 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.11.49:227][428]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_39 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.11.49:227][428]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_38 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.11.49:227][428]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_69 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.11.49:227][428]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_37 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.11.49:237][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.291988s)
+[2022.04.23-15.11.49:238][428]LogAIModule: Creating AISystem for world Main_Map
+[2022.04.23-15.11.49:239][428]LogPlayLevel: PIE: World Init took: (0.001979s)
+[2022.04.23-15.11.49:239][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/Main_Map.Main_Map to /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map (0.294418s)
+[2022.04.23-15.11.49:280][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.04.23-15.11.49:284][428]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.04.23-15.11.49:284][428]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.23-15.11.49:284][428]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.23-15.11.49:284][428]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.23-15.11.49:284][428]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.23-15.11.49:284][428]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.23-15.11.49:284][428]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.23-15.11.49:284][428]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.23-15.11.49:284][428]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.23-15.11.49:285][428]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.23-15.11.49:285][428]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.23-15.11.49:291][428]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-15.11.49:291][428]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-15.11.49:306][428]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.04.23-15.11.49:306][428]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.23-15.11.49:306][428]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.23-15.11.49:306][428]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.23-15.11.49:308][428]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.23-15.11.49:308][428]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.23-15.11.49:308][428]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.23-15.11.49:336][428]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.23-15.11.49:336][428]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.23-15.11.49:336][428]LogInit: FAudioDevice initialized.
+[2022.04.23-15.11.49:336][428]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main_Map'.
+[2022.04.23-15.11.49:348][428]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.04.23-15.11.49:372][428]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.23-15.11.49:372][428]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.23-15.11.49:375][428]LogPhysics: Warning: Scale for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Cube_24.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=6.719 Y=0.000 Z=26.094
+[2022.04.23-15.11.49:444][428]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map up for play (max tick rate 0) at 2022.04.23-16.11.49
+[2022.04.23-15.11.49:450][428]LogWorld: Bringing up level for play took: 0.099443
+[2022.04.23-15.11.49:450][428]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.04.23-15.11.49:485][428]PIE: Server logged in
+[2022.04.23-15.11.49:486][428]PIE: Play in editor total start time 0.542 seconds.
+[2022.04.23-15.12.12:141][621]LogBlueprintUserMessages: [Test_Kart2] Smoke_Bomb
+[2022.04.23-15.12.17:609][907]LogBlueprintUserMessages: [Test_Kart4] Banana
+[2022.04.23-15.12.24:285][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-15.12.24:285][254]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-15.12.24:289][254]LogWorld: UWorld::CleanupWorld for Main_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-15.12.24:317][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-15.12.24:332][254]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.23-15.12.24:360][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-15.12.24:394][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-15.12.24:412][254]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-15.12.24:414][254]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-15.12.24:483][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.04.23-15.12.24:869][267]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.04.23-15.12.40:021][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_LogBridge)
+[2022.04.23-15.12.48:290][392]PIE: Warning: Applying invalid scale V(X=1.031, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.12.48:434][400]PIE: Warning: Applying invalid scale V(X=1.062, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.12.48:508][404]PIE: Warning: Applying invalid scale V(X=1.094, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.12.48:979][430]PIE: Warning: Applying invalid scale V(X=1.125, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.13.01:052][ 11]PIE: Warning: Applying invalid scale V(X=1.156, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.13.01:117][ 14]PIE: Warning: Applying invalid scale V(X=1.188, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.13.01:180][ 17]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.13.01:225][ 19]PIE: Warning: Applying invalid scale V(X=1.25, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.13.01:284][ 22]PIE: Warning: Applying invalid scale V(X=1.281, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.13.01:902][ 53]PIE: Warning: Applying invalid scale V(X=1.25, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.13.02:121][ 64]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.13.04:538][161]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.13.04:599][164]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.13.04:639][166]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.13.04:702][169]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.13.04:724][170]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.13.04:784][173]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.13.44:308][849]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Downloads\Mesh_LogBridge_Tex_LogBridge_BaseColor.png)
+[2022.04.23-15.13.44:458][849]LogTexture: Display: Building textures: Mesh_LogBridge_Tex_LogBridge_BaseColor (AutoDXT, 2048X2048)
+[2022.04.23-15.13.53:724][276]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Downloads\Mesh_LogBridge_Tex_LogBridge_OcclusionRoughnessMetallic.png)
+[2022.04.23-15.13.53:828][276]LogTexture: Display: Building textures: Mesh_LogBridge_Tex_LogBridge_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2022.04.23-15.14.00:548][558]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.04.23-15.14.00:576][558]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.04.23-15.14.07:862][825]LogContentBrowser: Attempting asset rename: NewMaterial -> LogBridge_Mat
+[2022.04.23-15.14.07:865][825]LogContentBrowser: End creating deferred item NewMaterial
+[2022.04.23-15.14.10:244][924]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/VehicleBP/LevelDecoratingAssets/Textures/LogBridge_Mat.LogBridge_Mat
+[2022.04.23-15.14.10:249][924]LogMaterial: Display: Missing cached shader map for material LogBridge_Mat, compiling. 
+[2022.04.23-15.14.10:446][924]LogMaterial: Display: Missing cached shader map for material LogBridge_Mat, compiling. 
+[2022.04.23-15.14.10:457][924]LogMaterial: Display: Missing cached shader map for material LogBridge_Mat, compiling. 
+[2022.04.23-15.14.10:475][924]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2022.04.23-15.14.10:475][924]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.04.23-15.14.10:475][924]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.04.23-15.14.10:475][924]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2022.04.23-15.14.10:505][924]LogSlate: Took 0.001436 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.23-15.14.11:711][946]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2022.04.23-15.14.12:111][960]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2022.04.23-15.14.12:217][962]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2022.04.23-15.14.12:217][962]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2022.04.23-15.14.12:929][985]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.23-15.14.13:531][  2]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.04.23-15.14.13:531][  2]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.04.23-15.14.13:532][  2]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.04.23-15.14.13:532][  2]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.23-15.14.13:932][ 19]LogMaterial: Display: Missing cached shader map for material LogBridge_Mat, compiling. 
+[2022.04.23-15.14.13:942][ 19]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.23-15.14.13:953][ 19]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2022.04.23-15.14.13:953][ 19]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.04.23-15.14.13:953][ 19]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.04.23-15.14.13:953][ 19]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2022.04.23-15.14.13:960][ 19]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.23-15.14.13:980][ 19]LogMaterial: Display: Missing cached shader map for material LogBridge_Mat, compiling. 
+[2022.04.23-15.14.13:992][ 19]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2022.04.23-15.14.14:008][ 19]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.23-15.14.14:013][ 19]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2022.04.23-15.14.14:693][ 36]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2022.04.23-15.14.15:027][ 47]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2022.04.23-15.14.15:141][ 51]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2022.04.23-15.14.15:234][ 54]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2022.04.23-15.14.16:100][ 80]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2022.04.23-15.14.16:100][ 80]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2022.04.23-15.14.16:133][ 81]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2022.04.23-15.14.16:476][ 93]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2022.04.23-15.14.16:677][ 94]LogMaterial: Display: Missing cached shader map for material LogBridge_Mat, compiling. 
+[2022.04.23-15.14.16:704][ 94]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.23-15.14.16:948][100]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2022.04.23-15.14.17:409][114]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2022.04.23-15.14.17:409][114]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2022.04.23-15.14.17:717][124]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2022.04.23-15.14.17:745][125]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2022.04.23-15.14.18:320][138]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2022.04.23-15.14.18:442][143]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2022.04.23-15.14.18:553][147]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2022.04.23-15.14.18:973][157]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2022.04.23-15.14.18:977][157]LogMaterial: Display: Missing cached shader map for material LogBridge_Mat, compiling. 
+[2022.04.23-15.14.19:003][157]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2022.04.23-15.14.19:213][163]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2022.04.23-15.14.19:381][169]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2022.04.23-15.14.19:704][177]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2022.04.23-15.14.19:985][187]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2022.04.23-15.14.20:212][195]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2022.04.23-15.14.20:309][198]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2022.04.23-15.14.20:612][208]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2022.04.23-15.14.20:682][209]LogMaterial: Display: Missing cached shader map for material LogBridge_Mat, compiling. 
+[2022.04.23-15.14.20:701][209]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2022.04.23-15.14.20:774][210]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2022.04.23-15.14.21:354][223]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2022.04.23-15.14.21:354][223]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2022.04.23-15.14.21:577][229]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2022.04.23-15.14.22:210][246]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2022.04.23-15.14.22:225][246]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.04.23-15.14.22:440][252]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2022.04.23-15.14.22:717][259]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2022.04.23-15.14.22:719][259]LogMaterial: Display: Missing cached shader map for material LogBridge_Mat, compiling. 
+[2022.04.23-15.14.22:744][259]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2022.04.23-15.14.22:922][263]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2022.04.23-15.14.23:567][281]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2022.04.23-15.14.23:568][281]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2022.04.23-15.14.23:868][292]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2022.04.23-15.14.24:061][298]LogMaterialEditor: Applying material LogBridge_Mat
+[2022.04.23-15.14.25:723][298]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2022.04.23-15.14.25:724][298]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.04.23-15.14.25:724][298]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2022.04.23-15.14.25:724][298]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2022.04.23-15.14.25:724][298]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2022.04.23-15.14.25:724][298]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2022.04.23-15.14.25:724][298]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.04.23-15.14.25:724][298]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.04.23-15.14.25:724][298]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.04.23-15.14.25:740][298]LogMaterial: Display: Missing cached shader map for material LogBridge_Mat, compiling. 
+[2022.04.23-15.14.25:790][298]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2022.04.23-15.14.25:843][298]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2022.04.23-15.14.25:875][298]LogMaterial: Display: Missing cached shader map for material LogBridge_Mat, compiling. 
+[2022.04.23-15.14.26:008][298]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2022.04.23-15.14.26:014][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.04.23-15.14.26:062][298]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.23-15.14.26:631][298]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2022.04.23-15.14.26:631][298]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2022.04.23-15.14.27:190][298]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2022.04.23-15.14.27:190][298]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2022.04.23-15.14.27:190][298]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2022.04.23-15.14.27:190][298]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2022.04.23-15.14.27:750][298]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2022.04.23-15.14.27:750][298]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2022.04.23-15.14.27:750][298]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2022.04.23-15.14.27:750][298]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2022.04.23-15.14.27:864][298]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2022.04.23-15.14.27:864][298]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2022.04.23-15.14.27:878][298]TextureStreamingBuild: Display: Compiling optional shaders took 1.824 seconds.
+[2022.04.23-15.14.27:929][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.04.23-15.14.28:960][327]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.04.23-15.14.29:789][352]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.04.23-15.14.31:100][396]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.04.23-15.14.31:100][396]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2022.04.23-15.14.31:100][396]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.04.23-15.14.31:100][396]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.23-15.14.31:100][396]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.23-15.14.31:100][396]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.23-15.15.01:070][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (VolcanoRotator)
+[2022.04.23-15.15.01:648][795]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (VolcanoRotator)
+[2022.04.23-15.15.15:116][318]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.23-15.15.15:116][318]PIE: New page: PIE session: Main_Map (23 Apr 2022, 17:15:15)
+[2022.04.23-15.15.15:116][318]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-15.15.15:384][318]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_46 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.15.15:384][318]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_45 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.15.15:384][318]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_44 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.15.15:384][318]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_43 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.15.15:384][318]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_63 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.15.15:385][318]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_42 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.15.15:385][318]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_41 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.15.15:385][318]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_66 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.15.15:385][318]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_40 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.15.15:385][318]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_65 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.15.15:385][318]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_39 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.15.15:385][318]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_38 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.15.15:385][318]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_69 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.15.15:385][318]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_37 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.15.15:394][318]LogPlayLevel: PIE: StaticDuplicateObject took: (0.278107s)
+[2022.04.23-15.15.15:395][318]LogAIModule: Creating AISystem for world Main_Map
+[2022.04.23-15.15.15:396][318]LogPlayLevel: PIE: World Init took: (0.002328s)
+[2022.04.23-15.15.15:397][318]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/Main_Map.Main_Map to /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map (0.280954s)
+[2022.04.23-15.15.15:434][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.04.23-15.15.15:449][318]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.04.23-15.15.15:449][318]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.23-15.15.15:449][318]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.23-15.15.15:449][318]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.23-15.15.15:449][318]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.23-15.15.15:449][318]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.23-15.15.15:449][318]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.23-15.15.15:449][318]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.23-15.15.15:449][318]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.23-15.15.15:450][318]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.23-15.15.15:450][318]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.23-15.15.15:455][318]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-15.15.15:455][318]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-15.15.15:470][318]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.04.23-15.15.15:470][318]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.23-15.15.15:471][318]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.23-15.15.15:471][318]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.23-15.15.15:472][318]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.23-15.15.15:472][318]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.23-15.15.15:472][318]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.23-15.15.15:500][318]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.23-15.15.15:501][318]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.23-15.15.15:501][318]LogInit: FAudioDevice initialized.
+[2022.04.23-15.15.15:501][318]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main_Map'.
+[2022.04.23-15.15.15:515][318]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.04.23-15.15.15:538][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.23-15.15.15:538][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.23-15.15.15:541][318]LogPhysics: Warning: Scale for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Cube_24.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=6.719 Y=0.000 Z=26.094
+[2022.04.23-15.15.15:608][318]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map up for play (max tick rate 0) at 2022.04.23-16.15.15
+[2022.04.23-15.15.15:614][318]LogWorld: Bringing up level for play took: 0.096306
+[2022.04.23-15.15.15:614][318]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.04.23-15.15.15:644][318]PIE: Server logged in
+[2022.04.23-15.15.15:645][318]PIE: Play in editor total start time 0.531 seconds.
+[2022.04.23-15.15.41:933][531]LogBlueprintUserMessages: [Test_Kart4] Holo_Item
+[2022.04.23-15.15.44:800][659]LogBlueprintUserMessages: [Test_Kart2] Dino_Horn
+[2022.04.23-15.15.46:157][720]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.46:180][721]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.46:204][722]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.46:225][723]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.46:247][724]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:093][847]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:119][848]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:145][849]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:169][850]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:193][851]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:217][852]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:269][854]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:342][857]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:369][858]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:395][859]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:419][860]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:445][861]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:471][862]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:496][863]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:523][864]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:547][865]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:576][866]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:603][867]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:631][868]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:659][869]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:687][870]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:714][871]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:740][872]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:765][873]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:793][874]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:818][875]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:844][876]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:870][877]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:896][878]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:921][879]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:946][880]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:971][881]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.49:998][882]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:023][883]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:050][884]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:075][885]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:100][886]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:125][887]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:151][888]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:175][889]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:198][890]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:222][891]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:245][892]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:271][893]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:296][894]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:321][895]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:345][896]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:370][897]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:394][898]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:420][899]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:443][900]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:470][901]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:493][902]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:520][903]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:545][904]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:570][905]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:595][906]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:622][907]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:646][908]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:672][909]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:695][910]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:720][911]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.50:747][912]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-15.15.52:516][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-15.15.52:516][982]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-15.15.52:520][982]LogWorld: UWorld::CleanupWorld for Main_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-15.15.52:548][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-15.15.52:561][982]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.23-15.15.52:593][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-15.15.52:644][982]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.23-15.15.52:644][982]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-15.15.52:646][982]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-15.15.52:681][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-15.15.52:735][982]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.04.23-15.15.53:247][995]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.04.23-15.16.10:022][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_LogBridge)
+[2022.04.23-15.16.12:812][877]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.13:186][894]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.14:369][948]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.16:192][ 31]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.17:672][100]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.19:556][177]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.19:576][178]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.19:596][179]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.19:616][180]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.19:636][181]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.19:656][182]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.19:767][187]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.19:789][188]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.30:922][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesh_LogBridge)
+[2022.04.23-15.16.33:597][777]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.34:256][809]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.37:051][942]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.37:816][977]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.38:592][ 14]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.40:292][ 92]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.40:311][ 93]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.40:333][ 94]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.40:353][ 95]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.40:375][ 96]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.40:435][ 99]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.40:502][102]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.40:524][103]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.40:583][106]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.40:643][109]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.40:706][112]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.40:727][113]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.40:768][115]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.40:790][116]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.40:900][121]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.40:923][122]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.40:947][123]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.40:967][124]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.40:989][125]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.41:010][126]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.41:031][127]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.41:050][128]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.41:071][129]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.41:115][131]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.41:137][132]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.41:509][149]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.41:531][150]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.42:210][182]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.42:272][185]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.42:519][197]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.42:600][201]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.57:676][875]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.57:815][881]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.16.57:923][886]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.00:450][999]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.00:472][  0]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.00:492][  1]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.00:512][  2]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.00:534][  3]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.00:556][  4]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.00:575][  5]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.00:596][  6]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.00:618][  7]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.00:640][  8]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.00:687][ 10]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.00:954][ 22]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.01:224][ 34]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.01:245][ 35]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.01:265][ 36]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.01:287][ 37]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.01:307][ 38]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.01:332][ 39]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.01:353][ 40]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.01:878][ 65]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.01:899][ 66]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.01:920][ 67]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.01:942][ 68]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.01:962][ 69]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.01:984][ 70]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.02:005][ 71]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.02:232][ 82]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.02:315][ 86]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.03:376][133]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.03:418][135]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.03:439][136]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.03:461][137]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.03:483][138]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.03:609][144]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.03:631][145]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.03:652][146]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.05:153][213]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.05:174][214]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.05:195][215]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.05:214][216]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.05:234][217]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.05:255][218]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.05:275][219]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.05:294][220]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.05:315][221]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.05:335][222]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.05:357][223]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.05:379][224]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.05:440][227]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.05:462][228]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.05:484][229]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.05:776][243]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.05:818][245]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.05:841][246]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.06:641][280]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.06:662][281]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.06:684][282]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.06:707][283]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.06:727][284]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.06:747][285]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.06:768][286]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.06:807][288]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.08:853][380]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.09:169][395]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.09:875][428]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.10:537][459]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.12:731][558]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.12:753][559]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.12:772][560]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.12:792][561]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.12:815][562]PIE: Warning: Applying invalid scale V(X=1.219, Y=1.00, Z=1.00) to body Mesh_LogBridge_16
+[2022.04.23-15.17.18:081][796]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_MERGED_Spline_Road_Floor9)
+[2022.04.23-15.17.19:457][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.23-15.17.19:457][839]PIE: New page: PIE session: Main_Map (23 Apr 2022, 17:17:19)
+[2022.04.23-15.17.19:457][839]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-15.17.19:737][839]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_46 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.17.19:737][839]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_45 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.17.19:738][839]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_44 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.17.19:738][839]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_43 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.17.19:738][839]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_63 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.17.19:738][839]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_42 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.17.19:738][839]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_41 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.17.19:738][839]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_66 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.17.19:738][839]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_40 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.17.19:738][839]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_65 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.17.19:738][839]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_39 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.17.19:738][839]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_38 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.17.19:738][839]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_69 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.17.19:738][839]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_37 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-15.17.19:747][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.290197s)
+[2022.04.23-15.17.19:749][839]LogAIModule: Creating AISystem for world Main_Map
+[2022.04.23-15.17.19:749][839]LogPlayLevel: PIE: World Init took: (0.001890s)
+[2022.04.23-15.17.19:750][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/Main_Map.Main_Map to /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map (0.292478s)
+[2022.04.23-15.17.19:786][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.04.23-15.17.19:789][839]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.04.23-15.17.19:789][839]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.23-15.17.19:789][839]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.23-15.17.19:789][839]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.23-15.17.19:790][839]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.23-15.17.19:790][839]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.23-15.17.19:790][839]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.23-15.17.19:790][839]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.23-15.17.19:790][839]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.23-15.17.19:790][839]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.23-15.17.19:790][839]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.23-15.17.19:796][839]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-15.17.19:796][839]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-15.17.19:812][839]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.04.23-15.17.19:812][839]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.23-15.17.19:812][839]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.23-15.17.19:812][839]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.23-15.17.19:813][839]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.23-15.17.19:814][839]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.23-15.17.19:814][839]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.23-15.17.19:842][839]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.23-15.17.19:842][839]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.23-15.17.19:842][839]LogInit: FAudioDevice initialized.
+[2022.04.23-15.17.19:842][839]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main_Map'.
+[2022.04.23-15.17.19:857][839]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.04.23-15.17.19:882][839]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.23-15.17.19:882][839]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.23-15.17.19:885][839]LogPhysics: Warning: Scale for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Cube_24.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=6.719 Y=0.000 Z=26.094
+[2022.04.23-15.17.19:950][839]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map up for play (max tick rate 0) at 2022.04.23-16.17.19
+[2022.04.23-15.17.19:956][839]LogWorld: Bringing up level for play took: 0.096940
+[2022.04.23-15.17.19:957][839]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.04.23-15.17.19:986][839]PIE: Server logged in
+[2022.04.23-15.17.19:987][839]PIE: Play in editor total start time 0.531 seconds.
+[2022.04.23-15.17.30:576][319]LogSlate: Window 'LogBridge_Mat' being destroyed
+[2022.04.23-15.17.30:584][319]LogSlate: Window 'LogBridge_Mat' being destroyed
+[2022.04.23-15.17.30:607][319]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-15.17.30:607][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-15.17.30:724][319]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-15.17.30:725][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-15.17.30:791][319]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-15.17.30:791][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-15.17.40:728][945]LogBlueprintUserMessages: [Test_Kart_2] Smoke_Bomb
+[2022.04.23-15.17.47:072][337]LogBlueprintUserMessages: [Test_Kart3] Green_Shell
+[2022.04.23-15.17.54:916][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-15.17.54:916][831]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-15.17.54:919][831]LogWorld: UWorld::CleanupWorld for Main_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-15.17.54:950][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-15.17.54:962][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.23-15.17.54:993][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-15.17.55:052][831]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.23-15.17.55:053][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-15.17.55:054][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-15.17.55:090][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-15.17.55:113][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.04.23-15.17.55:381][844]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.04.23-15.18.53:196][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Maps/Main_Map" FILE="D:/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/Main_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.23-15.18.53:228][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.04.23-15.18.54:768][215]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/Main_Map6A6E109A495E99C9B0109A88F43A4193.tmp' to 'D:/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/Main_Map.umap'
+[2022.04.23-15.18.54:830][215]AssetCheck: New page: Asset Save: Main_Map
+[2022.04.23-15.18.54:831][215]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/Main_Map.Main_Map
