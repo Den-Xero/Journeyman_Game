@@ -3983,3 +3983,1641 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2022.04.23-18.20.53:303][356]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/Main_Map579B60744C0C3CBDC4FB578045247D9A.tmp' to 'D:/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/Main_Map.umap'
 [2022.04.23-18.20.53:371][356]AssetCheck: New page: Asset Save: Main_Map
 [2022.04.23-18.20.53:371][356]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/Main_Map.Main_Map
+[2022.04.23-18.21.50:283][413]Cmd: STAT FPS
+[2022.04.23-18.21.56:231][523]LogSlate: Window 'NewVolcanoRotatorNew' being destroyed
+[2022.04.23-18.21.56:253][523]LogSlate: Window 'NewVolcanoRotatorNew' being destroyed
+[2022.04.23-18.21.56:263][523]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.21.56:263][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.21.56:342][523]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.21.56:342][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.21.56:403][523]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.21.56:403][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.21.56:467][523]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.21.56:467][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.21.56:527][523]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.21.56:527][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.21.56:605][523]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.21.56:606][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.21.56:669][523]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.21.56:669][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.21.56:728][523]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.21.56:728][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.21.56:791][523]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.21.56:791][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.22.00:286][818]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.23-18.22.00:297][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.23-18.22.00:297][818]PIE: New page: PIE session: Main_Map (23 Apr 2022, 20:22:00)
+[2022.04.23-18.22.00:333][818]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-18.22.00:587][818]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_46 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.22.00:587][818]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_45 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.22.00:587][818]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_44 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.22.00:587][818]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_43 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.22.00:587][818]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_63 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.22.00:587][818]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_42 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.22.00:588][818]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_41 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.22.00:588][818]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_66 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.22.00:588][818]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_40 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.22.00:588][818]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_65 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.22.00:588][818]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_39 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.22.00:588][818]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_38 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.22.00:588][818]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_69 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.22.00:588][818]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_37 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.22.00:597][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.264203s)
+[2022.04.23-18.22.00:599][818]LogAIModule: Creating AISystem for world Main_Map
+[2022.04.23-18.22.00:599][818]LogPlayLevel: PIE: World Init took: (0.002157s)
+[2022.04.23-18.22.00:600][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/Main_Map.Main_Map to /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map (0.266873s)
+[2022.04.23-18.22.00:699][818]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2022.04.23-18.22.00:709][818]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.04.23-18.22.00:709][818]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.23-18.22.00:709][818]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.23-18.22.00:709][818]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.23-18.22.00:709][818]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.23-18.22.00:709][818]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.23-18.22.00:709][818]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.23-18.22.00:709][818]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.23-18.22.00:709][818]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.23-18.22.00:710][818]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.23-18.22.00:710][818]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.23-18.22.00:715][818]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-18.22.00:715][818]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-18.22.00:729][818]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.04.23-18.22.00:729][818]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.23-18.22.00:729][818]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.23-18.22.00:729][818]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.23-18.22.00:730][818]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.23-18.22.00:730][818]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.23-18.22.00:732][818]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.23-18.22.00:760][818]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.23-18.22.00:760][818]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.23-18.22.00:760][818]LogInit: FAudioDevice initialized.
+[2022.04.23-18.22.00:760][818]LogAudio: Display: Audio Device (ID: 15) registered with world 'Main_Map'.
+[2022.04.23-18.22.00:770][818]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.04.23-18.22.00:792][818]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.23-18.22.00:792][818]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.23-18.22.00:795][818]LogPhysics: Warning: Scale for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Cube_24.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=6.719 Y=0.000 Z=26.094
+[2022.04.23-18.22.00:861][818]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map up for play (max tick rate 0) at 2022.04.23-19.22.00
+[2022.04.23-18.22.00:867][818]LogWorld: Bringing up level for play took: 0.094039
+[2022.04.23-18.22.00:868][818]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2022.04.23-18.22.00:896][818]PIE: Server logged in
+[2022.04.23-18.22.00:897][818]PIE: Play in editor total start time 0.601 seconds.
+[2022.04.23-18.22.15:131][890]LogBlueprintUserMessages: [Test_Kart2] Triple_Mushroom
+[2022.04.23-18.22.20:362][260]LogBlueprintUserMessages: [Test_Kart3] Smoke_Bomb
+[2022.04.23-18.22.29:113][884]LogBlueprintUserMessages: [Test_Kart3] Out of ammo
+[2022.04.23-18.22.42:659][855]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.42:673][856]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.42:691][857]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.42:709][858]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.42:727][859]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.42:741][860]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.42:755][861]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.42:769][862]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.42:783][863]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.42:799][864]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.42:814][865]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.42:830][866]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.42:845][867]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.42:860][868]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.42:875][869]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.42:890][870]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.42:905][871]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.42:918][872]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.42:932][873]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.42:936][873]LogBlueprintUserMessages: [Test_Kart2] Triple_Mushroom
+[2022.04.23-18.22.42:947][874]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.42:961][875]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.42:975][876]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.42:990][877]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:004][878]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:018][879]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:032][880]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:047][881]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:061][882]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:075][883]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:089][884]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:103][885]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:118][886]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:132][887]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:146][888]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:161][889]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:176][890]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:190][891]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:205][892]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:220][893]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:233][894]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:248][895]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:262][896]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:276][897]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:290][898]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:305][899]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:320][900]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:334][901]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:347][902]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.43:362][903]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.47:521][200]LogBlueprintUserMessages: [Test_Kart3] Triple_Red_Shell
+[2022.04.23-18.22.49:161][318]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:175][319]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:189][320]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:203][321]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:217][322]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:230][323]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:246][324]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:261][325]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:276][326]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:290][327]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:303][328]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:318][329]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:331][330]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:346][331]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:360][332]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:376][333]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:390][334]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:404][335]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:417][336]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:432][337]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:446][338]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:460][339]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:474][340]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:488][341]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:502][342]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:516][343]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:530][344]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:546][345]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:561][346]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:576][347]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:589][348]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:604][349]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:618][350]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:632][351]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:647][352]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:662][353]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:677][354]LogBlueprintUserMessages: [Main_Kart_C_0] 5.0
+[2022.04.23-18.22.49:692][355]LogBlueprintUserMessages: [Main_Kart_C_0] 5.0
+[2022.04.23-18.22.49:705][356]LogBlueprintUserMessages: [Main_Kart_C_0] 5.0
+[2022.04.23-18.22.49:720][357]LogBlueprintUserMessages: [Main_Kart_C_0] 5.0
+[2022.04.23-18.22.49:733][358]LogBlueprintUserMessages: [Main_Kart_C_0] 5.0
+[2022.04.23-18.22.49:748][359]LogBlueprintUserMessages: [Main_Kart_C_0] 5.0
+[2022.04.23-18.22.49:761][360]LogBlueprintUserMessages: [Main_Kart_C_0] 5.0
+[2022.04.23-18.22.49:777][361]LogBlueprintUserMessages: [Main_Kart_C_0] 5.0
+[2022.04.23-18.22.49:792][362]LogBlueprintUserMessages: [Main_Kart_C_0] 5.0
+[2022.04.23-18.22.49:806][363]LogBlueprintUserMessages: [Main_Kart_C_0] 5.0
+[2022.04.23-18.22.49:820][364]LogBlueprintUserMessages: [Main_Kart_C_0] 5.0
+[2022.04.23-18.22.49:835][365]LogBlueprintUserMessages: [Main_Kart_C_0] 5.0
+[2022.04.23-18.22.49:848][366]LogBlueprintUserMessages: [Main_Kart_C_0] 5.0
+[2022.04.23-18.22.49:863][367]LogBlueprintUserMessages: [Main_Kart_C_0] 5.0
+[2022.04.23-18.22.49:878][368]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:893][369]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:908][370]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:922][371]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:936][372]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:950][373]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:963][374]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:979][375]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.49:993][376]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.50:008][377]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.50:022][378]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.50:036][379]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.50:050][380]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.50:064][381]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.50:078][382]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.50:093][383]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.50:107][384]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.50:122][385]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.50:135][386]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.50:149][387]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.50:163][388]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.50:177][389]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.50:191][390]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.50:205][391]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.50:221][392]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.50:235][393]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.50:250][394]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.50:264][395]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.50:279][396]LogBlueprintUserMessages: [Main_Kart_C_0] 5.0
+[2022.04.23-18.22.50:293][397]LogBlueprintUserMessages: [Main_Kart_C_0] 5.0
+[2022.04.23-18.22.50:307][398]LogBlueprintUserMessages: [Main_Kart_C_0] 5.0
+[2022.04.23-18.22.52:596][559]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.52:610][560]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.52:624][561]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.52:639][562]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.52:653][563]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.52:667][564]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.52:758][565]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.52:782][566]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.52:796][567]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.52:810][568]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.52:825][569]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.52:840][570]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.52:856][571]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.52:870][572]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.52:890][573]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.52:906][574]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.52:922][575]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.52:936][576]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.52:950][577]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.52:964][578]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.52:979][579]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.52:993][580]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:009][581]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:023][582]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:037][583]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:051][584]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:065][585]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:080][586]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:096][587]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:110][588]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:125][589]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:140][590]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:155][591]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:168][592]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:182][593]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:197][594]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:211][595]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:226][596]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:241][597]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:256][598]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:270][599]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:290][600]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:305][601]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:319][602]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:335][603]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:349][604]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:364][605]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:379][606]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:394][607]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:409][608]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:423][609]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:436][610]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:450][611]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:464][612]LogBlueprintUserMessages: [Main_Kart_C_0] 5.0
+[2022.04.23-18.22.53:479][613]LogBlueprintUserMessages: [Main_Kart_C_0] 5.0
+[2022.04.23-18.22.53:493][614]LogBlueprintUserMessages: [Main_Kart_C_0] 5.0
+[2022.04.23-18.22.53:508][615]LogBlueprintUserMessages: [Main_Kart_C_0] 5.0
+[2022.04.23-18.22.53:521][616]LogBlueprintUserMessages: [Main_Kart_C_0] 5.0
+[2022.04.23-18.22.53:536][617]LogBlueprintUserMessages: [Main_Kart_C_0] 5.0
+[2022.04.23-18.22.53:550][618]LogBlueprintUserMessages: [Main_Kart_C_0] 5.0
+[2022.04.23-18.22.53:565][619]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:579][620]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:595][621]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:609][622]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:623][623]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:637][624]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:651][625]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:665][626]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:681][627]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:694][628]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:708][629]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:721][630]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:736][631]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:752][632]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:767][633]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:781][634]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:795][635]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:810][636]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:823][637]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:837][638]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:851][639]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:865][640]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:879][641]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:894][642]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:908][643]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:922][644]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:937][645]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:951][646]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:965][647]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:980][648]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.53:994][649]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.54:009][650]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.54:023][651]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.54:038][652]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.54:052][653]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.54:066][654]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.54:080][655]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.54:094][656]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.54:109][657]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:322][883]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:336][884]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:351][885]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:365][886]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:379][887]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:392][888]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:406][889]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:419][890]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:432][891]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:447][892]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:461][893]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:475][894]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:489][895]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:503][896]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:517][897]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:531][898]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:545][899]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:559][900]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:574][901]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:590][902]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:603][903]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:618][904]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:632][905]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:646][906]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:660][907]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:674][908]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:688][909]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:702][910]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:716][911]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:731][912]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:744][913]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:759][914]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:772][915]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:788][916]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:801][917]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:816][918]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:830][919]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:845][920]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:859][921]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:874][922]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:888][923]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:902][924]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:916][925]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:932][926]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:946][927]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:961][928]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:975][929]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.57:990][930]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.58:003][931]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.58:017][932]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.58:031][933]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.58:046][934]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.58:061][935]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.58:075][936]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.58:089][937]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.58:102][938]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.58:117][939]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.58:131][940]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.58:146][941]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.22.58:160][942]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.02:265][240]LogBlueprintUserMessages: [Test_Kart2] Dino_Horn
+[2022.04.23-18.23.02:429][252]LogBlueprintUserMessages: [Main_Kart_C_0] Mushroom
+[2022.04.23-18.23.06:739][563]LogBlueprintUserMessages: [Test_Kart3] Green_Shell
+[2022.04.23-18.23.13:871][ 81]LogBlueprintUserMessages: [Main_Kart_C_0] Green_Shell
+[2022.04.23-18.23.19:247][472]LogBlueprintUserMessages: [Main_Kart_C_0] Triple_Mushroom
+[2022.04.23-18.23.20:896][593]LogBlueprintUserMessages: [Main_Kart_C_0] Green_Shell
+[2022.04.23-18.23.23:041][749]LogBlueprintUserMessages: [Test_Kart3] Out of ammo
+[2022.04.23-18.23.23:069][751]LogBlueprintUserMessages: [Test_Kart_2] Golden_Mushroom
+[2022.04.23-18.23.25:916][962]LogBlueprintUserMessages: [Test_Kart2] Catapult
+[2022.04.23-18.23.28:377][146]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:390][147]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:404][148]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:418][149]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:430][150]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:445][151]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:458][152]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:472][153]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:485][154]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:499][155]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:513][156]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:527][157]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:540][158]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:555][159]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:568][160]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:582][161]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:596][162]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:611][163]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:625][164]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:639][165]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:652][166]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:667][167]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:680][168]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:693][169]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:707][170]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:721][171]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:735][172]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:748][173]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:762][174]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:776][175]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:790][176]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:803][177]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:818][178]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:831][179]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:846][180]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:859][181]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:873][182]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:887][183]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:901][184]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:915][185]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:929][186]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:943][187]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:957][188]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:970][189]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.28:987][190]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:001][191]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:015][192]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:029][193]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:044][194]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:058][195]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:071][196]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:085][197]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:100][198]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:114][199]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:129][200]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:142][201]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:157][202]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:170][203]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:185][204]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:199][205]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:213][206]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:226][207]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:240][208]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:253][209]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:268][210]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:281][211]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:296][212]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:310][213]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:324][214]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:337][215]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:351][216]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:365][217]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:379][218]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:393][219]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:407][220]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:420][221]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:433][222]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:447][223]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:461][224]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:474][225]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:488][226]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:501][227]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:516][228]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:530][229]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:545][230]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:561][231]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:575][232]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:589][233]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:604][234]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:618][235]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:632][236]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:646][237]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:660][238]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:675][239]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:688][240]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:703][241]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:717][242]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:731][243]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:745][244]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:759][245]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:773][246]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:786][247]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:800][248]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:815][249]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:829][250]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:844][251]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:858][252]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:873][253]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:886][254]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:901][255]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:915][256]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:930][257]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:943][258]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:958][259]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:972][260]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.29:986][261]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:000][262]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:014][263]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:027][264]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:041][265]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:055][266]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:069][267]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:084][268]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:098][269]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:113][270]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:127][271]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:141][272]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:155][273]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:169][274]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:183][275]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:197][276]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:211][277]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:224][278]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:239][279]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:252][280]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:266][281]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:280][282]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:295][283]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:309][284]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:323][285]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:336][286]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:349][287]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:363][288]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:377][289]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:391][290]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:405][291]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:419][292]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:432][293]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:447][294]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:460][295]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:473][296]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:487][297]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:501][298]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:515][299]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:529][300]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:543][301]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:557][302]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:571][303]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:586][304]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:599][305]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:613][306]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:627][307]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:642][308]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:655][309]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:669][310]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:682][311]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:697][312]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:711][313]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:725][314]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:739][315]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:753][316]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:767][317]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:781][318]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:796][319]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.30:811][320]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.32:035][409]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.32:048][410]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.32:064][411]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.32:077][412]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.32:091][413]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.32:106][414]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.32:119][415]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.32:133][416]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.32:146][417]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.32:161][418]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.32:175][419]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.32:189][420]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.32:202][421]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.32:217][422]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.32:231][423]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.32:246][424]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.32:259][425]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.34:818][609]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.34:832][610]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.34:847][611]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.34:860][612]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.34:874][613]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.34:888][614]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.34:902][615]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.34:917][616]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.34:931][617]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.34:945][618]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.34:959][619]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.34:973][620]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.34:987][621]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:001][622]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:016][623]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:030][624]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:045][625]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:059][626]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:073][627]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:087][628]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:101][629]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:116][630]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:130][631]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:145][632]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:159][633]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:173][634]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:187][635]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:200][636]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:215][637]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:229][638]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:244][639]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:257][640]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:272][641]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:286][642]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:300][643]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:315][644]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:329][645]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:344][646]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.35:358][647]LogBlueprintUserMessages: [Main_Kart_C_0] 1.25
+[2022.04.23-18.23.53:491][957]LogBlueprintUserMessages: [Test_Kart2] Mushroom
+[2022.04.23-18.23.54:636][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-18.23.54:636][ 38]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-18.23.54:639][ 38]LogWorld: UWorld::CleanupWorld for Main_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.23.54:666][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.23.54:679][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.23-18.23.54:709][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.23.54:793][ 38]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.23-18.23.54:794][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-18.23.54:795][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-18.23.54:827][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-18.23.54:850][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2022.04.23-18.23.55:084][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2022.04.23-18.29.26:053][165]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Unknown/OneDrive/Desktop/flag2.fbx)
+[2022.04.23-18.29.26:068][165]LogFbx: Loading FBX Scene from ../../../../../../Users/Unknown/OneDrive/Desktop/flag2.fbx
+[2022.04.23-18.29.26:079][165]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.23-18.29.30:547][165]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.23-18.29.30:639][165]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2022.04.23-18.29.30:661][165]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2022.04.23-18.29.41:648][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.04.23-18.29.41:709][165]FBXImport: Import was canceled. 
+[2022.04.23-18.29.41:777][165]LogAssetTools: The import task was canceled.
+[2022.04.23-18.29.54:158][851]LogSlate: Window 'Message Log' being destroyed
+[2022.04.23-18.29.54:177][851]LogSlate: Window 'Message Log' being destroyed
+[2022.04.23-18.30.00:999][929]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Unknown/OneDrive/Desktop/flag2.fbx)
+[2022.04.23-18.30.01:010][929]LogFbx: Loading FBX Scene from ../../../../../../Users/Unknown/OneDrive/Desktop/flag2.fbx
+[2022.04.23-18.30.01:021][929]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.23-18.30.04:364][929]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.23-18.30.04:396][929]LogFbx: Valid bind pose for Pose (skinCluster1) - Flag
+[2022.04.23-18.30.04:440][929]LogFbx: Warning: Bones digested - 2  Depth of hierarchy - 2
+[2022.04.23-18.30.04:463][929]LogSkeletalMesh: Section 0: Material=0, 224 triangles
+[2022.04.23-18.30.04:476][929]LogSkeletalMesh: Building Skeletal Mesh flag2...
+[2022.04.23-18.30.04:488][929]LogSkeletalMesh: Section 0: Material=0, 224 triangles
+[2022.04.23-18.30.04:491][929]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Flag/flag2.flag2
+[2022.04.23-18.30.04:503][929]LogMaterial: Display: Material /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Flag/phongE1.phongE1 needed to have new flag set bUsedWithSkeletalMesh !
+[2022.04.23-18.30.04:510][929]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2022.04.23-18.30.04:553][929]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2022.04.23-18.30.04:553][929]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2022.04.23-18.30.04:553][929]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2022.04.23-18.30.04:553][929]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.04.23-18.30.04:553][929]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2022.04.23-18.30.04:553][929]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.30.04:553][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.30.04:564][929]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.30.04:564][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.30.04:589][929]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.23-18.30.08:209][ 66]LogSlate: Window 'Message Log' being destroyed
+[2022.04.23-18.30.08:233][ 66]LogSlate: Window 'Message Log' being destroyed
+[2022.04.23-18.30.09:716][133]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Flag/flag2.flag2
+[2022.04.23-18.30.09:739][133]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.23-18.31.28:882][761]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Not currently registered. Aborting.
+[2022.04.23-18.31.28:884][761]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0) Not currently registered. Aborting.
+[2022.04.23-18.31.28:884][761]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_30:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0) Not currently registered. Aborting.
+[2022.04.23-18.31.35:553][113]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0082 seconds. Added 1 classes and 0 folders.
+[2022.04.23-18.32.24:642][501]LogSkeletalMesh: Building Skeletal Mesh flag2...
+[2022.04.23-18.32.24:682][501]LogSkeletalMesh: Section 0: Material=0, 224 triangles
+[2022.04.23-18.32.24:691][501]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Flag/flag2.flag2
+[2022.04.23-18.32.25:194][529]LogSkeletalMesh: Building Skeletal Mesh flag2...
+[2022.04.23-18.32.25:231][529]LogSkeletalMesh: Section 0: Material=0, 224 triangles
+[2022.04.23-18.32.25:240][529]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Flag/flag2.flag2
+[2022.04.23-18.32.54:574][958]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Not currently registered. Aborting.
+[2022.04.23-18.32.54:576][958]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0) Not currently registered. Aborting.
+[2022.04.23-18.32.54:577][958]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_30:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0) Not currently registered. Aborting.
+[2022.04.23-18.33.10:492][788]LogSkeletalMesh: Building Skeletal Mesh flag2...
+[2022.04.23-18.33.10:530][788]LogSkeletalMesh: Section 0: Material=0, 224 triangles
+[2022.04.23-18.33.10:540][788]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Flag/flag2.flag2
+[2022.04.23-18.33.10:541][788]LogMaterial: Display: Material /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Flag/phongE1.phongE1 needed to have new flag set bUsedWithClothing !
+[2022.04.23-18.33.10:550][788]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2022.04.23-18.33.10:597][788]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2022.04.23-18.33.10:597][788]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2022.04.23-18.33.10:597][788]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2022.04.23-18.33.10:597][788]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2022.04.23-18.33.17:616][ 38]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2022.04.23-18.33.17:937][ 46]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.04.23-18.33.19:249][ 84]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2022.04.23-18.33.19:734][ 98]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.04.23-18.33.19:734][ 98]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.04.23-18.34.07:566][325]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/flag2EC1066C745E1CED8BA8CBEA36AA49E59.tmp' to 'D:/Journeyman_Game/JourneyKart/Content/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Flag/flag2.uasset'
+[2022.04.23-18.34.07:604][325]AssetCheck: New page: Asset Save: flag2
+[2022.04.23-18.34.07:604][325]LogContentValidation: Display: Validating SkeletalMesh /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Flag/flag2.flag2
+[2022.04.23-18.34.11:073][494]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.34.16:960][846]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.34.30:239][449]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (flag2)
+[2022.04.23-18.34.32:988][611]Cmd: DELETE
+[2022.04.23-18.34.32:989][611]Cmd: ACTOR DELETE
+[2022.04.23-18.34.33:064][611]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2022.04.23-18.34.33:488][611]LogUObjectHash: Compacting FUObjectHashTables data took   8.94ms
+[2022.04.23-18.34.33:518][611]LogEditorActor: Deleted 1 Actors (0.525 secs)
+[2022.04.23-18.34.36:318][738]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2022.04.23-18.34.37:559][738]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.23-18.34.37:736][738]LogSlate: Window 'flag2' being destroyed
+[2022.04.23-18.34.37:743][738]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Not currently registered. Aborting.
+[2022.04.23-18.34.37:744][738]LogSkeletalMesh: Building Skeletal Mesh flag2...
+[2022.04.23-18.34.37:782][738]LogSkeletalMesh: Section 0: Material=0, 224 triangles
+[2022.04.23-18.34.37:792][738]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Flag/flag2.flag2
+[2022.04.23-18.34.37:795][738]LogActorComponent: ReregisterComponent: (/Game/VehicleBP/Maps/Main_Map.Main_Map:PersistentLevel.flag2_2.SkeletalMeshComponent0) Not currently registered. Aborting.
+[2022.04.23-18.34.37:898][738]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.34.37:898][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.34.37:908][738]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Flag/flag2.flag2
+[2022.04.23-18.34.38:747][738]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2022.04.23-18.34.39:099][738]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2022.04.23-18.34.39:181][738]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2022.04.23-18.34.39:251][738]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2022.04.23-18.37.13:741][787]LogLinker: Warning: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Flag/flag2': Can't find file.
+[2022.04.23-18.37.13:742][787]LogLinker: Warning: Failed to load '/Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Flag/flag2': Can't find file.
+[2022.04.23-18.37.13:742][787]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Flag/flag2.flag2'
+[2022.04.23-18.37.50:588][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.23-18.37.50:588][188]PIE: New page: SIE session: Main_Map (23 Apr 2022, 20:37:50)
+[2022.04.23-18.37.50:627][188]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-18.37.50:874][188]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_46 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.37.50:874][188]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_45 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.37.50:874][188]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_44 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.37.50:874][188]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_43 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.37.50:874][188]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_63 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.37.50:874][188]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_42 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.37.50:875][188]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_41 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.37.50:875][188]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_66 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.37.50:875][188]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_40 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.37.50:875][188]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_65 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.37.50:875][188]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_39 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.37.50:875][188]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_38 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.37.50:875][188]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_69 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.37.50:875][188]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_37 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.37.50:893][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.266000s)
+[2022.04.23-18.37.50:894][188]LogAIModule: Creating AISystem for world Main_Map
+[2022.04.23-18.37.50:895][188]LogPlayLevel: PIE: World Init took: (0.002066s)
+[2022.04.23-18.37.50:895][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/Main_Map.Main_Map to /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map (0.268552s)
+[2022.04.23-18.37.50:966][188]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2022.04.23-18.37.50:985][188]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.04.23-18.37.50:985][188]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.23-18.37.50:985][188]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.23-18.37.50:985][188]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.23-18.37.50:985][188]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.23-18.37.50:985][188]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.23-18.37.50:986][188]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.23-18.37.50:986][188]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.23-18.37.50:986][188]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.23-18.37.50:986][188]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.23-18.37.50:986][188]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.23-18.37.50:992][188]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-18.37.50:992][188]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-18.37.51:007][188]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.04.23-18.37.51:007][188]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.23-18.37.51:008][188]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.23-18.37.51:008][188]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.23-18.37.51:009][188]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.23-18.37.51:009][188]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.23-18.37.51:009][188]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.23-18.37.51:037][188]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.23-18.37.51:038][188]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.23-18.37.51:038][188]LogInit: FAudioDevice initialized.
+[2022.04.23-18.37.51:038][188]LogAudio: Display: Audio Device (ID: 16) registered with world 'Main_Map'.
+[2022.04.23-18.37.51:047][188]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.04.23-18.37.51:068][188]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.23-18.37.51:068][188]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.23-18.37.51:071][188]LogPhysics: Warning: Scale for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Cube_24.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=6.719 Y=0.000 Z=26.094
+[2022.04.23-18.37.51:139][188]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map up for play (max tick rate 0) at 2022.04.23-19.37.51
+[2022.04.23-18.37.51:145][188]LogWorld: Bringing up level for play took: 0.096338
+[2022.04.23-18.37.51:146][188]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2022.04.23-18.37.51:167][188]PIE: Server logged in
+[2022.04.23-18.37.51:169][188]PIE: Play in editor total start time 0.582 seconds.
+[2022.04.23-18.38.11:874][376]LogBlueprintUserMessages: [Test_Kart_2] Helmet
+[2022.04.23-18.38.14:521][551]LogBlueprintUserMessages: [Test_Kart4] Banana
+[2022.04.23-18.38.26:369][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-18.38.26:369][342]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-18.38.26:372][342]LogWorld: UWorld::CleanupWorld for Main_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.38.26:400][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.38.26:415][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.23-18.38.26:426][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.38.26:494][342]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.23-18.38.26:495][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-18.38.26:496][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-18.38.26:528][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-18.38.26:585][342]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2022.04.23-18.38.26:843][355]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2022.04.23-18.38.33:194][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.23-18.38.33:194][951]PIE: New page: SIE session: Main_Map (23 Apr 2022, 20:38:33)
+[2022.04.23-18.38.33:227][951]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-18.38.33:480][951]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_46 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.38.33:481][951]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_45 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.38.33:481][951]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_44 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.38.33:481][951]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_43 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.38.33:481][951]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_63 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.38.33:481][951]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_42 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.38.33:481][951]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_41 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.38.33:481][951]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_66 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.38.33:481][951]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_40 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.38.33:481][951]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_65 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.38.33:481][951]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_39 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.38.33:481][951]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_38 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.38.33:481][951]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_69 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.38.33:481][951]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_37 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.38.33:491][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.263801s)
+[2022.04.23-18.38.33:492][951]LogAIModule: Creating AISystem for world Main_Map
+[2022.04.23-18.38.33:493][951]LogPlayLevel: PIE: World Init took: (0.002016s)
+[2022.04.23-18.38.33:493][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/Main_Map.Main_Map to /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map (0.266295s)
+[2022.04.23-18.38.33:563][951]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2022.04.23-18.38.33:566][951]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.04.23-18.38.33:566][951]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.23-18.38.33:566][951]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.23-18.38.33:566][951]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.23-18.38.33:566][951]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.23-18.38.33:566][951]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.23-18.38.33:566][951]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.23-18.38.33:566][951]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.23-18.38.33:566][951]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.23-18.38.33:567][951]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.23-18.38.33:567][951]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.23-18.38.33:572][951]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-18.38.33:572][951]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-18.38.33:586][951]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.04.23-18.38.33:587][951]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.23-18.38.33:587][951]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.23-18.38.33:587][951]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.23-18.38.33:588][951]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.23-18.38.33:588][951]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.23-18.38.33:588][951]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.23-18.38.33:617][951]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.23-18.38.33:617][951]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.23-18.38.33:617][951]LogInit: FAudioDevice initialized.
+[2022.04.23-18.38.33:617][951]LogAudio: Display: Audio Device (ID: 17) registered with world 'Main_Map'.
+[2022.04.23-18.38.33:630][951]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.04.23-18.38.33:652][951]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.23-18.38.33:652][951]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.23-18.38.33:655][951]LogPhysics: Warning: Scale for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Cube_24.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=6.719 Y=0.000 Z=26.094
+[2022.04.23-18.38.33:722][951]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map up for play (max tick rate 0) at 2022.04.23-19.38.33
+[2022.04.23-18.38.33:728][951]LogWorld: Bringing up level for play took: 0.095082
+[2022.04.23-18.38.33:728][951]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2022.04.23-18.38.33:748][951]PIE: Server logged in
+[2022.04.23-18.38.33:750][951]PIE: Play in editor total start time 0.556 seconds.
+[2022.04.23-18.38.44:049][628]LogEditorViewport: Clicking on Actor (LMB): Peach_Kart_C (Test_Kart3)
+[2022.04.23-18.38.47:484][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pitstop)
+[2022.04.23-18.38.47:524][729]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.04.23-18.38.55:161][102]LogBlueprintUserMessages: [Test_Kart2] Flamethrower
+[2022.04.23-18.38.56:219][141]LogEditorViewport: Clicking on Actor (LMB): Peach_Kart_C (Test_Kart3)
+[2022.04.23-18.38.57:621][178]LogBlueprintUserMessages: [Test_Kart3] Red_Shell
+[2022.04.23-18.39.07:899][610]LogEditorViewport: Clicking on Actor (context menu): Peach_Kart_C (Test_Kart3)
+[2022.04.23-18.39.09:907][809]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.39.12:407][911]LogEditorViewport: Clicking on Actor (context menu): Peach_Kart_C (Test_Kart3)
+[2022.04.23-18.39.18:340][446]Cmd: CAMERA SNAP
+[2022.04.23-18.39.18:340][446]Snapped camera to the first selected object.
+[2022.04.23-18.39.20:253][526]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Pitstop)
+[2022.04.23-18.39.21:682][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pitstop)
+[2022.04.23-18.39.25:509][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-18.39.25:509][861]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-18.39.25:512][861]LogWorld: UWorld::CleanupWorld for Main_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.39.25:541][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.39.25:555][861]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.23-18.39.25:585][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.39.25:667][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-18.39.25:667][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-18.39.25:669][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-18.39.25:725][861]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2022.04.23-18.39.25:992][874]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2022.04.23-18.39.31:494][308]LogEditorViewport: Clicking on Actor (LMB): Peach_Kart_C (Test_Kart3)
+[2022.04.23-18.39.33:462][409]LogEditorViewport: Clicking on Actor (LMB): Peach_Kart_C (Test_Kart3)
+[2022.04.23-18.39.35:851][524]LogEditorViewport: Clicking on Actor (LMB): Waluigi_Kart_C (Test_Kart4)
+[2022.04.23-18.39.38:941][668]LogEditorViewport: Clicking on Actor (LMB): Peach_Kart_C (Test_Kart3)
+[2022.04.23-18.39.41:694][771]LogTemp: Repeating last play command: Simulate
+[2022.04.23-18.39.41:705][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.23-18.39.41:705][771]PIE: New page: SIE session: Main_Map (23 Apr 2022, 20:39:41)
+[2022.04.23-18.39.41:705][771]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-18.39.41:967][771]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_46 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.39.41:967][771]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_45 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.39.41:967][771]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_44 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.39.41:967][771]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_43 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.39.41:967][771]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_63 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.39.41:968][771]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_42 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.39.41:968][771]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_41 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.39.41:968][771]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_66 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.39.41:968][771]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_40 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.39.41:968][771]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_65 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.39.41:968][771]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_39 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.39.41:968][771]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_38 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.39.41:968][771]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_69 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.39.41:968][771]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_37 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.39.41:977][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.271974s)
+[2022.04.23-18.39.41:979][771]LogAIModule: Creating AISystem for world Main_Map
+[2022.04.23-18.39.41:979][771]LogPlayLevel: PIE: World Init took: (0.002008s)
+[2022.04.23-18.39.41:980][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/Main_Map.Main_Map to /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map (0.274447s)
+[2022.04.23-18.39.42:051][771]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2022.04.23-18.39.42:060][771]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.04.23-18.39.42:060][771]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.23-18.39.42:060][771]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.23-18.39.42:060][771]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.23-18.39.42:060][771]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.23-18.39.42:060][771]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.23-18.39.42:060][771]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.23-18.39.42:060][771]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.23-18.39.42:060][771]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.23-18.39.42:061][771]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.23-18.39.42:061][771]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.23-18.39.42:066][771]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-18.39.42:066][771]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-18.39.42:080][771]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.04.23-18.39.42:081][771]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.23-18.39.42:081][771]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.23-18.39.42:081][771]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.23-18.39.42:082][771]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.23-18.39.42:082][771]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.23-18.39.42:082][771]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.23-18.39.42:110][771]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.23-18.39.42:110][771]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.23-18.39.42:110][771]LogInit: FAudioDevice initialized.
+[2022.04.23-18.39.42:110][771]LogAudio: Display: Audio Device (ID: 18) registered with world 'Main_Map'.
+[2022.04.23-18.39.42:120][771]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.04.23-18.39.42:141][771]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.23-18.39.42:141][771]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.23-18.39.42:144][771]LogPhysics: Warning: Scale for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Cube_24.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=6.719 Y=0.000 Z=26.094
+[2022.04.23-18.39.42:212][771]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map up for play (max tick rate 0) at 2022.04.23-19.39.42
+[2022.04.23-18.39.42:218][771]LogWorld: Bringing up level for play took: 0.096141
+[2022.04.23-18.39.42:219][771]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2022.04.23-18.39.42:239][771]PIE: Server logged in
+[2022.04.23-18.39.42:240][771]PIE: Play in editor total start time 0.536 seconds.
+[2022.04.23-18.39.43:852][823]LogEditorViewport: Clicking on Actor (context menu): Peach_Kart_C (Test_Kart3)
+[2022.04.23-18.40.06:257][914]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.07:494][963]LogEditorViewport: Clicking on Actor (LMB): Peach_Kart_C (Test_Kart3)
+[2022.04.23-18.40.10:000][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-18.40.10:000][ 97]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-18.40.10:003][ 97]LogWorld: UWorld::CleanupWorld for Main_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.40.10:031][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.40.10:041][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.23-18.40.10:061][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.40.10:140][ 97]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.23-18.40.10:140][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-18.40.10:141][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-18.40.10:172][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-18.40.10:224][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2022.04.23-18.40.10:560][110]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2022.04.23-18.40.11:203][152]LogTemp: Repeating last play command: Simulate
+[2022.04.23-18.40.11:214][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.23-18.40.11:214][152]PIE: New page: SIE session: Main_Map (23 Apr 2022, 20:40:11)
+[2022.04.23-18.40.11:214][152]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-18.40.11:468][152]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_46 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.40.11:468][152]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_45 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.40.11:469][152]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_44 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.40.11:469][152]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_43 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.40.11:469][152]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_63 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.40.11:469][152]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_42 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.40.11:469][152]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_41 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.40.11:469][152]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_66 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.40.11:469][152]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_40 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.40.11:469][152]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_65 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.40.11:469][152]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_39 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.40.11:469][152]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_38 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.40.11:469][152]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_69 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.40.11:469][152]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_37 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-18.40.11:479][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.264576s)
+[2022.04.23-18.40.11:480][152]LogAIModule: Creating AISystem for world Main_Map
+[2022.04.23-18.40.11:481][152]LogPlayLevel: PIE: World Init took: (0.001987s)
+[2022.04.23-18.40.11:481][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/Main_Map.Main_Map to /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map (0.266989s)
+[2022.04.23-18.40.11:551][152]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2022.04.23-18.40.11:558][152]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.04.23-18.40.11:558][152]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.23-18.40.11:558][152]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.23-18.40.11:558][152]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.23-18.40.11:558][152]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.23-18.40.11:558][152]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.23-18.40.11:558][152]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.23-18.40.11:559][152]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.23-18.40.11:559][152]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.23-18.40.11:559][152]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.23-18.40.11:559][152]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.23-18.40.11:564][152]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-18.40.11:564][152]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-18.40.11:589][152]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.04.23-18.40.11:589][152]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.23-18.40.11:589][152]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.23-18.40.11:589][152]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.23-18.40.11:590][152]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.23-18.40.11:590][152]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.23-18.40.11:590][152]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.23-18.40.11:609][152]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.23-18.40.11:609][152]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.23-18.40.11:609][152]LogInit: FAudioDevice initialized.
+[2022.04.23-18.40.11:609][152]LogAudio: Display: Audio Device (ID: 19) registered with world 'Main_Map'.
+[2022.04.23-18.40.11:618][152]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.04.23-18.40.11:640][152]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.23-18.40.11:640][152]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.23-18.40.11:644][152]LogPhysics: Warning: Scale for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Cube_24.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=6.719 Y=0.000 Z=26.094
+[2022.04.23-18.40.11:710][152]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map up for play (max tick rate 0) at 2022.04.23-19.40.11
+[2022.04.23-18.40.11:716][152]LogWorld: Bringing up level for play took: 0.095692
+[2022.04.23-18.40.11:716][152]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2022.04.23-18.40.11:738][152]PIE: Server logged in
+[2022.04.23-18.40.11:739][152]PIE: Play in editor total start time 0.526 seconds.
+[2022.04.23-18.40.27:653][  6]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.28:294][ 36]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.28:566][ 48]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.28:825][ 60]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.28:984][ 64]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.29:183][ 69]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.29:345][ 73]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.29:501][ 77]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.29:695][ 82]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.29:776][ 84]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.29:930][ 88]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.35:126][369]LogBlueprintUserMessages: [Test_Kart2] Holo_Item
+[2022.04.23-18.40.37:113][475]LogBlueprintUserMessages: [Test_Kart3] Catapult
+[2022.04.23-18.40.41:014][637]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.41:192][645]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.41:379][651]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.41:640][658]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.46:600][923]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.46:779][931]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.46:920][938]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.47:089][948]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.47:263][958]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.47:399][966]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.47:554][975]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.47:695][983]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.47:855][992]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.47:992][  0]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.48:129][  8]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.48:269][ 16]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.48:679][ 35]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.48:948][ 47]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.23-18.40.49:144][ 57]LogBlueprintUserMessages: [Test_Kart2] Out of ammo
+[2022.04.23-18.40.53:125][219]LogBlueprintUserMessages: [Test_Kart3] Out of ammo
+[2022.04.23-18.40.53:389][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-18.40.53:390][234]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-18.40.53:393][234]LogWorld: UWorld::CleanupWorld for Main_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.40.53:421][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.40.53:432][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.23-18.40.53:452][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-18.40.53:528][234]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.23-18.40.53:529][234]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-18.40.53:530][234]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-18.40.53:562][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-18.40.53:615][234]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2022.04.23-18.40.54:024][247]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2022.04.23-18.40.56:235][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Maps/Main_Map" FILE="D:/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/Main_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.23-18.40.56:299][378]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2022.04.23-18.40.57:770][378]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/Main_MapE451CA344A9A5A9679EC78A4FC27F1B0.tmp' to 'D:/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/Main_Map.umap'
+[2022.04.23-18.40.57:824][378]AssetCheck: New page: Asset Save: Main_Map
+[2022.04.23-18.40.57:824][378]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/Main_Map.Main_Map
+[2022.04.23-18.42.29:368][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Maps/Main_Map" FILE="D:/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/Main_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.23-18.42.29:434][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.04.23-18.42.30:880][321]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/Main_MapE04E03884890CCC3E3C324953420ADD7.tmp' to 'D:/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/Main_Map.umap'
+[2022.04.23-18.42.30:928][321]AssetCheck: New page: Asset Save: Main_Map
+[2022.04.23-18.42.30:928][321]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/Main_Map.Main_Map
+[2022.04.23-18.42.32:531][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.04.23-18.42.33:983][415]LogSlate: Window 'Save Content' being destroyed
+[2022.04.23-18.42.34:205][415]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/Checkers7E123B5F43A0AD5F48DE55B66DB07109.tmp' to 'D:/Journeyman_Game/JourneyKart/Content/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Flag/Checkers.uasset'
+[2022.04.23-18.42.34:231][415]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/flag2_PhysicsAsset375341904697C7696682C7A12CECB187.tmp' to 'D:/Journeyman_Game/JourneyKart/Content/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Flag/flag2_PhysicsAsset.uasset'
+[2022.04.23-18.42.34:234][415]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/flag2_Skeleton485EFDA9416DA04F55D95CAC6A225B0D.tmp' to 'D:/Journeyman_Game/JourneyKart/Content/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Flag/flag2_Skeleton.uasset'
+[2022.04.23-18.42.34:249][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modular_Track_Bits/LongTurnTrackNew" FILE="D:/Journeyman_Game/JourneyKart/Content/Modular_Track_Bits/LongTurnTrackNew.uasset" SILENT=true
+[2022.04.23-18.42.34:259][415]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/LongTurnTrackNew2DB25B674E715598AC341BB6E5466691.tmp' to 'D:/Journeyman_Game/JourneyKart/Content/Modular_Track_Bits/LongTurnTrackNew.uasset'
+[2022.04.23-18.42.34:283][415]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/phongE1878245D1450452B0A990DCB5FA7E4EA9.tmp' to 'D:/Journeyman_Game/JourneyKart/Content/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Flag/phongE1.uasset'
+[2022.04.23-18.42.34:299][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modular_Track_Bits/RyansPLantsNew" FILE="D:/Journeyman_Game/JourneyKart/Content/Modular_Track_Bits/RyansPLantsNew.uasset" SILENT=true
+[2022.04.23-18.42.34:308][415]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/RyansPLantsNew623D4DD94FB9E4C78919698D3EE760AC.tmp' to 'D:/Journeyman_Game/JourneyKart/Content/Modular_Track_Bits/RyansPLantsNew.uasset'
+[2022.04.23-18.42.34:324][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modular_Track_Bits/SM_MERGED_Spline_Road_Floor9New" FILE="D:/Journeyman_Game/JourneyKart/Content/Modular_Track_Bits/SM_MERGED_Spline_Road_Floor9New.uasset" SILENT=true
+[2022.04.23-18.42.34:334][415]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/SM_MERGED_Spline_Road_Floor9NewAEC2AFE84B3D1A581DFA9EBF79BF7E02.tmp' to 'D:/Journeyman_Game/JourneyKart/Content/Modular_Track_Bits/SM_MERGED_Spline_Road_Floor9New.uasset'
+[2022.04.23-18.42.34:400][415]LogSlate: Window 'JourneyKart - Unreal Editor' being destroyed
+[2022.04.23-18.42.34:786][415]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.23-18.42.34:786][415]LogContentValidation: Display: Validating Material /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Flag/phongE1.phongE1
+[2022.04.23-18.42.34:786][415]LogContentValidation: Display: Validating StaticMesh /Game/Modular_Track_Bits/LongTurnTrackNew.LongTurnTrackNew
+[2022.04.23-18.42.34:786][415]LogContentValidation: Display: Validating StaticMesh /Game/Modular_Track_Bits/SM_MERGED_Spline_Road_Floor9New.SM_MERGED_Spline_Road_Floor9New
+[2022.04.23-18.42.34:786][415]LogContentValidation: Display: Validating Texture2D /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Flag/Checkers.Checkers
+[2022.04.23-18.42.34:786][415]LogContentValidation: Display: Validating PhysicsAsset /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Flag/flag2_PhysicsAsset.flag2_PhysicsAsset
+[2022.04.23-18.42.34:787][415]LogContentValidation: Display: Validating Skeleton /Game/VehicleBP/LevelDecoratingAssets/GeorgesFolder/Flag/flag2_Skeleton.flag2_Skeleton
+[2022.04.23-18.42.34:787][415]LogContentValidation: Display: Validating StaticMesh /Game/Modular_Track_Bits/RyansPLantsNew.RyansPLantsNew
+[2022.04.23-18.42.34:789][416]Cmd: QUIT_EDITOR
+[2022.04.23-18.42.34:790][416]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.04.23-18.42.34:807][416]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.04.23-18.42.35:377][416]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.04.23-18.42.35:377][416]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.04.23-18.42.35:377][416]LogAudio: Display: Audio Device unregistered from world 'Main_Map'.
+[2022.04.23-18.42.35:377][416]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-18.42.35:381][416]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-18.42.35:457][416]LogAudio: Display: Audio Device Manager Shutdown
+[2022.04.23-18.42.35:472][416]LogExit: Preparing to exit.
+[2022.04.23-18.42.36:087][416]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2022.04.23-18.42.36:535][416]LogDeviceProfile: Device profile begin destroy: [0000024298DF6000] Windows
+[2022.04.23-18.42.36:535][416]LogDeviceProfile: Device profile begin destroy: [0000024298DF6100] Default__DeviceProfile
+[2022.04.23-18.42.36:535][416]LogDeviceProfile: Device profile begin destroy: [0000024298D87A00] WindowsNoEditor
+[2022.04.23-18.42.36:535][416]LogDeviceProfile: Device profile begin destroy: [0000024298DF4500] WindowsServer
+[2022.04.23-18.42.36:535][416]LogDeviceProfile: Device profile begin destroy: [0000024298D84B00] WindowsClient
+[2022.04.23-18.42.36:535][416]LogDeviceProfile: Device profile begin destroy: [0000024298DF7400] IOS
+[2022.04.23-18.42.36:535][416]LogDeviceProfile: Device profile begin destroy: [0000024298D86E00] iPadAir
+[2022.04.23-18.42.36:535][416]LogDeviceProfile: Device profile begin destroy: [0000024298DF5200] iPadAir2
+[2022.04.23-18.42.36:535][416]LogDeviceProfile: Device profile begin destroy: [0000024298D43700] IPadPro
+[2022.04.23-18.42.36:535][416]LogDeviceProfile: Device profile begin destroy: [0000024298D43800] iPadAir3
+[2022.04.23-18.42.36:535][416]LogDeviceProfile: Device profile begin destroy: [0000024298DF6900] iPadAir4
+[2022.04.23-18.42.36:535][416]LogDeviceProfile: Device profile begin destroy: [0000024298D42900] iPadMini2
+[2022.04.23-18.42.36:535][416]LogDeviceProfile: Device profile begin destroy: [0000024298DF4A00] iPadMini3
+[2022.04.23-18.42.36:535][416]LogDeviceProfile: Device profile begin destroy: [0000024298D42E00] iPadMini4
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298DF7000] iPadMini5
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D83000] iPhone6
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D83100] iPodTouch6
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D43400] iPhone7
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D43300] iPodTouch7
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D82600] iPhone5S
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D41700] iPhone6Plus
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D80E00] iPhone6S
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D40E00] iPhone6SPlus
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D82D00] iPhone7Plus
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D43600] iPhoneSE
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D82700] iPhone8
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D41400] iPhone8Plus
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D82400] iPhoneX
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D41800] iPhoneXS
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D80700] iPhoneXSMax
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D40800] iPhoneXR
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D83400] iPhone11
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D43100] iPhone11Pro
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D82300] iPhone11ProMax
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D41900] iPhoneSE2
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D81900] iPhone12Mini
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D40D00] iPhone12
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D80400] iPhone12Pro
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D40700] iPhone12ProMax
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D82900] iPadPro105
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D43900] iPadPro129
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D81700] iPadPro97
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D43B00] iPadPro2_129
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D81000] iPad5
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D43E00] iPad6
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D85100] iPad7
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D82F00] iPad8
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D85E00] iPadPro11
+[2022.04.23-18.42.36:536][416]LogDeviceProfile: Device profile begin destroy: [0000024298D83900] iPadPro2_11
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D85400] iPadPro3_129
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D83F00] iPadPro4_129
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D87900] AppleTV
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D81E00] AppleTV4K
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D84400] TVOS
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D80600] Mac
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D84700] MacClient
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D82000] MacNoEditor
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D84800] MacServer
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D40F00] Linux
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D87700] LinuxAArch64
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D43D00] LinuxNoEditor
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D87C00] LinuxAArch64NoEditor
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D41100] LinuxClient
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D87E00] LinuxAArch64Client
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D42200] LinuxServer
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D86100] LinuxAArch64Server
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D40400] Android
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D85500] Android_Low
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D41000] Android_Mid
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D85200] Android_High
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D41B00] Android_Default
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D86A00] Android_Adreno4xx
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D42600] Android_Adreno5xx_Low
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D84300] Android_Adreno5xx
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D41F00] Android_Adreno6xx
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D85900] Android_Adreno6xx_Vulkan
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D42300] Android_Mali_T6xx
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D84F00] Android_Mali_T7xx
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D42100] Android_Mali_T8xx
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D85C00] Android_Mali_G71
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D40A00] Android_Mali_G72
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D87000] Android_Mali_G72_Vulkan
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D42C00] Android_Mali_G76
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D87800] Android_Mali_G76_Vulkan
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D40200] Android_Mali_G77
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D85700] Android_Mali_G77_Vulkan
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D42A00] Android_Vulkan_SM5
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D84A00] Android_PowerVR_G6xxx
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D42D00] Android_PowerVR_GT7xxx
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D84200] Android_PowerVR_GE8xxx
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D41300] Android_PowerVR_GM9xxx
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D86D00] Android_PowerVR_GM9xxx_Vulkan
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D41600] Android_TegraK1
+[2022.04.23-18.42.36:537][416]LogDeviceProfile: Device profile begin destroy: [0000024298D84E00] Android_Unknown_Vulkan
+[2022.04.23-18.42.36:538][416]LogDeviceProfile: Device profile begin destroy: [0000024298D43200] Lumin
+[2022.04.23-18.42.36:538][416]LogDeviceProfile: Device profile begin destroy: [0000024298D84100] Lumin_Desktop
+[2022.04.23-18.42.36:538][416]LogDeviceProfile: Device profile begin destroy: [0000024298D41A00] HoloLens
+[2022.04.23-18.42.36:579][416]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.23-18.42.36:579][416]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.23-18.42.36:579][416]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.23-18.42.36:579][416]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.23-18.42.36:579][416]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.23-18.42.36:579][416]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.23-18.42.36:579][416]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.23-18.42.36:580][416]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.42.36:582][416]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.42.36:585][416]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.42.36:587][416]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.42.36:589][416]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.42.36:590][416]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.42.36:593][416]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.42.36:596][416]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.42.36:922][416]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.04.23-18.42.37:003][416]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-18.42.37:128][416]LogExit: Editor shut down
+[2022.04.23-18.42.37:140][416]LogExit: Transaction tracking system shut down
+[2022.04.23-18.42.38:813][416]LogExit: Object subsystem successfully closed.
+[2022.04.23-18.42.38:908][416]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.04.23-18.42.39:161][416]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (854)
+[2022.04.23-18.42.39:161][416]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (852)
+[2022.04.23-18.42.39:161][416]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (850)
+[2022.04.23-18.42.39:161][416]LogModuleManager: Shutting down and abandoning module Voice (848)
+[2022.04.23-18.42.39:161][416]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (846)
+[2022.04.23-18.42.39:162][416]LogModuleManager: Shutting down and abandoning module BlueprintGraph (844)
+[2022.04.23-18.42.39:162][416]LogModuleManager: Shutting down and abandoning module SequencerWidgets (842)
+[2022.04.23-18.42.39:163][416]LogModuleManager: Shutting down and abandoning module PinnedCommandList (840)
+[2022.04.23-18.42.39:163][416]LogModuleManager: Shutting down and abandoning module SkeletonEditor (838)
+[2022.04.23-18.42.39:163][416]LogModuleManager: Shutting down and abandoning module AnimationEditor (836)
+[2022.04.23-18.42.39:163][416]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (834)
+[2022.04.23-18.42.39:174][416]LogModuleManager: Shutting down and abandoning module SceneOutliner (832)
+[2022.04.23-18.42.39:174][416]LogModuleManager: Shutting down and abandoning module AddContentDialog (830)
+[2022.04.23-18.42.39:258][416]LogModuleManager: Shutting down and abandoning module WidgetCarousel (829)
+[2022.04.23-18.42.39:258][416]LogModuleManager: Shutting down and abandoning module EditorWidgets (826)
+[2022.04.23-18.42.39:258][416]LogModuleManager: Shutting down and abandoning module StatsViewer (824)
+[2022.04.23-18.42.39:260][416]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (822)
+[2022.04.23-18.42.39:261][416]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (820)
+[2022.04.23-18.42.39:261][416]LogModuleManager: Shutting down and abandoning module AutomationWorker (818)
+[2022.04.23-18.42.39:263][416]LogModuleManager: Shutting down and abandoning module SteamVREditor (816)
+[2022.04.23-18.42.39:263][416]LogModuleManager: Shutting down and abandoning module OculusMR (814)
+[2022.04.23-18.42.39:263][416]LogModuleManager: Shutting down and abandoning module GooglePADEditor (812)
+[2022.04.23-18.42.39:263][416]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (810)
+[2022.04.23-18.42.39:263][416]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (808)
+[2022.04.23-18.42.39:266][416]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (806)
+[2022.04.23-18.42.39:267][416]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (804)
+[2022.04.23-18.42.39:269][416]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (802)
+[2022.04.23-18.42.39:270][416]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (800)
+[2022.04.23-18.42.39:270][416]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (798)
+[2022.04.23-18.42.39:270][416]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (796)
+[2022.04.23-18.42.39:270][416]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (794)
+[2022.04.23-18.42.39:270][416]LogModuleManager: Shutting down and abandoning module WebMMedia (792)
+[2022.04.23-18.42.39:271][416]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (790)
+[2022.04.23-18.42.39:273][416]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (788)
+[2022.04.23-18.42.39:274][416]LogModuleManager: Shutting down and abandoning module SequenceRecorder (787)
+[2022.04.23-18.42.39:274][416]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (784)
+[2022.04.23-18.42.39:274][416]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (782)
+[2022.04.23-18.42.39:274][416]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (780)
+[2022.04.23-18.42.39:274][416]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (778)
+[2022.04.23-18.42.39:274][416]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (776)
+[2022.04.23-18.42.39:274][416]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (774)
+[2022.04.23-18.42.39:274][416]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (772)
+[2022.04.23-18.42.39:274][416]LogModuleManager: Shutting down and abandoning module PlanarCut (770)
+[2022.04.23-18.42.39:274][416]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (768)
+[2022.04.23-18.42.39:275][416]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (766)
+[2022.04.23-18.42.39:275][416]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (764)
+[2022.04.23-18.42.39:275][416]LogModuleManager: Shutting down and abandoning module CharacterAI (762)
+[2022.04.23-18.42.39:275][416]LogModuleManager: Shutting down and abandoning module TextureAlignMode (760)
+[2022.04.23-18.42.39:275][416]LogModuleManager: Shutting down and abandoning module BspMode (758)
+[2022.04.23-18.42.39:276][416]LogModuleManager: Shutting down and abandoning module GeometryMode (756)
+[2022.04.23-18.42.39:276][416]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (754)
+[2022.04.23-18.42.39:278][416]LogModuleManager: Shutting down and abandoning module SmartSnapping (752)
+[2022.04.23-18.42.39:278][416]LogModuleManager: Shutting down and abandoning module SessionServices (750)
+[2022.04.23-18.42.39:278][416]LogModuleManager: Shutting down and abandoning module MeshPaint (748)
+[2022.04.23-18.42.39:279][416]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (746)
+[2022.04.23-18.42.39:279][416]LogModuleManager: Shutting down and abandoning module FoliageEdit (744)
+[2022.04.23-18.42.39:280][416]LogModuleManager: Shutting down and abandoning module LandscapeEditor (742)
+[2022.04.23-18.42.39:282][416]LogModuleManager: Shutting down and abandoning module MeshPaintMode (740)
+[2022.04.23-18.42.39:282][416]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (738)
+[2022.04.23-18.42.39:282][416]LogModuleManager: Shutting down and abandoning module ActorPickerMode (736)
+[2022.04.23-18.42.39:282][416]LogModuleManager: Shutting down and abandoning module PlacementMode (734)
+[2022.04.23-18.42.39:282][416]LogModuleManager: Shutting down and abandoning module ViewportSnapping (732)
+[2022.04.23-18.42.39:282][416]LogModuleManager: Shutting down and abandoning module ViewportInteraction (730)
+[2022.04.23-18.42.39:284][416]LogModuleManager: Shutting down and abandoning module ClothPainter (728)
+[2022.04.23-18.42.39:284][416]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (727)
+[2022.04.23-18.42.39:284][416]LogModuleManager: Shutting down and abandoning module LogVisualizer (724)
+[2022.04.23-18.42.39:285][416]LogModuleManager: Shutting down and abandoning module IntroTutorials (722)
+[2022.04.23-18.42.39:287][416]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (721)
+[2022.04.23-18.42.39:288][416]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (718)
+[2022.04.23-18.42.39:288][416]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (716)
+[2022.04.23-18.42.39:288][416]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (714)
+[2022.04.23-18.42.39:288][416]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (713)
+[2022.04.23-18.42.39:557][416]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (710)
+[2022.04.23-18.42.39:557][416]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (708)
+[2022.04.23-18.42.39:557][416]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (706)
+[2022.04.23-18.42.39:557][416]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (704)
+[2022.04.23-18.42.39:557][416]LogModuleManager: Shutting down and abandoning module TraceInsights (702)
+[2022.04.23-18.42.39:562][416]MemoryProfiler: Shutdown
+[2022.04.23-18.42.39:563][416]NetworkingProfiler: Shutdown
+[2022.04.23-18.42.39:563][416]LoadingProfiler: Shutdown
+[2022.04.23-18.42.39:563][416]TimingProfiler: Shutdown
+[2022.04.23-18.42.39:566][416]LogModuleManager: Shutting down and abandoning module TraceServices (701)
+[2022.04.23-18.42.39:568][416]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (698)
+[2022.04.23-18.42.39:568][416]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (696)
+[2022.04.23-18.42.39:568][416]LogModuleManager: Shutting down and abandoning module InputBindingEditor (694)
+[2022.04.23-18.42.39:569][416]LogModuleManager: Shutting down and abandoning module MergeActors (692)
+[2022.04.23-18.42.39:570][416]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (690)
+[2022.04.23-18.42.39:571][416]LogModuleManager: Shutting down and abandoning module LocalizationService (689)
+[2022.04.23-18.42.39:571][416]LogModuleManager: Shutting down and abandoning module HardwareTargeting (686)
+[2022.04.23-18.42.39:571][416]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (684)
+[2022.04.23-18.42.39:571][416]LogModuleManager: Shutting down and abandoning module UndoHistory (682)
+[2022.04.23-18.42.39:572][416]LogModuleManager: Shutting down and abandoning module XmlParser (680)
+[2022.04.23-18.42.39:572][416]LogModuleManager: Shutting down and abandoning module Blutility (678)
+[2022.04.23-18.42.39:572][416]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (676)
+[2022.04.23-18.42.39:572][416]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (675)
+[2022.04.23-18.42.39:573][416]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (672)
+[2022.04.23-18.42.39:573][416]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (671)
+[2022.04.23-18.42.39:574][416]LogModuleManager: Shutting down and abandoning module SettingsEditor (668)
+[2022.04.23-18.42.39:574][416]LogModuleManager: Shutting down and abandoning module ProjectLauncher (666)
+[2022.04.23-18.42.39:575][416]LogModuleManager: Shutting down and abandoning module SessionFrontend (664)
+[2022.04.23-18.42.39:576][416]LogModuleManager: Shutting down and abandoning module ProfilerClient (662)
+[2022.04.23-18.42.39:576][416]LogModuleManager: Shutting down and abandoning module DeviceManager (660)
+[2022.04.23-18.42.39:577][416]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (659)
+[2022.04.23-18.42.39:610][416]LogModuleManager: Shutting down and abandoning module AutomationController (656)
+[2022.04.23-18.42.39:610][416]LogModuleManager: Shutting down and abandoning module AutomationWindow (654)
+[2022.04.23-18.42.39:611][416]LogModuleManager: Shutting down and abandoning module Layers (652)
+[2022.04.23-18.42.39:613][416]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (650)
+[2022.04.23-18.42.39:613][416]LogModuleManager: Shutting down and abandoning module DetailCustomizations (648)
+[2022.04.23-18.42.39:614][416]LogModuleManager: Shutting down and abandoning module PackagesDialog (646)
+[2022.04.23-18.42.39:614][416]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (644)
+[2022.04.23-18.42.39:616][416]LogModuleManager: Shutting down and abandoning module Persona (642)
+[2022.04.23-18.42.39:616][416]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (641)
+[2022.04.23-18.42.39:616][416]LogModuleManager: Shutting down and abandoning module AnimGraph (639)
+[2022.04.23-18.42.39:617][416]LogModuleManager: Shutting down and abandoning module Kismet (636)
+[2022.04.23-18.42.39:639][416]LogModuleManager: Shutting down and abandoning module KismetWidgets (635)
+[2022.04.23-18.42.39:639][416]LogModuleManager: Shutting down and abandoning module GraphEditor (632)
+[2022.04.23-18.42.39:640][416]LogModuleManager: Shutting down and abandoning module StructViewer (630)
+[2022.04.23-18.42.39:640][416]LogModuleManager: Shutting down and abandoning module ClassViewer (628)
+[2022.04.23-18.42.39:640][416]LogModuleManager: Shutting down and abandoning module Toolbox (626)
+[2022.04.23-18.42.39:641][416]LogModuleManager: Shutting down and abandoning module ModuleUI (624)
+[2022.04.23-18.42.39:641][416]LogModuleManager: Shutting down and abandoning module OutputLog (622)
+[2022.04.23-18.42.39:670][416]LogModuleManager: Shutting down and abandoning module GammaUI (620)
+[2022.04.23-18.42.39:671][416]LogModuleManager: Shutting down and abandoning module Documentation (618)
+[2022.04.23-18.42.39:673][416]LogModuleManager: Shutting down and abandoning module LiveCoding (616)
+[2022.04.23-18.42.39:674][416]LogModuleManager: Shutting down and abandoning module LevelSequence (614)
+[2022.04.23-18.42.39:674][416]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (612)
+[2022.04.23-18.42.39:674][416]LogModuleManager: Shutting down and abandoning module MovieScene (610)
+[2022.04.23-18.42.39:675][416]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (608)
+[2022.04.23-18.42.39:675][416]LogModuleManager: Shutting down and abandoning module LauncherPlatform (606)
+[2022.04.23-18.42.39:675][416]LogModuleManager: Shutting down and abandoning module AnalyticsET (604)
+[2022.04.23-18.42.39:675][416]LogModuleManager: Shutting down and abandoning module PortalServices (602)
+[2022.04.23-18.42.39:675][416]LogModuleManager: Shutting down and abandoning module PortalRpc (600)
+[2022.04.23-18.42.39:675][416]LogModuleManager: Shutting down and abandoning module MessagingRpc (598)
+[2022.04.23-18.42.39:675][416]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (596)
+[2022.04.23-18.42.39:675][416]LogModuleManager: Shutting down and abandoning module AudioMixerCore (595)
+[2022.04.23-18.42.39:675][416]LogModuleManager: Shutting down and abandoning module AIModule (592)
+[2022.04.23-18.42.39:676][416]LogModuleManager: Shutting down and abandoning module GameplayDebugger (591)
+[2022.04.23-18.42.39:676][416]LogModuleManager: Shutting down and abandoning module AITestSuite (589)
+[2022.04.23-18.42.39:676][416]LogModuleManager: Shutting down and abandoning module NavigationSystem (587)
+[2022.04.23-18.42.39:676][416]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (584)
+[2022.04.23-18.42.39:676][416]LogModuleManager: Shutting down and abandoning module ProfilerService (582)
+[2022.04.23-18.42.39:890][416]LogModuleManager: Shutting down and abandoning module TaskGraph (580)
+[2022.04.23-18.42.39:892][416]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (578)
+[2022.04.23-18.42.39:892][416]LogModuleManager: Shutting down and abandoning module MegascansPlugin (576)
+[2022.04.23-18.42.39:892][416]LogModuleManager: Shutting down and abandoning module OculusEditor (574)
+[2022.04.23-18.42.39:892][416]LogModuleManager: Shutting down and abandoning module OculusInput (572)
+[2022.04.23-18.42.39:892][416]LogModuleManager: Shutting down and abandoning module SQLiteSupport (570)
+[2022.04.23-18.42.39:892][416]LogModuleManager: Shutting down and abandoning module DatabaseSupport (568)
+[2022.04.23-18.42.39:892][416]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (566)
+[2022.04.23-18.42.39:892][416]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (564)
+[2022.04.23-18.42.39:892][416]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (562)
+[2022.04.23-18.42.39:892][416]LogModuleManager: Shutting down and abandoning module CollectionManager (561)
+[2022.04.23-18.42.39:894][416]LogModuleManager: Shutting down and abandoning module SynthesisEditor (558)
+[2022.04.23-18.42.39:894][416]LogModuleManager: Shutting down and abandoning module Synthesis (556)
+[2022.04.23-18.42.39:895][416]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (554)
+[2022.04.23-18.42.39:895][416]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (552)
+[2022.04.23-18.42.39:895][416]LogModuleManager: Shutting down and abandoning module ScreenshotTools (550)
+[2022.04.23-18.42.39:895][416]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (548)
+[2022.04.23-18.42.39:895][416]LogModuleManager: Shutting down and abandoning module GooglePAD (546)
+[2022.04.23-18.42.39:895][416]LogModuleManager: Shutting down and abandoning module CableComponent (544)
+[2022.04.23-18.42.39:895][416]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (542)
+[2022.04.23-18.42.39:895][416]LogModuleManager: Shutting down and abandoning module EditableMesh (540)
+[2022.04.23-18.42.39:895][416]LogModuleManager: Shutting down and abandoning module AudioCapture (538)
+[2022.04.23-18.42.39:895][416]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (537)
+[2022.04.23-18.42.39:895][416]LogModuleManager: Shutting down and abandoning module AssetTags (534)
+[2022.04.23-18.42.39:895][416]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (532)
+[2022.04.23-18.42.39:895][416]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (530)
+[2022.04.23-18.42.39:895][416]LogModuleManager: Shutting down and abandoning module AppleImageUtils (528)
+[2022.04.23-18.42.39:895][416]LogModuleManager: Shutting down and abandoning module AndroidPermission (526)
+[2022.04.23-18.42.39:895][416]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (524)
+[2022.04.23-18.42.39:896][416]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (522)
+[2022.04.23-18.42.39:896][416]LogModuleManager: Shutting down and abandoning module TemplateSequence (520)
+[2022.04.23-18.42.39:896][416]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (518)
+[2022.04.23-18.42.39:896][416]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (516)
+[2022.04.23-18.42.39:896][416]LogModuleManager: Shutting down and abandoning module UObjectPlugin (514)
+[2022.04.23-18.42.39:896][416]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (512)
+[2022.04.23-18.42.39:898][416]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (510)
+[2022.04.23-18.42.39:898][416]LogModuleManager: Shutting down and abandoning module PluginUtils (508)
+[2022.04.23-18.42.39:898][416]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (506)
+[2022.04.23-18.42.39:900][416]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (504)
+[2022.04.23-18.42.39:902][416]LogModuleManager: Shutting down and abandoning module GitSourceControl (502)
+[2022.04.23-18.42.39:904][416]LogModuleManager: Shutting down and abandoning module SourceControl (501)
+[2022.04.23-18.42.39:904][416]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (498)
+[2022.04.23-18.42.39:905][416]LogModuleManager: Shutting down and abandoning module MediaCompositing (496)
+[2022.04.23-18.42.39:905][416]LogModuleManager: Shutting down and abandoning module ImgMedia (494)
+[2022.04.23-18.42.39:905][416]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (492)
+[2022.04.23-18.42.39:905][416]LogModuleManager: Shutting down and abandoning module RawInput (490)
+[2022.04.23-18.42.39:915][416]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (488)
+[2022.04.23-18.42.39:915][416]LogModuleManager: Shutting down and abandoning module MotoSynth (486)
+[2022.04.23-18.42.39:915][416]LogModuleManager: Shutting down and abandoning module MeshConversion (484)
+[2022.04.23-18.42.39:916][416]LogModuleManager: Shutting down and abandoning module DynamicMesh (482)
+[2022.04.23-18.42.39:916][416]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (480)
+[2022.04.23-18.42.39:917][416]LogModuleManager: Shutting down and abandoning module GeometricObjects (478)
+[2022.04.23-18.42.39:917][416]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (476)
+[2022.04.23-18.42.39:917][416]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (475)
+[2022.04.23-18.42.39:917][416]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (472)
+[2022.04.23-18.42.39:918][416]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (470)
+[2022.04.23-18.42.39:918][416]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (468)
+[2022.04.23-18.42.39:918][416]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (466)
+[2022.04.23-18.42.39:918][416]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (464)
+[2022.04.23-18.42.39:918][416]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (462)
+[2022.04.23-18.42.39:918][416]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (460)
+[2022.04.23-18.42.39:918][416]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (458)
+[2022.04.23-18.42.39:918][416]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (456)
+[2022.04.23-18.42.39:918][416]LogModuleManager: Shutting down and abandoning module ChaosNiagara (454)
+[2022.04.23-18.42.39:918][416]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (452)
+[2022.04.23-18.42.39:918][416]LogModuleManager: Shutting down and abandoning module FractureEditor (450)
+[2022.04.23-18.42.39:918][416]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (449)
+[2022.04.23-18.42.39:918][416]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (446)
+[2022.04.23-18.42.39:918][416]LogModuleManager: Shutting down and abandoning module BackChannel (444)
+[2022.04.23-18.42.39:919][416]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (442)
+[2022.04.23-18.42.39:919][416]LogModuleManager: Shutting down and abandoning module AutomationUtils (440)
+[2022.04.23-18.42.39:919][416]LogModuleManager: Shutting down and abandoning module AlembicImporter (438)
+[2022.04.23-18.42.39:919][416]LogModuleManager: Shutting down and abandoning module AlembicLibrary (437)
+[2022.04.23-18.42.39:919][416]LogModuleManager: Shutting down and abandoning module GeometryCache (436)
+[2022.04.23-18.42.39:919][416]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (435)
+[2022.04.23-18.42.39:919][416]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (430)
+[2022.04.23-18.42.39:919][416]LogModuleManager: Shutting down and abandoning module PluginBrowser (428)
+[2022.04.23-18.42.39:921][416]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (426)
+[2022.04.23-18.42.39:922][416]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (424)
+[2022.04.23-18.42.39:923][416]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (422)
+[2022.04.23-18.42.39:923][416]LogModuleManager: Shutting down and abandoning module CurveEditorTools (420)
+[2022.04.23-18.42.39:924][416]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (418)
+[2022.04.23-18.42.39:925][416]LogModuleManager: Shutting down and abandoning module CryptoKeys (416)
+[2022.04.23-18.42.39:925][416]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (414)
+[2022.04.23-18.42.39:927][416]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (412)
+[2022.04.23-18.42.39:927][416]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (410)
+[2022.04.23-18.42.39:928][416]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (408)
+[2022.04.23-18.42.39:928][416]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (406)
+[2022.04.23-18.42.39:928][416]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (404)
+[2022.04.23-18.42.39:929][416]LogModuleManager: Shutting down and abandoning module Paper2DEditor (402)
+[2022.04.23-18.42.39:930][416]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (400)
+[2022.04.23-18.42.39:931][416]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (398)
+[2022.04.23-18.42.39:931][416]LogModuleManager: Shutting down and abandoning module SQLiteCore (396)
+[2022.04.23-18.42.39:932][416]LogModuleManager: Shutting down and abandoning module SoundFields (394)
+[2022.04.23-18.42.39:932][416]LogModuleManager: Shutting down and abandoning module SignificanceManager (392)
+[2022.04.23-18.42.39:932][416]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (390)
+[2022.04.23-18.42.39:932][416]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (388)
+[2022.04.23-18.42.39:933][416]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (386)
+[2022.04.23-18.42.39:933][416]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (382)
+[2022.04.23-18.42.39:933][416]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (380)
+[2022.04.23-18.42.39:933][416]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (378)
+[2022.04.23-18.42.39:933][416]LogModuleManager: Shutting down and abandoning module ActorSequence (376)
+[2022.04.23-18.42.39:933][416]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (374)
+[2022.04.23-18.42.39:933][416]LogModuleManager: Shutting down and abandoning module UdpMessaging (372)
+[2022.04.23-18.42.40:035][416]LogModuleManager: Shutting down and abandoning module TcpMessaging (370)
+[2022.04.23-18.42.40:136][416]LogModuleManager: Shutting down and abandoning module AnimationSharing (368)
+[2022.04.23-18.42.40:136][416]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (366)
+[2022.04.23-18.42.40:137][416]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (364)
+[2022.04.23-18.42.40:137][416]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (362)
+[2022.04.23-18.42.40:137][416]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (360)
+[2022.04.23-18.42.40:137][416]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (358)
+[2022.04.23-18.42.40:137][416]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (356)
+[2022.04.23-18.42.40:137][416]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.04.23-18.42.40:138][416]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (354)
+[2022.04.23-18.42.40:138][416]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (352)
+[2022.04.23-18.42.40:138][416]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (350)
+[2022.04.23-18.42.40:138][416]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (348)
+[2022.04.23-18.42.40:139][416]LogModuleManager: Shutting down and abandoning module MagicLeapController (346)
+[2022.04.23-18.42.40:141][416]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.04.23-18.42.40:141][416]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (344)
+[2022.04.23-18.42.40:141][416]LogModuleManager: Shutting down and abandoning module MagicLeapAR (342)
+[2022.04.23-18.42.40:141][416]LogModuleManager: Shutting down and abandoning module AugmentedReality (341)
+[2022.04.23-18.42.40:142][416]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (338)
+[2022.04.23-18.42.40:142][416]LogModuleManager: Shutting down and abandoning module FacialAnimation (336)
+[2022.04.23-18.42.40:142][416]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (334)
+[2022.04.23-18.42.40:142][416]LogModuleManager: Shutting down and abandoning module DataValidation (332)
+[2022.04.23-18.42.40:142][416]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (330)
+[2022.04.23-18.42.40:143][416]LogModuleManager: Shutting down and abandoning module LevelEditor (329)
+[2022.04.23-18.42.40:146][416]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (328)
+[2022.04.23-18.42.40:147][416]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (326)
+[2022.04.23-18.42.40:147][416]LogModuleManager: Shutting down and abandoning module MainFrame (324)
+[2022.04.23-18.42.40:147][416]LogModuleManager: Shutting down and abandoning module HotReload (323)
+[2022.04.23-18.42.40:148][416]LogModuleManager: Shutting down and abandoning module ToolMenus (319)
+[2022.04.23-18.42.40:149][416]LogModuleManager: Shutting down and abandoning module ContentBrowser (317)
+[2022.04.23-18.42.40:149][416]LogModuleManager: Shutting down and abandoning module ContentBrowserData (316)
+[2022.04.23-18.42.40:149][416]LogModuleManager: Shutting down and abandoning module TreeMap (313)
+[2022.04.23-18.42.40:149][416]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (310)
+[2022.04.23-18.42.40:149][416]LogModuleManager: Shutting down and abandoning module Niagara (308)
+[2022.04.23-18.42.40:150][416]LogModuleManager: Shutting down and abandoning module SignalProcessing (307)
+[2022.04.23-18.42.40:150][416]LogModuleManager: Shutting down and abandoning module NiagaraEditor (305)
+[2022.04.23-18.42.40:152][416]LogModuleManager: Shutting down and abandoning module NiagaraCore (302)
+[2022.04.23-18.42.40:152][416]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (300)
+[2022.04.23-18.42.40:155][416]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (298)
+[2022.04.23-18.42.40:155][416]LogModuleManager: Shutting down and abandoning module Paper2D (296)
+[2022.04.23-18.42.40:155][416]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (294)
+[2022.04.23-18.42.40:230][416]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (292)
+[2022.04.23-18.42.40:230][416]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (290)
+[2022.04.23-18.42.40:230][416]LogModuleManager: Shutting down and abandoning module PacketHandler (288)
+[2022.04.23-18.42.40:230][416]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (286)
+[2022.04.23-18.42.40:230][416]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (284)
+[2022.04.23-18.42.40:231][416]LogModuleManager: Shutting down and abandoning module MediaAssets (282)
+[2022.04.23-18.42.40:231][416]LogModuleManager: Shutting down and abandoning module Overlay (280)
+[2022.04.23-18.42.40:231][416]LogModuleManager: Shutting down and abandoning module OverlayEditor (279)
+[2022.04.23-18.42.40:231][416]LogModuleManager: Shutting down and abandoning module VREditor (276)
+[2022.04.23-18.42.40:231][416]LogModuleManager: Shutting down and abandoning module StringTableEditor (274)
+[2022.04.23-18.42.40:232][416]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (272)
+[2022.04.23-18.42.40:232][416]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (270)
+[2022.04.23-18.42.40:233][416]LogModuleManager: Shutting down and abandoning module FunctionalTesting (268)
+[2022.04.23-18.42.40:234][416]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (266)
+[2022.04.23-18.42.40:235][416]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (265)
+[2022.04.23-18.42.40:238][416]LogModuleManager: Shutting down and abandoning module UMG (262)
+[2022.04.23-18.42.40:238][416]LogModuleManager: Shutting down and abandoning module UMGEditor (261)
+[2022.04.23-18.42.40:240][416]LogModuleManager: Shutting down and abandoning module MessageLog (259)
+[2022.04.23-18.42.40:240][416]LogModuleManager: Shutting down and abandoning module SlateReflector (254)
+[2022.04.23-18.42.40:244][416]LogModuleManager: Shutting down and abandoning module Slate (252)
+[2022.04.23-18.42.40:245][416]LogModuleManager: Shutting down and abandoning module SlateCore (250)
+[2022.04.23-18.42.40:246][416]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (248)
+[2022.04.23-18.42.40:246][416]LogModuleManager: Shutting down and abandoning module UnrealEd (246)
+[2022.04.23-18.42.40:246][416]LogModuleManager: Shutting down and abandoning module MRMesh (244)
+[2022.04.23-18.42.40:246][416]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (242)
+[2022.04.23-18.42.40:246][416]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (240)
+[2022.04.23-18.42.40:247][416]LogModuleManager: Shutting down and abandoning module XAudio2 (238)
+[2022.04.23-18.42.40:247][416]LogModuleManager: Shutting down and abandoning module Networking (236)
+[2022.04.23-18.42.40:247][416]LogModuleManager: Shutting down and abandoning module Core (234)
+[2022.04.23-18.42.40:247][416]LogModuleManager: Shutting down and abandoning module MaterialEditor (232)
+[2022.04.23-18.42.40:247][416]LogModuleManager: Shutting down and abandoning module MovieSceneTools (230)
+[2022.04.23-18.42.40:249][416]LogModuleManager: Shutting down and abandoning module CurveEditor (229)
+[2022.04.23-18.42.40:251][416]LogModuleManager: Shutting down and abandoning module Sequencer (227)
+[2022.04.23-18.42.40:253][416]LogModuleManager: Shutting down and abandoning module EditorStyle (226)
+[2022.04.23-18.42.40:261][416]LogModuleManager: Shutting down and abandoning module KismetCompiler (222)
+[2022.04.23-18.42.40:261][416]LogModuleManager: Shutting down and abandoning module MeshBuilder (220)
+[2022.04.23-18.42.40:261][416]LogModuleManager: Shutting down and abandoning module MeshUtilities (218)
+[2022.04.23-18.42.40:261][416]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (217)
+[2022.04.23-18.42.40:262][416]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (216)
+[2022.04.23-18.42.40:262][416]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (215)
+[2022.04.23-18.42.40:262][416]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (213)
+[2022.04.23-18.42.40:263][416]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (211)
+[2022.04.23-18.42.40:265][416]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (209)
+[2022.04.23-18.42.40:266][416]LogModuleManager: Shutting down and abandoning module MaterialBaking (205)
+[2022.04.23-18.42.40:266][416]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (200)
+[2022.04.23-18.42.40:266][416]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2022.04.23-18.42.40:267][416]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2022.04.23-18.42.40:268][416]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (195)
+[2022.04.23-18.42.40:269][416]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (193)
+[2022.04.23-18.42.40:270][416]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2022.04.23-18.42.40:270][416]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2022.04.23-18.42.40:271][416]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (187)
+[2022.04.23-18.42.40:272][416]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (185)
+[2022.04.23-18.42.40:272][416]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (183)
+[2022.04.23-18.42.40:272][416]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (181)
+[2022.04.23-18.42.40:272][416]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (179)
+[2022.04.23-18.42.40:272][416]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (177)
+[2022.04.23-18.42.40:274][416]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (175)
+[2022.04.23-18.42.40:274][416]LogModuleManager: Shutting down and abandoning module ImageWrapper (174)
+[2022.04.23-18.42.40:274][416]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (171)
+[2022.04.23-18.42.40:274][416]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (169)
+[2022.04.23-18.42.40:274][416]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (167)
+[2022.04.23-18.42.40:274][416]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (165)
+[2022.04.23-18.42.40:274][416]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (163)
+[2022.04.23-18.42.40:274][416]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (161)
+[2022.04.23-18.42.40:274][416]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (159)
+[2022.04.23-18.42.40:274][416]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (157)
+[2022.04.23-18.42.40:293][416]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (155)
+[2022.04.23-18.42.40:293][416]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (153)
+[2022.04.23-18.42.40:293][416]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (151)
+[2022.04.23-18.42.40:294][416]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (149)
+[2022.04.23-18.42.40:294][416]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (147)
+[2022.04.23-18.42.40:322][416]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (145)
+[2022.04.23-18.42.40:323][416]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (143)
+[2022.04.23-18.42.40:323][416]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (141)
+[2022.04.23-18.42.40:323][416]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (139)
+[2022.04.23-18.42.40:324][416]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (137)
+[2022.04.23-18.42.40:324][416]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (135)
+[2022.04.23-18.42.40:324][416]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (133)
+[2022.04.23-18.42.40:324][416]LogModuleManager: Shutting down and abandoning module Messaging (131)
+[2022.04.23-18.42.40:324][416]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (129)
+[2022.04.23-18.42.40:333][416]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (127)
+[2022.04.23-18.42.40:367][416]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (125)
+[2022.04.23-18.42.40:367][416]LogModuleManager: Shutting down and abandoning module InputCore (122)
+[2022.04.23-18.42.40:367][416]LogModuleManager: Shutting down and abandoning module Settings (120)
+[2022.04.23-18.42.40:367][416]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (118)
+[2022.04.23-18.42.40:370][416]LogModuleManager: Shutting down and abandoning module PhysXCooking (116)
+[2022.04.23-18.42.40:370][416]LogModuleManager: Shutting down and abandoning module Chaos (114)
+[2022.04.23-18.42.40:370][416]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (112)
+[2022.04.23-18.42.40:370][416]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (111)
+[2022.04.23-18.42.40:370][416]LogModuleManager: Shutting down and abandoning module AVEncoder (110)
+[2022.04.23-18.42.40:371][416]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (106)
+[2022.04.23-18.42.40:371][416]LogModuleManager: Shutting down and abandoning module SteamVRInput (104)
+[2022.04.23-18.42.40:371][416]LogModuleManager: Shutting down and abandoning module SteamVR (102)
+[2022.04.23-18.42.40:371][416]LogHMD: Freeing OpenVRDLLHandle.
+[2022.04.23-18.42.40:371][416]LogModuleManager: Shutting down and abandoning module OculusHMD (100)
+[2022.04.23-18.42.40:372][416]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.04.23-18.42.40:372][416]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.04.23-18.42.40:372][416]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2022.04.23-18.42.40:372][416]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (90)
+[2022.04.23-18.42.40:372][416]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.04.23-18.42.40:375][416]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.04.23-18.42.40:376][416]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.04.23-18.42.40:390][416]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.04.23-18.42.40:390][416]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.04.23-18.42.40:390][416]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0B55C30B-41FC-FE18-A114-E3913FC0D68F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=36794c514e786a37ee7b679a869a2c56%7C68d9fdab9557485eb4a600114a7c307a%7C524e1cdb-214c-437e-a5e6-be7992e9d22b&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.04.23-18.42.40:391][416]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.04.23-18.42.40:419][416]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.04.23-18.42.40:429][416]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2022.04.23-18.42.40:434][416]LogModuleManager: Shutting down and abandoning module Media (73)
+[2022.04.23-18.42.40:435][416]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2022.04.23-18.42.40:435][416]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2022.04.23-18.42.40:435][416]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2022.04.23-18.42.40:435][416]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2022.04.23-18.42.40:436][416]LogModuleManager: Shutting down and abandoning module ChaosCloth (62)
+[2022.04.23-18.42.40:437][416]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2022.04.23-18.42.40:437][416]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2022.04.23-18.42.40:437][416]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2022.04.23-18.42.40:437][416]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.04.23-18.42.40:437][416]LogModuleManager: Shutting down and abandoning module AISupportModule (52)
+[2022.04.23-18.42.40:437][416]LogModuleManager: Shutting down and abandoning module DesktopPlatform (50)
+[2022.04.23-18.42.40:438][416]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (48)
+[2022.04.23-18.42.40:439][416]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2022.04.23-18.42.40:439][416]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2022.04.23-18.42.40:439][416]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2022.04.23-18.42.40:439][416]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2022.04.23-18.42.40:439][416]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.04.23-18.42.40:440][416]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.04.23-18.42.40:446][416]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.04.23-18.42.40:448][416]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.04.23-18.42.40:448][416]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.04.23-18.42.40:448][416]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.04.23-18.42.40:448][416]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.04.23-18.42.40:455][416]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.04.23-18.42.40:455][416]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.04.23-18.42.40:455][416]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.04.23-18.42.40:455][416]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.04.23-18.42.40:456][416]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.04.23-18.42.40:456][416]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.04.23-18.42.40:456][416]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.04.23-18.42.40:456][416]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.04.23-18.42.40:456][416]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.04.23-18.42.40:457][416]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.04.23-18.42.40:457][416]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.04.23-18.42.40:459][416]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.04.23-18.42.40:461][416]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.04.23-18.42.40:485][416]LogD3D11RHI: Shutdown
+[2022.04.23-18.42.40:485][416]LogD3D11RHI: CleanupD3DDevice
+[2022.04.23-18.42.40:553][416]LogExit: Exiting.
+[2022.04.23-18.42.40:583][416]Log file closed, 04/23/22 19:42:40
