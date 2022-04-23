@@ -1418,3 +1418,476 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2022.04.23-16.10.24:418][891]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Track_Bits/NewVolcanoRotatorNew]
 [2022.04.23-16.10.24:431][891]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/NewVolcanoRotatorNew_Auto177C843F845ED22DB18FE01BB176D2B3A.tmp' to 'D:/Journeyman_Game/JourneyKart/Saved/Autosaves/Game/Modular_Track_Bits/NewVolcanoRotatorNew_Auto1.uasset'
 [2022.04.23-16.10.24:431][891]LogFileHelpers: Auto-saving content packages took 0.289
+[2022.04.23-16.21.16:368][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Maps/Main_Map" FILE="D:/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/Main_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.23-16.21.16:520][458]LogUObjectHash: Compacting FUObjectHashTables data took   9.15ms
+[2022.04.23-16.21.17:979][458]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/Main_MapDE45C80844142E6641C4EEB98EC0FFCF.tmp' to 'D:/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/Main_Map.umap'
+[2022.04.23-16.21.18:024][458]AssetCheck: New page: Asset Save: Main_Map
+[2022.04.23-16.21.18:024][458]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/Main_Map.Main_Map
+[2022.04.23-16.23.16:461][232]LogSlate: Window 'Pick a starting point for your system' being destroyed
+[2022.04.23-16.23.16:505][232]LogContentBrowser: Deferred new asset file creation: NewNiagaraSystem
+[2022.04.23-16.23.16:538][232]LogContentBrowser: Creating deferred item: NewNiagaraSystem
+[2022.04.23-16.23.33:395][235]LogContentBrowser: Attempting asset rename: NewNiagaraSystem -> NewNiagaraSystem
+[2022.04.23-16.23.33:686][235]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.04.23-16.23.33:686][235]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.04.23-16.23.33:686][235]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.04.23-16.23.33:686][235]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.04.23-16.23.33:686][235]LogContentBrowser: End creating deferred item NewNiagaraSystem
+[2022.04.23-16.23.35:434][320]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Stu_Test/FX/NewNiagaraSystem.NewNiagaraSystem
+[2022.04.23-16.23.35:746][320]LogNiagara: Compiling System NiagaraSystem /Game/Stu_Test/FX/NewNiagaraSystem.NewNiagaraSystem took 2.304921 sec (time since issued), 8.280569 sec (combined shader worker time).
+[2022.04.23-16.23.36:114][326]148368_NewNiagaraSystem_MessageLog: System successfully compiled.
+[2022.04.23-16.23.47:995][897]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.04.23-16.23.47:995][897]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.23-16.23.48:072][897]148368_NewNiagaraSystem_MessageLog: System compile status unknown.
+[2022.04.23-16.23.48:831][928]LogNiagara: Compiling System NiagaraSystem /Game/Stu_Test/FX/NewNiagaraSystem.NewNiagaraSystem took 1.120057 sec (time since issued), 1.277428 sec (combined shader worker time).
+[2022.04.23-16.23.50:875][  1]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.04.23-16.23.50:875][  1]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.23-16.23.51:662][ 34]LogNiagara: Compiling System NiagaraSystem /Game/Stu_Test/FX/NewNiagaraSystem.NewNiagaraSystem took 1.034764 sec (time since issued), 1.241078 sec (combined shader worker time).
+[2022.04.23-16.23.53:689][138]148368_NewNiagaraSystem_MessageLog: System successfully compiled.
+[2022.04.23-16.25.57:114][369]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.04.23-16.25.57:115][369]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.23-16.25.57:193][369]148368_NewNiagaraSystem_MessageLog: System compile status unknown.
+[2022.04.23-16.25.57:913][400]LogNiagara: Compiling System NiagaraSystem /Game/Stu_Test/FX/NewNiagaraSystem.NewNiagaraSystem took 1.054677 sec (time since issued), 1.256451 sec (combined shader worker time).
+[2022.04.23-16.26.01:898][610]148368_NewNiagaraSystem_MessageLog: System successfully compiled.
+[2022.04.23-16.26.06:642][851]148368_NewNiagaraSystem_MessageLog: System successfully compiled.
+[2022.04.23-16.26.23:146][698]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.04.23-16.26.23:146][698]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.23-16.26.23:220][698]148368_NewNiagaraSystem_MessageLog: System compile status unknown.
+[2022.04.23-16.26.23:691][719]LogNiagara: Compiling System NiagaraSystem /Game/Stu_Test/FX/NewNiagaraSystem.NewNiagaraSystem took 0.797621 sec (time since issued), 0.996737 sec (combined shader worker time).
+[2022.04.23-16.26.28:043][939]148368_NewNiagaraSystem_MessageLog: System successfully compiled.
+[2022.04.23-16.26.49:704][132]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.04.23-16.26.49:704][132]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.23-16.26.49:777][132]148368_NewNiagaraSystem_MessageLog: System compile status unknown.
+[2022.04.23-16.26.50:077][144]LogNiagara: Compiling System NiagaraSystem /Game/Stu_Test/FX/NewNiagaraSystem.NewNiagaraSystem took 0.619889 sec (time since issued), 0.755027 sec (combined shader worker time).
+[2022.04.23-16.26.54:351][373]148368_NewNiagaraSystem_MessageLog: System successfully compiled.
+[2022.04.23-16.27.50:537][364]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.04.23-16.27.50:537][364]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.23-16.27.50:618][364]148368_NewNiagaraSystem_MessageLog: System compile status unknown.
+[2022.04.23-16.27.51:310][393]LogNiagara: Compiling System NiagaraSystem /Game/Stu_Test/FX/NewNiagaraSystem.NewNiagaraSystem took 1.028326 sec (time since issued), 1.216071 sec (combined shader worker time).
+[2022.04.23-16.27.55:488][605]148368_NewNiagaraSystem_MessageLog: System successfully compiled.
+[2022.04.23-16.28.00:383][846]148368_NewNiagaraSystem_MessageLog: System successfully compiled.
+[2022.04.23-16.30.24:125][601]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.04.23-16.30.24:125][601]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.23-16.30.24:212][601]148368_NewNiagaraSystem_MessageLog: System compile status unknown.
+[2022.04.23-16.30.24:874][628]LogNiagara: Compiling System NiagaraSystem /Game/Stu_Test/FX/NewNiagaraSystem.NewNiagaraSystem took 1.009445 sec (time since issued), 1.209228 sec (combined shader worker time).
+[2022.04.23-16.30.29:183][842]148368_NewNiagaraSystem_MessageLog: System successfully compiled.
+[2022.04.23-16.30.32:095][987]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.04.23-16.30.32:095][987]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.23-16.30.32:835][ 19]LogNiagara: Compiling System NiagaraSystem /Game/Stu_Test/FX/NewNiagaraSystem.NewNiagaraSystem took 0.998615 sec (time since issued), 1.199156 sec (combined shader worker time).
+[2022.04.23-16.30.34:187][ 83]148368_NewNiagaraSystem_MessageLog: System successfully compiled.
+[2022.04.23-16.31.11:178][110]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.23-16.31.11:189][110]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.04.23-16.31.11:189][110]LogPlayLevel: [PlayLevel] Compiling Main_Map before play...
+[2022.04.23-16.31.11:425][110]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2022.04.23-16.31.11:444][110]LogPlayLevel: PlayLevel: Blueprint regeneration took 256 ms (1 blueprints)
+[2022.04.23-16.31.11:444][110]PIE: New page: PIE session: Main_Map (23 Apr 2022, 18:31:11)
+[2022.04.23-16.31.11:446][110]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-16.31.11:705][110]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_46 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.11:705][110]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_45 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.11:705][110]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_44 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.11:705][110]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_43 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.11:705][110]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_63 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.11:705][110]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_42 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.11:706][110]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_41 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.11:706][110]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_66 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.11:706][110]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_40 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.11:706][110]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_65 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.11:706][110]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_39 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.11:706][110]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_38 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.11:706][110]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_69 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.11:706][110]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_37 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.11:716][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.269421s)
+[2022.04.23-16.31.11:718][110]LogAIModule: Creating AISystem for world Main_Map
+[2022.04.23-16.31.11:718][110]LogPlayLevel: PIE: World Init took: (0.001885s)
+[2022.04.23-16.31.11:719][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/Main_Map.Main_Map to /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map (0.271735s)
+[2022.04.23-16.31.11:811][110]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2022.04.23-16.31.11:813][110]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.23-16.31.11:813][110]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.23-16.31.11:813][110]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.23-16.31.11:813][110]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.23-16.31.11:813][110]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.23-16.31.11:813][110]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.23-16.31.11:813][110]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.23-16.31.11:813][110]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.23-16.31.11:813][110]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.23-16.31.11:813][110]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.23-16.31.11:813][110]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.23-16.31.11:820][110]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-16.31.11:820][110]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-16.31.11:835][110]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.04.23-16.31.11:835][110]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.23-16.31.11:835][110]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.23-16.31.11:836][110]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.23-16.31.11:837][110]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.23-16.31.11:837][110]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.23-16.31.11:837][110]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.23-16.31.11:862][110]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.23-16.31.11:862][110]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.23-16.31.11:862][110]LogInit: FAudioDevice initialized.
+[2022.04.23-16.31.11:862][110]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main_Map'.
+[2022.04.23-16.31.11:872][110]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.04.23-16.31.11:893][110]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.23-16.31.11:893][110]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.23-16.31.11:896][110]LogPhysics: Warning: Scale for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Cube_24.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=6.719 Y=0.000 Z=26.094
+[2022.04.23-16.31.11:962][110]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map up for play (max tick rate 0) at 2022.04.23-17.31.11
+[2022.04.23-16.31.11:968][110]LogWorld: Bringing up level for play took: 0.093994
+[2022.04.23-16.31.11:969][110]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.04.23-16.31.11:998][110]PIE: Server logged in
+[2022.04.23-16.31.11:999][110]PIE: Play in editor total start time 0.812 seconds.
+[2022.04.23-16.31.12:873][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-16.31.12:873][134]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-16.31.12:876][134]LogWorld: UWorld::CleanupWorld for Main_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-16.31.12:902][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-16.31.12:915][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.23-16.31.12:926][134]LogNiagaraEditor: onPieEnd
+[2022.04.23-16.31.12:938][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-16.31.13:022][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-16.31.13:041][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-16.31.13:043][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-16.31.13:097][134]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2022.04.23-16.31.13:514][147]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.04.23-16.31.33:215][254]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.23-16.31.33:215][254]PIE: New page: SIE session: Main_Map (23 Apr 2022, 18:31:33)
+[2022.04.23-16.31.33:215][254]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-16.31.33:461][254]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_46 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.33:461][254]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_45 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.33:461][254]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_44 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.33:461][254]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_43 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.33:461][254]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_63 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.33:461][254]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_42 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.33:461][254]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_41 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.33:461][254]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_66 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.33:461][254]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_40 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.33:461][254]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_65 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.33:461][254]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_39 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.33:461][254]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_38 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.33:462][254]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_69 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.33:462][254]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_37 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.31.33:471][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.255716s)
+[2022.04.23-16.31.33:472][254]LogAIModule: Creating AISystem for world Main_Map
+[2022.04.23-16.31.33:473][254]LogPlayLevel: PIE: World Init took: (0.001892s)
+[2022.04.23-16.31.33:473][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/Main_Map.Main_Map to /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map (0.258009s)
+[2022.04.23-16.31.33:563][254]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2022.04.23-16.31.33:568][254]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.04.23-16.31.33:568][254]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.23-16.31.33:568][254]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.23-16.31.33:568][254]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.23-16.31.33:568][254]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.23-16.31.33:568][254]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.23-16.31.33:568][254]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.23-16.31.33:568][254]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.23-16.31.33:568][254]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.23-16.31.33:569][254]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.23-16.31.33:569][254]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.23-16.31.33:574][254]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-16.31.33:574][254]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-16.31.33:587][254]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.04.23-16.31.33:588][254]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.23-16.31.33:588][254]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.23-16.31.33:588][254]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.23-16.31.33:589][254]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.23-16.31.33:589][254]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.23-16.31.33:589][254]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.23-16.31.33:615][254]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.23-16.31.33:615][254]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.23-16.31.33:615][254]LogInit: FAudioDevice initialized.
+[2022.04.23-16.31.33:615][254]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main_Map'.
+[2022.04.23-16.31.33:624][254]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.04.23-16.31.33:645][254]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.23-16.31.33:645][254]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.23-16.31.33:647][254]LogPhysics: Warning: Scale for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Cube_24.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=6.719 Y=0.000 Z=26.094
+[2022.04.23-16.31.33:712][254]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map up for play (max tick rate 0) at 2022.04.23-17.31.33
+[2022.04.23-16.31.33:717][254]LogWorld: Bringing up level for play took: 0.091323
+[2022.04.23-16.31.33:718][254]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.04.23-16.31.33:744][254]PIE: Server logged in
+[2022.04.23-16.31.33:745][254]PIE: Play in editor total start time 0.532 seconds.
+[2022.04.23-16.31.46:700][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.04.23-16.31.46:700][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.23-16.31.46:807][815]148368_NewNiagaraSystem_MessageLog: System compile status unknown.
+[2022.04.23-16.31.47:115][825]LogNiagara: Compiling System NiagaraSystem /Game/Stu_Test/FX/NewNiagaraSystem.NewNiagaraSystem took 0.635285 sec (time since issued), 0.803026 sec (combined shader worker time).
+[2022.04.23-16.31.52:423][ 56]148368_NewNiagaraSystem_MessageLog: System successfully compiled.
+[2022.04.23-16.32.06:556][616]LogBlueprintUserMessages: [Test_Kart3] Mushroom
+[2022.04.23-16.32.07:728][666]LogBlueprintUserMessages: [Test_Kart2] Mushroom
+[2022.04.23-16.32.15:323][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-16.32.15:323][950]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-16.32.15:326][950]LogWorld: UWorld::CleanupWorld for Main_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-16.32.15:353][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-16.32.15:364][950]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.23-16.32.15:376][950]LogNiagaraEditor: onPieEnd
+[2022.04.23-16.32.15:377][950]LogNiagaraEditor: onPieEnd
+[2022.04.23-16.32.15:377][950]LogNiagaraEditor: onPieEnd - has package flags
+[2022.04.23-16.32.15:377][950]LogNiagaraEditor: OnWorldDestroyed - matched up
+[2022.04.23-16.32.15:389][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-16.32.15:487][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-16.32.15:487][950]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-16.32.15:489][950]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-16.32.15:542][950]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2022.04.23-16.32.15:890][963]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.04.23-16.32.49:954][867]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.04.23-16.32.49:954][867]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.23-16.32.50:034][867]148368_NewNiagaraSystem_MessageLog: System compile status unknown.
+[2022.04.23-16.32.50:689][898]LogNiagara: Compiling System NiagaraSystem /Game/Stu_Test/FX/NewNiagaraSystem.NewNiagaraSystem took 0.991171 sec (time since issued), 1.182680 sec (combined shader worker time).
+[2022.04.23-16.32.54:394][108]148368_NewNiagaraSystem_MessageLog: System successfully compiled.
+[2022.04.23-16.33.02:247][521]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.04.23-16.33.02:247][521]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.23-16.33.02:317][521]148368_NewNiagaraSystem_MessageLog: System compile status unknown.
+[2022.04.23-16.33.03:016][555]LogNiagara: Compiling System NiagaraSystem /Game/Stu_Test/FX/NewNiagaraSystem.NewNiagaraSystem took 1.026059 sec (time since issued), 1.201015 sec (combined shader worker time).
+[2022.04.23-16.33.06:685][762]148368_NewNiagaraSystem_MessageLog: System successfully compiled.
+[2022.04.23-16.33.11:476][  3]148368_NewNiagaraSystem_MessageLog: System successfully compiled.
+[2022.04.23-16.33.54:695][202]LogTemp: Repeating last play command: Simulate
+[2022.04.23-16.33.54:706][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.23-16.33.54:706][202]PIE: New page: SIE session: Main_Map (23 Apr 2022, 18:33:54)
+[2022.04.23-16.33.54:706][202]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-16.33.54:964][202]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_46 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.33.54:964][202]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_45 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.33.54:964][202]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_44 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.33.54:964][202]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_43 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.33.54:964][202]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_63 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.33.54:964][202]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_42 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.33.54:964][202]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_41 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.33.54:964][202]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_66 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.33.54:964][202]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_40 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.33.54:964][202]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_65 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.33.54:965][202]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_39 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.33.54:965][202]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_38 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.33.54:965][202]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_69 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.33.54:965][202]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_37 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.33.54:974][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.267588s)
+[2022.04.23-16.33.54:975][202]LogAIModule: Creating AISystem for world Main_Map
+[2022.04.23-16.33.54:976][202]LogPlayLevel: PIE: World Init took: (0.002193s)
+[2022.04.23-16.33.54:977][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/Main_Map.Main_Map to /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map (0.270277s)
+[2022.04.23-16.33.55:069][202]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2022.04.23-16.33.55:083][202]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.04.23-16.33.55:083][202]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.23-16.33.55:083][202]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.23-16.33.55:083][202]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.23-16.33.55:083][202]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.23-16.33.55:083][202]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.23-16.33.55:083][202]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.23-16.33.55:083][202]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.23-16.33.55:083][202]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.23-16.33.55:084][202]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.23-16.33.55:084][202]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.23-16.33.55:089][202]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-16.33.55:089][202]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-16.33.55:104][202]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.04.23-16.33.55:105][202]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.23-16.33.55:105][202]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.23-16.33.55:105][202]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.23-16.33.55:106][202]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.23-16.33.55:106][202]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.23-16.33.55:106][202]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.23-16.33.55:132][202]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.23-16.33.55:132][202]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.23-16.33.55:132][202]LogInit: FAudioDevice initialized.
+[2022.04.23-16.33.55:132][202]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main_Map'.
+[2022.04.23-16.33.55:145][202]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.04.23-16.33.55:167][202]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.23-16.33.55:168][202]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.23-16.33.55:170][202]LogPhysics: Warning: Scale for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Cube_24.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=6.719 Y=0.000 Z=26.094
+[2022.04.23-16.33.55:239][202]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map up for play (max tick rate 0) at 2022.04.23-17.33.55
+[2022.04.23-16.33.55:246][202]LogWorld: Bringing up level for play took: 0.098304
+[2022.04.23-16.33.55:246][202]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.04.23-16.33.55:268][202]PIE: Server logged in
+[2022.04.23-16.33.55:269][202]PIE: Play in editor total start time 0.564 seconds.
+[2022.04.23-16.34.18:525][343]LogBlueprintUserMessages: [Test_Kart_2] Triple_Red_Shell
+[2022.04.23-16.34.21:236][453]LogBlueprintUserMessages: [Test_Kart2] Banana
+[2022.04.23-16.34.35:052][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-16.34.35:052][999]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-16.34.35:056][999]LogWorld: UWorld::CleanupWorld for Main_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-16.34.35:083][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-16.34.35:096][999]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.23-16.34.35:109][999]LogNiagaraEditor: onPieEnd
+[2022.04.23-16.34.35:109][999]LogNiagaraEditor: onPieEnd
+[2022.04.23-16.34.35:109][999]LogNiagaraEditor: onPieEnd - has package flags
+[2022.04.23-16.34.35:109][999]LogNiagaraEditor: OnWorldDestroyed - matched up
+[2022.04.23-16.34.35:122][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-16.34.35:218][999]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.23-16.34.35:218][999]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-16.34.35:220][999]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-16.34.35:248][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-16.34.35:310][999]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2022.04.23-16.34.35:609][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.04.23-16.34.52:674][ 36]LogContentBrowser: Attempting asset rename: NewNiagaraSystem -> LavaHazardFX_VFX
+[2022.04.23-16.34.52:782][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Stu_Test/FX/LavaHazardFX_VFX" FILE="D:/Journeyman_Game/JourneyKart/Content/Stu_Test/FX/LavaHazardFX_VFX.uasset" SILENT=true
+[2022.04.23-16.34.52:914][ 36]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/LavaHazardFX_VFX7E7F3FD74B6AB96FDD49BFAFFE7EE354.tmp' to 'D:/Journeyman_Game/JourneyKart/Content/Stu_Test/FX/LavaHazardFX_VFX.uasset'
+[2022.04.23-16.34.53:119][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2022.04.23-16.34.53:214][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2022.04.23-16.34.53:301][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.04.23-16.34.53:622][ 36]AssetCheck: New page: Asset Save: LavaHazardFX_VFX
+[2022.04.23-16.34.53:622][ 36]LogContentValidation: Display: Validating NiagaraSystem /Game/Stu_Test/FX/LavaHazardFX_VFX.LavaHazardFX_VFX
+[2022.04.23-16.35.31:718][ 11]LogTemp: Repeating last play command: Simulate
+[2022.04.23-16.35.31:729][ 11]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.04.23-16.35.31:730][ 11]LogPlayLevel: [PlayLevel] Compiling Main_Map before play...
+[2022.04.23-16.35.31:956][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2022.04.23-16.35.31:963][ 11]LogPlayLevel: PlayLevel: Blueprint regeneration took 234 ms (1 blueprints)
+[2022.04.23-16.35.31:964][ 11]PIE: New page: SIE session: Main_Map (23 Apr 2022, 18:35:31)
+[2022.04.23-16.35.31:964][ 11]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-16.35.32:217][ 11]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_46 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.35.32:217][ 11]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_45 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.35.32:217][ 11]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_44 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.35.32:217][ 11]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_43 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.35.32:217][ 11]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_63 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.35.32:217][ 11]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_42 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.35.32:218][ 11]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_41 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.35.32:218][ 11]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_66 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.35.32:218][ 11]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_40 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.35.32:218][ 11]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_65 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.35.32:218][ 11]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_39 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.35.32:218][ 11]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_38 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.35.32:218][ 11]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_69 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.35.32:218][ 11]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_37 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.35.32:227][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.263604s)
+[2022.04.23-16.35.32:229][ 11]LogAIModule: Creating AISystem for world Main_Map
+[2022.04.23-16.35.32:229][ 11]LogPlayLevel: PIE: World Init took: (0.002073s)
+[2022.04.23-16.35.32:230][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/Main_Map.Main_Map to /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map (0.266104s)
+[2022.04.23-16.35.32:318][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2022.04.23-16.35.32:319][ 11]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.04.23-16.35.32:319][ 11]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.23-16.35.32:319][ 11]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.23-16.35.32:319][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.23-16.35.32:319][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.23-16.35.32:319][ 11]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.23-16.35.32:319][ 11]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.23-16.35.32:319][ 11]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.23-16.35.32:319][ 11]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.23-16.35.32:320][ 11]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.23-16.35.32:320][ 11]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.23-16.35.32:326][ 11]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-16.35.32:326][ 11]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-16.35.32:341][ 11]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.04.23-16.35.32:341][ 11]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.23-16.35.32:341][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.23-16.35.32:341][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.23-16.35.32:343][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.23-16.35.32:343][ 11]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.23-16.35.32:343][ 11]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.23-16.35.32:368][ 11]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.23-16.35.32:368][ 11]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.23-16.35.32:368][ 11]LogInit: FAudioDevice initialized.
+[2022.04.23-16.35.32:369][ 11]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main_Map'.
+[2022.04.23-16.35.32:381][ 11]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.04.23-16.35.32:402][ 11]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.23-16.35.32:402][ 11]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.23-16.35.32:405][ 11]LogPhysics: Warning: Scale for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Cube_24.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=6.719 Y=0.000 Z=26.094
+[2022.04.23-16.35.32:472][ 11]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map up for play (max tick rate 0) at 2022.04.23-17.35.32
+[2022.04.23-16.35.32:479][ 11]LogWorld: Bringing up level for play took: 0.095181
+[2022.04.23-16.35.32:479][ 11]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.04.23-16.35.32:500][ 11]PIE: Server logged in
+[2022.04.23-16.35.32:501][ 11]PIE: Play in editor total start time 0.773 seconds.
+[2022.04.23-16.35.41:094][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-16.35.41:094][388]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-16.35.41:097][388]LogWorld: UWorld::CleanupWorld for Main_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-16.35.41:124][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-16.35.41:133][388]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.23-16.35.41:145][388]LogNiagaraEditor: onPieEnd
+[2022.04.23-16.35.41:145][388]LogNiagaraEditor: onPieEnd
+[2022.04.23-16.35.41:145][388]LogNiagaraEditor: onPieEnd - has package flags
+[2022.04.23-16.35.41:145][388]LogNiagaraEditor: OnWorldDestroyed - matched up
+[2022.04.23-16.35.41:158][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-16.35.41:239][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-16.35.41:243][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-16.35.41:244][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-16.35.41:313][388]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2022.04.23-16.35.41:689][401]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.04.23-16.37.22:885][782]LogTemp: Repeating last play command: Simulate
+[2022.04.23-16.37.22:898][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.23-16.37.22:898][782]PIE: New page: SIE session: Main_Map (23 Apr 2022, 18:37:22)
+[2022.04.23-16.37.22:898][782]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-16.37.23:149][782]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_46 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.37.23:150][782]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_45 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.37.23:150][782]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_44 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.37.23:150][782]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_43 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.37.23:150][782]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_63 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.37.23:150][782]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_42 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.37.23:150][782]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_41 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.37.23:150][782]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_66 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.37.23:150][782]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_40 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.37.23:150][782]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_65 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.37.23:150][782]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_39 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.37.23:150][782]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_38 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.37.23:150][782]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_69 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.37.23:150][782]LogTexture: Error: Texture2D /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Landscape_0.Texture2D_37 contains no miplevels! Please delete. (Format: 0)
+[2022.04.23-16.37.23:160][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.261530s)
+[2022.04.23-16.37.23:161][782]LogAIModule: Creating AISystem for world Main_Map
+[2022.04.23-16.37.23:162][782]LogPlayLevel: PIE: World Init took: (0.002146s)
+[2022.04.23-16.37.23:163][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/Main_Map.Main_Map to /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map (0.264280s)
+[2022.04.23-16.37.23:254][782]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2022.04.23-16.37.23:265][782]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.04.23-16.37.23:265][782]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.23-16.37.23:265][782]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.23-16.37.23:265][782]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.23-16.37.23:265][782]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.23-16.37.23:265][782]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.23-16.37.23:265][782]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.23-16.37.23:265][782]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.23-16.37.23:265][782]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.23-16.37.23:266][782]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.23-16.37.23:266][782]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.23-16.37.23:271][782]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.23-16.37.23:271][782]LogAudioMixer: Display: 1: FrontRight
+[2022.04.23-16.37.23:288][782]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.04.23-16.37.23:289][782]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.23-16.37.23:289][782]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.23-16.37.23:289][782]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.23-16.37.23:291][782]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.23-16.37.23:291][782]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.23-16.37.23:291][782]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.23-16.37.23:316][782]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.23-16.37.23:316][782]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.23-16.37.23:316][782]LogInit: FAudioDevice initialized.
+[2022.04.23-16.37.23:316][782]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main_Map'.
+[2022.04.23-16.37.23:327][782]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.04.23-16.37.23:349][782]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.23-16.37.23:349][782]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.23-16.37.23:352][782]LogPhysics: Warning: Scale for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map:PersistentLevel.Cube_24.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=6.719 Y=0.000 Z=26.094
+[2022.04.23-16.37.23:419][782]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_Main_Map.Main_Map up for play (max tick rate 0) at 2022.04.23-17.37.23
+[2022.04.23-16.37.23:425][782]LogWorld: Bringing up level for play took: 0.095703
+[2022.04.23-16.37.23:425][782]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.04.23-16.37.23:446][782]PIE: Server logged in
+[2022.04.23-16.37.23:447][782]PIE: Play in editor total start time 0.55 seconds.
+[2022.04.23-16.37.31:294][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-16.37.31:294][126]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_Main_Map
+[2022.04.23-16.37.31:298][126]LogWorld: UWorld::CleanupWorld for Main_Map, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-16.37.31:325][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-16.37.31:335][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.23-16.37.31:348][126]LogNiagaraEditor: onPieEnd
+[2022.04.23-16.37.31:348][126]LogNiagaraEditor: onPieEnd
+[2022.04.23-16.37.31:348][126]LogNiagaraEditor: onPieEnd - has package flags
+[2022.04.23-16.37.31:349][126]LogNiagaraEditor: OnWorldDestroyed - matched up
+[2022.04.23-16.37.31:362][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-16.37.31:444][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.23-16.37.31:461][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-16.37.31:462][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.23-16.37.31:515][126]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2022.04.23-16.37.31:893][139]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.04.23-16.37.35:502][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Maps/Main_Map" FILE="D:/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/Main_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.23-16.37.35:589][328]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2022.04.23-16.37.37:066][328]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/Main_Map243E86A949FB7B0E74D34493CD359B4B.tmp' to 'D:/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/Main_Map.umap'
+[2022.04.23-16.37.37:118][328]AssetCheck: New page: Asset Save: Main_Map
+[2022.04.23-16.37.37:118][328]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/Main_Map.Main_Map
+[2022.04.23-16.37.46:852][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Maps/Main_Map" FILE="D:/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/Main_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.23-16.37.46:940][790]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2022.04.23-16.37.48:395][790]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/Main_MapEA8D2D65401D60657E2824A0793AA03E.tmp' to 'D:/Journeyman_Game/JourneyKart/Content/VehicleBP/Maps/Main_Map.umap'
+[2022.04.23-16.37.48:448][790]AssetCheck: New page: Asset Save: Main_Map
+[2022.04.23-16.37.48:448][790]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/Main_Map.Main_Map
+[2022.04.23-16.38.12:299][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.04.23-16.38.12:334][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Peach/Peach_Idle" FILE="D:/Journeyman_Game/JourneyKart/Content/Characters/Peach/Peach_Idle.uasset" SILENT=true
+[2022.04.23-16.38.12:549][654]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/Peach_Idle813B8EC043C28ECFB4E033B997049151.tmp' to 'D:/Journeyman_Game/JourneyKart/Content/Characters/Peach/Peach_Idle.uasset'
+[2022.04.23-16.38.12:550][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Peach/Peach_Idle_PhysicsAsset" FILE="D:/Journeyman_Game/JourneyKart/Content/Characters/Peach/Peach_Idle_PhysicsAsset.uasset" SILENT=true
+[2022.04.23-16.38.12:557][654]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/Peach_Idle_PhysicsAssetB5FA9E084B79A41F64B51183785DE8FD.tmp' to 'D:/Journeyman_Game/JourneyKart/Content/Characters/Peach/Peach_Idle_PhysicsAsset.uasset'
+[2022.04.23-16.38.12:576][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Peach/Peach_Idle_Anim" FILE="D:/Journeyman_Game/JourneyKart/Content/Characters/Peach/Peach_Idle_Anim.uasset" SILENT=true
+[2022.04.23-16.38.12:586][654]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/Peach_Idle_AnimB21AA0D64A661053D166F1AB556134B8.tmp' to 'D:/Journeyman_Game/JourneyKart/Content/Characters/Peach/Peach_Idle_Anim.uasset'
+[2022.04.23-16.38.12:587][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modular_Track_Bits/NewVolcanoRotatorNew" FILE="D:/Journeyman_Game/JourneyKart/Content/Modular_Track_Bits/NewVolcanoRotatorNew.uasset" SILENT=true
+[2022.04.23-16.38.12:593][654]LogSavePackage: Moving 'D:/Journeyman_Game/JourneyKart/Saved/NewVolcanoRotatorNew3361CA5D40D15DB08F4E6CB4DD2825FB.tmp' to 'D:/Journeyman_Game/JourneyKart/Content/Modular_Track_Bits/NewVolcanoRotatorNew.uasset'
+[2022.04.23-16.38.12:617][654]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.23-16.38.12:617][654]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Peach/Peach_Idle_Anim.Peach_Idle_Anim
+[2022.04.23-16.38.12:617][654]LogContentValidation: Display: Validating PhysicsAsset /Game/Characters/Peach/Peach_Idle_PhysicsAsset.Peach_Idle_PhysicsAsset
+[2022.04.23-16.38.12:617][654]LogContentValidation: Display: Validating SkeletalMesh /Game/Characters/Peach/Peach_Idle.Peach_Idle
+[2022.04.23-16.38.12:617][654]LogContentValidation: Display: Validating StaticMesh /Game/Modular_Track_Bits/NewVolcanoRotatorNew.NewVolcanoRotatorNew
+[2022.04.23-16.38.16:123][853]LogSlate: Window 'LavaHazardFX_VFX' being destroyed
+[2022.04.23-16.38.16:132][853]LogNiagaraEditor: Warning: Cleanup System view model 00000243753CEB10
+[2022.04.23-16.38.16:151][853]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.04.23-16.38.16:151][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.23-16.38.16:177][853]LogNiagaraEditor: Warning: Cleanup System view model 00000243753CEB10
+[2022.04.23-16.38.16:177][853]LogNiagaraEditor: Warning: Deleting System view model 00000243753CEB10
+[2022.04.23-16.38.16:327][853]LogUObjectHash: Compacting FUObjectHashTables data took   7.50ms
